@@ -27,3 +27,4 @@ Suggested Workflow
 5. Edit updates.plist, add any updates that `autodmg-rss.py` doesn't find, and remove irrelevant updates.
 6. Run `./autodmg-checksum.py updates.plist`.
 7. Use `updates.plist` to update AutoDMG's `UpdateProfiles.plist`, while paying attention to installation order.
+8. Move `UpdateProfiles.plist` into `~/Library/Application Support/AutoDMG` for testing.
