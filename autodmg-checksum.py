@@ -8,7 +8,7 @@ import argparse
 import urllib2
 import hashlib
 import plistlib
-import os.path
+import os
 import datetime
 
 
@@ -27,6 +27,12 @@ def main(argv):
         plist = plistlib.readPlist(args.updates)
     except BaseException as e:
         sys.exit(u"Couldn't read plist: %s" % unicode(e))
+    
+    if not os.path.exists(UPDATE_DIR):
+        try:
+            os.makedirs(UPDATE_DIR)
+        except OSError as e:
+            sys.exit(u"Failed to create %s: %s" % (UPDATE_DIR, unicode(e)))
     
     for name, info in plist[u"Updates"].iteritems():
         print name
