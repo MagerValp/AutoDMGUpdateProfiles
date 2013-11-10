@@ -46,18 +46,27 @@
 		<key>10.9-13A2093</key>
 		<array>
 			<string>iTunes</string>
+			<string>MailUpdate</string>
+			<string>iBooks</string>
+			<string>BookKit</string>
 		</array>
 		<key>10.9-13A3017</key>
 		<array>
 			<string>iTunes</string>
+			<string>MailUpdate</string>
+			<string>iBooks</string>
+			<string>BookKit</string>
 		</array>
 		<key>10.9-13A603</key>
 		<array>
 			<string>iTunes</string>
+			<string>MailUpdate</string>
+			<string>iBooks</string>
+			<string>BookKit</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2013-11-06T07:42:31Z</date>
+	<date>2013-11-10T09:09:03Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>ARD-3.7</key>
@@ -82,6 +91,28 @@
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1664/en_US/AirPortUtility6.3.1.dmg</string>
 		</dict>
+		<key>BookKit</key>
+		<dict>
+			<key>name</key>
+			<string>BookKit Update</string>
+			<key>sha1</key>
+			<string>87700d3df21250be8aafda2d8b63b14b2cc3d1b1</string>
+			<key>size</key>
+			<integer>78492</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
+		</dict>
+		<key>MailUpdate</key>
+		<dict>
+			<key>name</key>
+			<string>Mail Update for Mavericks</string>
+			<key>sha1</key>
+			<string>3d3b5bb0adfc54f107eff39b99592bda40ca54ee</string>
+			<key>size</key>
+			<integer>34032225</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1703/en_US/MailUpdate.dmg</string>
+		</dict>
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
@@ -103,6 +134,17 @@
 			<integer>19648899</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1686/en_US/OSXUpd10.8.5Supp.dmg</string>
+		</dict>
+		<key>iBooks</key>
+		<dict>
+			<key>name</key>
+			<string>iBooks Update</string>
+			<key>sha1</key>
+			<string>9b075180c00fe27f4a7471d7b16f80c6ca370e8f</string>
+			<key>size</key>
+			<integer>14599752</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/iBooksDelta.pkg</string>
 		</dict>
 		<key>iTunes</key>
 		<dict>
