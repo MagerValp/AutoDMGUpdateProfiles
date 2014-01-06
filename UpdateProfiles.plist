@@ -64,7 +64,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2013-12-17T09:33:00Z</date>
+	<date>2014-01-06T10:04:00Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -105,11 +105,11 @@
 			<key>name</key>
 			<string>Safari 6.1.1 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>90f574872d92a9761392f2f702aa999e763958c8</string>
+			<string>a8b761b669e1a380c3155223b330c6665473ca29</string>
 			<key>size</key>
-			<integer>52928251</integer>
+			<integer>52928245</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/14/11/031-0766/81xcvudgdeer5ik4dhdg13an0w8agy27vo/Safari6.1.1MountainLion.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/03/59/031-2518/8hyvmyua1d8wmr8oy6s3wb6e17a1cbj46j/Safari6.1.1MountainLion.pkg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
