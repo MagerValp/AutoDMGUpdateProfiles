@@ -37,19 +37,21 @@
 	<dict>
 		<key>10.8.5-12F2015</key>
 		<array>
-			<string>SafariML</string>
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
 			<string>AirPortUtility</string>
 			<string>AppStoreML</string>
+			<string>SafariML</string>
+			<string>Security2014-001ML</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
-			<string>SafariML</string>
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
 			<string>AirPortUtility</string>
 			<string>AppStoreML</string>
+			<string>SafariML</string>
+			<string>Security2014-001ML</string>
 		</array>
 		<key>10.9.2-13C64</key>
 		<array>
@@ -59,7 +61,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-02-25T21:03:55Z</date>
+	<date>2014-02-25T21:11:09Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -116,6 +118,17 @@
 			<integer>52919854</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/62/03/031-2500/2f1ltblld7rkqg9r419b7uxc7ijggw6v9e/Safari6.1.2MountainLion.pkg</string>
+		</dict>
+		<key>Security2014-001ML</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2014-001 for Mountain Lion</string>
+			<key>sha1</key>
+			<string>227ca2e0060e40835dcc29bfd37cb0e0364912f4</string>
+			<key>size</key>
+			<integer>115827522</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1729/en_US/SecUpd2014-001.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
