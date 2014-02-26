@@ -57,11 +57,10 @@
 		<array>
 			<string>iBooks</string>
 			<string>BookKit</string>
-			<string>iTunes</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-02-25T21:11:09Z</date>
+	<date>2014-02-26T08:11:00Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
