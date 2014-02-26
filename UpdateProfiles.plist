@@ -38,29 +38,30 @@
 		<key>10.8.5-12F2015</key>
 		<array>
 			<string>RemoteDesktopClient</string>
-			<string>iTunes</string>
 			<string>AirPortUtility</string>
 			<string>AppStoreML</string>
 			<string>SafariML</string>
 			<string>Security2014-001ML</string>
+			<string>iTunes</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
 			<string>RemoteDesktopClient</string>
-			<string>iTunes</string>
 			<string>AirPortUtility</string>
 			<string>AppStoreML</string>
 			<string>SafariML</string>
 			<string>Security2014-001ML</string>
+			<string>iTunes</string>
 		</array>
 		<key>10.9.2-13C64</key>
 		<array>
 			<string>iBooks</string>
 			<string>BookKit</string>
+			<string>iTunes</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-02-26T08:11:00Z</date>
+	<date>2014-02-26T19:08:26Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -143,13 +144,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 11.1.4</string>
+			<string>iTunes 11.1.5</string>
 			<key>sha1</key>
-			<string>ffde4658def154edfa479696e40588e9252e7276</string>
+			<string>d731cabbe1f9213491f3169921a45986ac944e58</string>
 			<key>size</key>
-			<integer>231443089</integer>
+			<integer>232682409</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/iTunes11/031-0757.20140122.Res0j/iTunes11.1.4.dmg</string>
+			<string>https://secure-appldnld.apple.com/iTunes11/031-3480.20140225.C1nB2/iTunes11.1.5.dmg</string>
 		</dict>
 	</dict>
 </dict>
