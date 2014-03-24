@@ -4,6 +4,19 @@
 <dict>
 	<key>DeprecatedInstallers</key>
 	<dict>
+		<key>10.7.5-11G63</key>
+		<array>
+			<string>11A511</string>
+			<string>11A511s</string>
+			<string>11B26</string>
+			<string>11B2118</string>
+			<string>11C74</string>
+			<string>11D50</string>
+			<string>11D50b</string>
+			<string>11D50d</string>
+			<string>11E53</string>
+			<string>11G56</string>
+		</array>
 		<key>10.8.5-12F45</key>
 		<array>
 			<string>12A269</string>
@@ -21,63 +34,58 @@
 			<string>12E55</string>
 			<string>12F37</string>
 		</array>
-		<key>10.9.1-13B3116</key>
+		<key>10.9.2-13C64</key>
 		<array>
 			<string>13A2093</string>
 			<string>13A3017</string>
-		</array>
-		<key>10.9.1-13B4116</key>
-		<array>
 			<string>13A4023</string>
-		</array>
-		<key>10.9.1-13B42</key>
-		<array>
 			<string>13A598</string>
 			<string>13A603</string>
+			<string>13B3116</string>
+			<string>13B4116</string>
+			<string>13B42</string>
 		</array>
 	</dict>
 	<key>Profiles</key>
 	<dict>
+		<key>10.7.5-11G63</key>
+		<array>
+			<string>FlashbackRemovalLion</string>
+			<string>MigAsstLion</string>
+			<string>AirPortUtility</string>
+			<string>RemoteDesktopClient</string>
+			<string>Security2014-001Lion</string>
+			<string>iTunes</string>
+			<string>SafariLion</string>
+			<string>AppStoreLion</string>
+		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
-			<string>SafariML</string>
 			<string>RemoteDesktopClient</string>
-			<string>iTunes</string>
 			<string>AirPortUtility</string>
 			<string>AppStoreML</string>
+			<string>SafariML</string>
+			<string>Security2014-001ML</string>
+			<string>iTunes</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
-			<string>SafariML</string>
 			<string>RemoteDesktopClient</string>
-			<string>iTunes</string>
 			<string>AirPortUtility</string>
 			<string>AppStoreML</string>
-		</array>
-		<key>10.9.1-13B3116</key>
-		<array>
-			<string>RemoteDesktopClient</string>
-			<string>iBooks</string>
-			<string>BookKit</string>
+			<string>SafariML</string>
+			<string>Security2014-001ML</string>
 			<string>iTunes</string>
 		</array>
-		<key>10.9.1-13B4116</key>
+		<key>10.9.2-13C64</key>
 		<array>
-			<string>RemoteDesktopClient</string>
-			<string>iBooks</string>
-			<string>BookKit</string>
-			<string>iTunes</string>
-		</array>
-		<key>10.9.1-13B42</key>
-		<array>
-			<string>RemoteDesktopClient</string>
 			<string>iBooks</string>
 			<string>BookKit</string>
 			<string>iTunes</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-02-25T09:25:00Z</date>
+	<date>2014-02-26T19:08:26Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -90,6 +98,17 @@
 			<integer>22480138</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1664/en_US/AirPortUtility6.3.1.dmg</string>
+		</dict>
+		<key>AppStoreLion</key>
+		<dict>
+			<key>name</key>
+			<string>Mac App Store Update</string>
+			<key>sha1</key>
+			<string>c636132638641b027eecd8b0c00186b5b80f9ff1</string>
+			<key>size</key>
+			<integer>4367748</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/10/36/031-1521/hibwdnqmznyahx2tyiu7h40djjz79cwd9c/AppStoreUpdate.pkg</string>
 		</dict>
 		<key>AppStoreML</key>
 		<dict>
@@ -113,6 +132,28 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
 		</dict>
+		<key>FlashbackRemovalLion</key>
+		<dict>
+			<key>name</key>
+			<string>Flashback malware removal tool</string>
+			<key>sha1</key>
+			<string>3c840f5b72773d16be00b30be01e70ce2a2447a6</string>
+			<key>size</key>
+			<integer>554994</integer>
+			<key>url</key>
+			<string> http://support.apple.com/downloads/DL1517/en_US/FlashbackMalwareRemover.dmg</string>
+		</dict>
+		<key>MigAsstLion</key>
+		<dict>
+			<key>name</key>
+			<string>Migration Assistant Update for Mac OS X Lion v1.0</string>
+			<key>sha1</key>
+			<string>dde746ea774aa9568aa5149f787f4207b1f1f131</string>
+			<key>size</key>
+			<integer>5883156</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1695/en_US/LionMigrationAssistant.dmg</string>
+		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
@@ -124,16 +165,49 @@
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1710/en_US/RemoteDesktopClient371.dmg</string>
 		</dict>
+		<key>SafariLion</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 6.1.2 for Lion</string>
+			<key>sha1</key>
+			<string>53eaf905ceb106ca4434db5a082e73c63960338a</string>
+			<key>size</key>
+			<integer>54387756</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/44/38/031-2497/3blyvpewxueavxhatsdf1uescx4lukyenc/Safari6.1.2Lion.pkg</string>
+		</dict>
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 6.1.1 for Mountain Lion</string>
+			<string>Safari 6.1.2 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>a8b761b669e1a380c3155223b330c6665473ca29</string>
+			<string>a8ea5553ea53d4d966c501398ef290bb7e0c8751</string>
 			<key>size</key>
-			<integer>52928245</integer>
+			<integer>52919854</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/03/59/031-2518/8hyvmyua1d8wmr8oy6s3wb6e17a1cbj46j/Safari6.1.1MountainLion.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/62/03/031-2500/2f1ltblld7rkqg9r419b7uxc7ijggw6v9e/Safari6.1.2MountainLion.pkg</string>
+		</dict>
+		<key>Security2014-001Lion</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2014-001 (Lion)</string>
+			<key>sha1</key>
+			<string>57dfb7fdf3a212e68ee6958b8cf82d229b161e0e</string>
+			<key>size</key>
+			<integer>123368930</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1727/en_US/SecUpd2014-001Lion.dmg</string>
+		</dict>
+		<key>Security2014-001ML</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2014-001 for Mountain Lion</string>
+			<key>sha1</key>
+			<string>227ca2e0060e40835dcc29bfd37cb0e0364912f4</string>
+			<key>size</key>
+			<integer>115827522</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1729/en_US/SecUpd2014-001.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
@@ -149,13 +223,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 11.1.4</string>
+			<string>iTunes 11.1.5</string>
 			<key>sha1</key>
-			<string>ffde4658def154edfa479696e40588e9252e7276</string>
+			<string>d731cabbe1f9213491f3169921a45986ac944e58</string>
 			<key>size</key>
-			<integer>231443089</integer>
+			<integer>232682409</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/iTunes11/031-0757.20140122.Res0j/iTunes11.1.4.dmg</string>
+			<string>https://secure-appldnld.apple.com/iTunes11/031-3480.20140225.C1nB2/iTunes11.1.5.dmg</string>
 		</dict>
 	</dict>
 </dict>
