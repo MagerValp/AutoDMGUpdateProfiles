@@ -62,30 +62,31 @@
 		<key>10.8.5-12F2015</key>
 		<array>
 			<string>RemoteDesktopClient</string>
-			<string>AirPortUtility</string>
-			<string>AppStoreML</string>
-			<string>SafariML</string>
-			<string>Security2014-001ML</string>
 			<string>iTunes</string>
+			<string>Security2014-001ML</string>
+			<string>AppStoreML</string>
+			<string>AirPortUtility</string>
+			<string>SafariML</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
 			<string>RemoteDesktopClient</string>
-			<string>AirPortUtility</string>
-			<string>AppStoreML</string>
-			<string>SafariML</string>
-			<string>Security2014-001ML</string>
 			<string>iTunes</string>
+			<string>Security2014-001ML</string>
+			<string>AppStoreML</string>
+			<string>AirPortUtility</string>
+			<string>SafariML</string>
 		</array>
 		<key>10.9.2-13C64</key>
 		<array>
 			<string>iBooks</string>
 			<string>BookKit</string>
+			<string>SafariMavericks</string>
 			<string>iTunes</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-02-26T19:08:26Z</date>
+	<date>2014-04-02T09:08:31Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -179,13 +180,24 @@
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 6.1.2 for Mountain Lion</string>
+			<string>Safari 6.1.3 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>a8ea5553ea53d4d966c501398ef290bb7e0c8751</string>
+			<string>c3e4863589d410c6b6ae823b7239d27098c8f085</string>
 			<key>size</key>
-			<integer>52919854</integer>
+			<integer>52921840</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/62/03/031-2500/2f1ltblld7rkqg9r419b7uxc7ijggw6v9e/Safari6.1.2MountainLion.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/45/61/031-3448/crheap80pu74m9d6e9d0s1o5lpq4njk262/Safari6.1.3MountainLion.pkg</string>
+		</dict>
+		<key>SafariMavericks</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 7.0.3 for Mavericks</string>
+			<key>sha1</key>
+			<string>21f8ffbe650d17ffc2c442f9c9239cff075fd777</string>
+			<key>size</key>
+			<integer>53705354</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/15/41/031-3451/fovoxh8xl01wpditg1tngu3wsl6rdg1ypd/Safari7.0.3Mavericks.pkg</string>
 		</dict>
 		<key>Security2014-001Lion</key>
 		<dict>
