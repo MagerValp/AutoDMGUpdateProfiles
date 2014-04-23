@@ -63,30 +63,31 @@
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
-			<string>Security2014-001ML</string>
 			<string>AppStoreML</string>
 			<string>AirPortUtility</string>
 			<string>SafariML</string>
+			<string>Security2014-002ML</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
-			<string>Security2014-001ML</string>
 			<string>AppStoreML</string>
 			<string>AirPortUtility</string>
 			<string>SafariML</string>
+			<string>Security2014-002ML</string>
 		</array>
 		<key>10.9.2-13C64</key>
 		<array>
 			<string>iBooks</string>
 			<string>BookKit</string>
 			<string>SafariMavericks</string>
+			<string>Security2014-002Mavericks</string>
 			<string>iTunes</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-04-02T09:08:31Z</date>
+	<date>2014-04-23T10:24:00Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -210,16 +211,27 @@
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1727/en_US/SecUpd2014-001Lion.dmg</string>
 		</dict>
-		<key>Security2014-001ML</key>
+		<key>Security2014-002ML</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2014-001 for Mountain Lion</string>
+			<string>Security Update 2014-002 (Mountain Lion)</string>
 			<key>sha1</key>
-			<string>227ca2e0060e40835dcc29bfd37cb0e0364912f4</string>
+			<string>cd60f03a52e03b43a619bbd1f024c205d27876be</string>
 			<key>size</key>
-			<integer>115827522</integer>
+			<integer>135859668</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1729/en_US/SecUpd2014-001.dmg</string>
+			<string>http://support.apple.com/downloads/DL1737/en_US/SecUpd2014-002MtLion.dmg</string>
+		</dict>
+		<key>Security2014-002Mavericks</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2014-002 Mavericks</string>
+			<key>sha1</key>
+			<string>b6b103dedb605bbc97e552f8dc903a47e96cc390</string>
+			<key>size</key>
+			<integer>80493256</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1740/en_US/SecUpd2014-002Mavericks.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
