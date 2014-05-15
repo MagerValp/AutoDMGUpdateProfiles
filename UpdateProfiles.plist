@@ -34,7 +34,7 @@
 			<string>12E55</string>
 			<string>12F37</string>
 		</array>
-		<key>10.9.2-13C64</key>
+		<key>10.9.3-13D65</key>
 		<array>
 			<string>13A2093</string>
 			<string>13A3017</string>
@@ -44,6 +44,7 @@
 			<string>13B3116</string>
 			<string>13B4116</string>
 			<string>13B42</string>
+			<string>13C64</string>
 		</array>
 	</dict>
 	<key>Profiles</key>
@@ -77,17 +78,15 @@
 			<string>SafariML</string>
 			<string>Security2014-002ML</string>
 		</array>
-		<key>10.9.2-13C64</key>
+		<key>10.9.3-13D65</key>
 		<array>
 			<string>iBooks</string>
 			<string>BookKit</string>
-			<string>SafariMavericks</string>
-			<string>Security2014-002Mavericks</string>
 			<string>iTunes</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-04-23T10:24:00Z</date>
+	<date>2014-05-15T19:03:56Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -189,17 +188,6 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/45/61/031-3448/crheap80pu74m9d6e9d0s1o5lpq4njk262/Safari6.1.3MountainLion.pkg</string>
 		</dict>
-		<key>SafariMavericks</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 7.0.3 for Mavericks</string>
-			<key>sha1</key>
-			<string>21f8ffbe650d17ffc2c442f9c9239cff075fd777</string>
-			<key>size</key>
-			<integer>53705354</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/15/41/031-3451/fovoxh8xl01wpditg1tngu3wsl6rdg1ypd/Safari7.0.3Mavericks.pkg</string>
-		</dict>
 		<key>Security2014-001Lion</key>
 		<dict>
 			<key>name</key>
@@ -222,17 +210,6 @@
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1737/en_US/SecUpd2014-002MtLion.dmg</string>
 		</dict>
-		<key>Security2014-002Mavericks</key>
-		<dict>
-			<key>name</key>
-			<string>Security Update 2014-002 Mavericks</string>
-			<key>sha1</key>
-			<string>b6b103dedb605bbc97e552f8dc903a47e96cc390</string>
-			<key>size</key>
-			<integer>80493256</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1740/en_US/SecUpd2014-002Mavericks.dmg</string>
-		</dict>
 		<key>iBooks</key>
 		<dict>
 			<key>name</key>
@@ -247,13 +224,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 11.1.5</string>
+			<string>iTunes 11.2</string>
 			<key>sha1</key>
-			<string>d731cabbe1f9213491f3169921a45986ac944e58</string>
+			<string>3c74f64c4aa4adf6ba6b942b78e2c79bd2847c2d</string>
 			<key>size</key>
-			<integer>232682409</integer>
+			<integer>235131824</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/iTunes11/031-3480.20140225.C1nB2/iTunes11.1.5.dmg</string>
+			<string>https://secure-appldnld.apple.com/iTunes11/031-2405.20140515.Pr43E/iTunes11.2.dmg</string>
 		</dict>
 	</dict>
 </dict>
