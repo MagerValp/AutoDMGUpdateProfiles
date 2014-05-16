@@ -86,7 +86,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-05-15T19:03:56Z</date>
+	<date>2014-05-16T21:17:49Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -226,11 +226,11 @@
 			<key>name</key>
 			<string>iTunes 11.2</string>
 			<key>sha1</key>
-			<string>3c74f64c4aa4adf6ba6b942b78e2c79bd2847c2d</string>
+			<string>60f1c1d33abf3950380d9b239a2249bb5029fdc9</string>
 			<key>size</key>
-			<integer>235131824</integer>
+			<integer>235143184</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/iTunes11/031-2405.20140515.Pr43E/iTunes11.2.dmg</string>
+			<string>https://secure-appldnld.apple.com/iTunes11/031-02947.2014.515.Pp5TG/iTunes11.2.dmg</string>
 		</dict>
 	</dict>
 </dict>
