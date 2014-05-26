@@ -55,7 +55,7 @@
 			<string>MigAsstLion</string>
 			<string>AirPortUtility</string>
 			<string>RemoteDesktopClient</string>
-			<string>Security2014-001Lion</string>
+			<string>Security2014-002Lion</string>
 			<string>iTunes</string>
 			<string>SafariLion</string>
 			<string>AppStoreLion</string>
@@ -87,7 +87,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-05-26T16:26:59Z</date>
+	<date>2014-05-26T17:25:29Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -200,16 +200,16 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/27/18/031-02230/gsknnssco736jswk1fg33dmym5ppgy4d04/Safari7.0.4Mavericks.pkg</string>
 		</dict>
-		<key>Security2014-001Lion</key>
+		<key>Security2014-002Lion</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2014-001 (Lion)</string>
+			<string>Security Update 2014-002 (Lion)</string>
 			<key>sha1</key>
-			<string>57dfb7fdf3a212e68ee6958b8cf82d229b161e0e</string>
+			<string>26e70f01419a63a316e1b96800c2f5a0ee5c91cd</string>
 			<key>size</key>
-			<integer>123368930</integer>
+			<integer>126949545</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1727/en_US/SecUpd2014-001Lion.dmg</string>
+			<string>http://support.apple.com/downloads/DL1738/en_US/SecUpd2014-002Lion.dmg</string>
 		</dict>
 		<key>Security2014-002ML</key>
 		<dict>
