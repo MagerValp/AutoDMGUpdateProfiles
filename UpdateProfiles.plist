@@ -34,7 +34,7 @@
 			<string>12E55</string>
 			<string>12F37</string>
 		</array>
-		<key>10.9.3-13D65</key>
+		<key>10.9.4-13E28</key>
 		<array>
 			<string>13A2093</string>
 			<string>13A3017</string>
@@ -45,6 +45,7 @@
 			<string>13B4116</string>
 			<string>13B42</string>
 			<string>13C64</string>
+			<string>13D65</string>
 		</array>
 	</dict>
 	<key>Profiles</key>
@@ -77,13 +78,6 @@
 			<string>AirPortUtility</string>
 			<string>SafariML</string>
 			<string>Security2014-003ML</string>
-		</array>
-		<key>10.9.3-13D65</key>
-		<array>
-			<string>iBooks</string>
-			<string>BookKit</string>
-			<string>iTunes</string>
-			<string>SafariMav</string>
 		</array>
 		<key>10.9.4-13E28</key>
 		<array>
