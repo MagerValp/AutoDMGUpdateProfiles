@@ -82,6 +82,7 @@
 		<key>10.9.4-13E28</key>
 		<array>
 			<string>iBooks</string>
+			<string>BookKit</string>
 			<string>iTunes</string>
 		</array>
 		<key>10.10-14A238x</key>
