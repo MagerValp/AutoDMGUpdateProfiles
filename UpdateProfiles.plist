@@ -192,17 +192,6 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/29/34/031-03460/678vnpdyxn2w2wb62rtoi0635wcx1qtb60/Safari6.1.5MountainLion.pkg</string>
 		</dict>
-		<key>SafariMav</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 7.0.4 for Mavericks</string>
-			<key>sha1</key>
-			<string>fd296edcf8e81176a4d1c2cb4899aed970be236c</string>
-			<key>size</key>
-			<integer>53713770</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/27/18/031-02230/gsknnssco736jswk1fg33dmym5ppgy4d04/Safari7.0.4Mavericks.pkg</string>
-		</dict>
 		<key>Security2014-002Lion</key>
 		<dict>
 			<key>name</key>
