@@ -50,17 +50,6 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
-		<key>10.7.5-11G63</key>
-		<array>
-			<string>FlashbackRemovalLion</string>
-			<string>MigAsstLion</string>
-			<string>AirPortUtility</string>
-			<string>RemoteDesktopClient</string>
-			<string>Security2014-002Lion</string>
-			<string>iTunes</string>
-			<string>SafariLion</string>
-			<string>AppStoreLion</string>
-		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -90,7 +79,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-07-03T07:51:10Z</date>
+	<date>2014-07-03T07:58:14Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -103,17 +92,6 @@
 			<integer>22480138</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1664/en_US/AirPortUtility6.3.1.dmg</string>
-		</dict>
-		<key>AppStoreLion</key>
-		<dict>
-			<key>name</key>
-			<string>Mac App Store Update</string>
-			<key>sha1</key>
-			<string>c636132638641b027eecd8b0c00186b5b80f9ff1</string>
-			<key>size</key>
-			<integer>4367748</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/10/36/031-1521/hibwdnqmznyahx2tyiu7h40djjz79cwd9c/AppStoreUpdate.pkg</string>
 		</dict>
 		<key>AppStoreML</key>
 		<dict>
@@ -137,28 +115,6 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
 		</dict>
-		<key>FlashbackRemovalLion</key>
-		<dict>
-			<key>name</key>
-			<string>Flashback malware removal tool</string>
-			<key>sha1</key>
-			<string>3c840f5b72773d16be00b30be01e70ce2a2447a6</string>
-			<key>size</key>
-			<integer>554994</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1517/en_US/FlashbackMalwareRemover.dmg</string>
-		</dict>
-		<key>MigAsstLion</key>
-		<dict>
-			<key>name</key>
-			<string>Migration Assistant Update for Mac OS X Lion v1.0</string>
-			<key>sha1</key>
-			<string>dde746ea774aa9568aa5149f787f4207b1f1f131</string>
-			<key>size</key>
-			<integer>5883156</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1695/en_US/LionMigrationAssistant.dmg</string>
-		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
@@ -170,17 +126,6 @@
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1710/en_US/RemoteDesktopClient371.dmg</string>
 		</dict>
-		<key>SafariLion</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 6.1.4 for Lion</string>
-			<key>sha1</key>
-			<string>6a4f10f753a17ca9097547012682707f6aedfd9c</string>
-			<key>size</key>
-			<integer>54412045</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/17/37/031-02224/8gxq9vhxcra3e5adif9fhvafxoefypqvlx/Safari6.1.4Lion.pkg</string>
-		</dict>
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
@@ -191,17 +136,6 @@
 			<integer>52968768</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/29/34/031-03460/678vnpdyxn2w2wb62rtoi0635wcx1qtb60/Safari6.1.5MountainLion.pkg</string>
-		</dict>
-		<key>Security2014-002Lion</key>
-		<dict>
-			<key>name</key>
-			<string>Security Update 2014-002 (Lion)</string>
-			<key>sha1</key>
-			<string>26e70f01419a63a316e1b96800c2f5a0ee5c91cd</string>
-			<key>size</key>
-			<integer>126949545</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1738/en_US/SecUpd2014-002Lion.dmg</string>
 		</dict>
 		<key>Security2014-003ML</key>
 		<dict>
