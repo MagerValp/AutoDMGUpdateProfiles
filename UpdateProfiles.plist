@@ -165,13 +165,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 11.2.2</string>
+			<string>iTunes 11.3</string>
 			<key>sha1</key>
-			<string>517c961fac40d22b10eba9f26c75dc24c114d4a8</string>
+			<string>e9e04d3b59b2713cae3acca88414e589a4add809</string>
 			<key>size</key>
-			<integer>235109296</integer>
+			<integer>239622098</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/iTunes11/031-02990.20140528.GG3ed/iTunes11.2.2.dmg</string>
+			<string>https://secure-appldnld.apple.com/iTunes11/031-01975.20140710.We467/iTunes11.3.dmg</string>
 		</dict>
 	</dict>
 </dict>
