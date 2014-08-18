@@ -50,10 +50,10 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
-		<key>10.10-14A238x</key>
+		<key>10.10-14A299l</key>
 		<array>
 		</array>
-		<key>10.10-14A299l</key>
+		<key>10.10-14A314h</key>
 		<array>
 		</array>
 		<key>10.8.5-12F2015</key>
@@ -82,7 +82,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-08-12T20:20:00Z</date>
+	<date>2014-08-18T08:23:44Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
