@@ -62,8 +62,8 @@
 			<string>iTunes</string>
 			<string>AppStoreML</string>
 			<string>AirPortUtility</string>
-			<string>SafariML</string>
 			<string>Security2014-003ML</string>
+			<string>SafariML</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
@@ -71,18 +71,19 @@
 			<string>iTunes</string>
 			<string>AppStoreML</string>
 			<string>AirPortUtility</string>
-			<string>SafariML</string>
 			<string>Security2014-003ML</string>
+			<string>SafariML</string>
 		</array>
 		<key>10.9.4-13E28</key>
 		<array>
 			<string>iBooks</string>
 			<string>BookKit</string>
 			<string>iTunes</string>
+			<string>SafariMav</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-08-18T08:23:44Z</date>
+	<date>2014-08-19T17:24:12Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -132,13 +133,24 @@
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 6.1.5 for Mountain Lion</string>
+			<string>Safari 6.1.6 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>ba1c488c2bfaff5daaa054b410a300cfb105f237</string>
+			<string>031853a5fba30c9d6261f7aafeebaaa726a89630</string>
 			<key>size</key>
-			<integer>52968768</integer>
+			<integer>52971277</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/29/34/031-03460/678vnpdyxn2w2wb62rtoi0635wcx1qtb60/Safari6.1.5MountainLion.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/31/25/031-05870/tltuwuubmlrc6bwh6vef3allskxrozygit/Safari6.1.6MountainLion.pkg</string>
+		</dict>
+		<key>SafariMav</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 7.0.6 for Mavericks</string>
+			<key>sha1</key>
+			<string>db4336687397bdb2cec7a4c20bf7123f720b7b88</string>
+			<key>size</key>
+			<integer>53755279</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/04/28/031-05873/rjzlqfvr0tjs32raq346nwwv4krfqx6a23/Safari7.0.6Mavericks.pkg</string>
 		</dict>
 		<key>Security2014-003ML</key>
 		<dict>
