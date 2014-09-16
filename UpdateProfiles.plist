@@ -4,14 +4,15 @@
 <dict>
 	<key>DeprecatedInstallers</key>
 	<dict>
-		<key>10.10-14A329r</key>
-		<array>
-			<string>10.10-14A299l</string>
-		</array>
 		<key>10.10-14A343f</key>
 		<array>
 			<string>10.10-14A238x</string>
 			<string>10.10-14A314h</string>
+		</array>
+		<key>10.10-14A361p</key>
+		<array>
+			<string>10.10-14A299l</string>
+			<string>10.10-14A329r</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -59,10 +60,10 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
-		<key>10.10-14A329r</key>
+		<key>10.10-14A343f</key>
 		<array>
 		</array>
-		<key>10.10-14A343f</key>
+		<key>10.10-14A361p</key>
 		<array>
 		</array>
 		<key>10.8.5-12F2015</key>
@@ -92,7 +93,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-09-03T06:33:57Z</date>
+	<date>2014-09-16T08:53:33Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
