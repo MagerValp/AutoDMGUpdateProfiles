@@ -4,15 +4,17 @@
 <dict>
 	<key>DeprecatedInstallers</key>
 	<dict>
-		<key>10.10-14A343f</key>
+		<key>10.10-14A379a</key>
 		<array>
 			<string>10.10-14A238x</string>
 			<string>10.10-14A314h</string>
+			<string>10.10-14A343f</string>
 		</array>
-		<key>10.10-14A361p</key>
+		<key>10.10-14A379b</key>
 		<array>
 			<string>10.10-14A299l</string>
 			<string>10.10-14A329r</string>
+			<string>10.10-14A361p</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -61,10 +63,10 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
-		<key>10.10-14A343f</key>
+		<key>10.10-14A379a</key>
 		<array>
 		</array>
-		<key>10.10-14A361p</key>
+		<key>10.10-14A379b</key>
 		<array>
 		</array>
 		<key>10.8.5-12F2015</key>
