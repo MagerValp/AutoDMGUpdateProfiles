@@ -2,7 +2,7 @@ AutoDMGUpdateProfiles
 =====================
 
 
-This repository contains two utilities to help generate update profiles for [AutoDMG](https://github.com/MagerValp/AutoDMG)
+This repository contains three utilities to help generate update profiles for [AutoDMG](https://github.com/MagerValp/AutoDMG)
 
 
 autodmg-rss.py
@@ -15,6 +15,12 @@ autodmg-checksum.py
 -------------------
 
 `autodmg-checksum.py` takes the plist from `autodmg-rss.py` and downloads each update that doesn't have the sha1 checksum or size set. It also updates the PublicationDate to the current time, and it saves the updates for you in `AutoDMG/Updates`.
+
+
+autodmg-verify.py
+-------------------
+
+`autodmg-verify.py` checks for common errors, such as plist syntax errors, unreferenced updates, or forgetting to update the PublicationDate.
 
 
 Suggested Workflow
