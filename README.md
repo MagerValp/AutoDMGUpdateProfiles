@@ -30,8 +30,10 @@ Suggested Workflow
 2. Run `sudo softwareupdate -l -a`.
 3. Note the updates and the order they appear in.
 4. Run `./autodmg-rss.py updates.plist`.
-5. Edit updates.plist, add any updates that `autodmg-rss.py` doesn't find, and remove irrelevant updates.
-6. Run `./autodmg-checksum.py updates.plist`.
-7. Run `./autodmg-verify.py updates.plist`.
-8. Use `updates.plist` to update AutoDMG's `UpdateProfiles.plist`, while paying attention to installation order.
+5. Use `updates.plist` to update AutoDMG's `UpdateProfiles.plist`, while paying attention to installation order.
+6. Manually add any updates that `autodmg-rss.py` doesn't find, and remove deprecated updates.
+7. Run `./autodmg-checksum.py updates.plist`.
+8. Run `./autodmg-verify.py updates.plist`.
 9. Run `./install.sh` to move `UpdateProfiles.plist` into `~/Library/Application Support/AutoDMG` for testing.
+10. Build an image with updates applied.
+11. Deploy it and verify that no additional updates are required.
