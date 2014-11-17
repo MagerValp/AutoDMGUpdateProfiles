@@ -4,7 +4,7 @@
 <dict>
 	<key>DeprecatedInstallers</key>
 	<dict>
-		<key>10.10-14A389</key>
+		<key>10.10.1-14B25</key>
 		<array>
 			<string>10.10-14A299l</string>
 			<string>10.10-14A329r</string>
@@ -14,6 +14,7 @@
 			<string>10.10-14A314h</string>
 			<string>10.10-14A343f</string>
 			<string>10.10-14A379a</string>
+			<string>10.10-14A389</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -62,7 +63,7 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
-		<key>10.10-14A389</key>
+		<key>10.10.1-14B25</key>
 		<array>
 			<string>iTunes</string>
 		</array>
@@ -94,7 +95,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-10-17T07:13:12Z</date>
+	<date>2014-11-17T19:07:05Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
