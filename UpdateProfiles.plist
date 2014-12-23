@@ -67,6 +67,7 @@
 		<array>
 			<string>iTunes</string>
 			<string>SafariYos</string>
+			<string>NTPUpdateYos</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -76,6 +77,7 @@
 			<string>AirPortUtility</string>
 			<string>Security2014-005ML</string>
 			<string>SafariML</string>
+			<string>NTPUpdateML</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
@@ -85,6 +87,7 @@
 			<string>AirPortUtility</string>
 			<string>Security2014-005ML</string>
 			<string>SafariML</string>
+			<string>NTPUpdateML</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -93,10 +96,11 @@
 			<string>iTunes</string>
 			<string>SafariMav</string>
 			<string>Security2014-005Mav</string>
+			<string>NTPUpdateMav</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2014-12-11T19:07:05Z</date>
+	<date>2014-12-23T09:34:34Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -131,6 +135,39 @@
 			<integer>78492</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
+		</dict>
+		<key>NTPUpdateML</key>
+		<dict>
+			<key>name</key>
+			<string>OS X NTP Security Update:OS X Mountain Lion</string>
+			<key>sha1</key>
+			<string>3104156f06ee67825f89da659e7e30cecbe9f68c</string>
+			<key>size</key>
+			<integer>1937756</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1781/en_US/NTPUpdateMountainLion.dmg</string>
+		</dict>
+		<key>NTPUpdateMav</key>
+		<dict>
+			<key>name</key>
+			<string>OS X NTP Security Update:OS X Mavericks</string>
+			<key>sha1</key>
+			<string>96efac14217d476b368a366fe37f651fbf1b22a7</string>
+			<key>size</key>
+			<integer>2019466</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1783/en_US/NTPUpdateMavericks.dmg</string>
+		</dict>
+		<key>NTPUpdateYos</key>
+		<dict>
+			<key>name</key>
+			<string>OS X NTP Security Update:OS X Yosemite</string>
+			<key>sha1</key>
+			<string>ab95a0cb2a4c9e8be6d5930e5fa943fefb6da1b2</string>
+			<key>size</key>
+			<integer>2056293</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1782/en_US/NTPUpdateYosemite.dmg</string>
 		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
