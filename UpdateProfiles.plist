@@ -137,13 +137,13 @@
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
-			<string>Remote Desktop Client Update 3.8.2</string>
+			<string>Remote Desktop Client Update 3.8.2 v1.1</string>
 			<key>sha1</key>
-			<string>436142f58d5ce80477b420bf6278eb5c96f8e35e</string>
+			<string>ecd973d95cb380a0746f0bcefd0e4e7b9e35ffc1</string>
 			<key>size</key>
-			<integer>7294347</integer>
+			<integer>7294352</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/06/58/031-3227/6kev7r5j5hkkjzvp98gmv78b5rdshndcfs/RemoteDesktopClient.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/44/30/031-17448/n84c1d9rsf7206u0qsaai2hz0rla0fn6nm/RemoteDesktopClient.pkg</string>
 		</dict>
 		<key>SafariML</key>
 		<dict>
