@@ -74,18 +74,18 @@
 			<string>iTunes</string>
 			<string>AppStoreML</string>
 			<string>AirPortUtility</string>
-			<string>SecurityML</string>
 			<string>SafariML</string>
 			<string>RemoteDesktopClient</string>
+			<string>SecurityML</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
 			<string>iTunes</string>
 			<string>AppStoreML</string>
 			<string>AirPortUtility</string>
-			<string>SecurityML</string>
 			<string>SafariML</string>
 			<string>RemoteDesktopClient</string>
+			<string>SecurityML</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -93,12 +93,12 @@
 			<string>BookKit</string>
 			<string>iTunes</string>
 			<string>SafariMav</string>
-			<string>SecurityMav</string>
 			<string>RemoteDesktopClient</string>
+			<string>SecurityMav</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-02-11T23:03:35Z</date>
+	<date>2015-03-10T10:20:15Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -170,24 +170,24 @@
 		<key>SecurityML</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-001 Mountain Lion</string>
+			<string>Security Update 2015-002 Mountain Lion</string>
 			<key>sha1</key>
-			<string>da95f2065ade9ed1886c3ad25bad6c0d1ea12de0</string>
+			<string>19758a6adbcbd27a8d6e6b6d0519b91947d5e0df</string>
 			<key>size</key>
-			<integer>177139104</integer>
+			<integer>177269856</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/11/44/zzz031-11170/4qqiq6yf9jge53941qi4q1m5cykcnh8o9j/SecUpd2015-001MtLion.pkg</string>
+			<string>http://support.apple.com/downloads/DL1798/en_US/SecUpd2015-002MtLion.dmg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-001 Mavericks</string>
+			<string>Security Update 2015-002 Mavericks</string>
 			<key>sha1</key>
-			<string>80be5a2ab9be32d9cba7d361d0fce101dc9cf79a</string>
+			<string>abebc6c979bcd35eab6271899c29e4009de3a173</string>
 			<key>size</key>
-			<integer>61758881</integer>
+			<integer>62298890</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/19/17/zzz031-11172/f2t4z9jv5wngqom86iifqhcp1xrqsnr8e7/SecUpd2015-001Mavericks.pkg</string>
+			<string>http://support.apple.com/downloads/DL1797/en_US/SecUpd2015-002Mavericks.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
