@@ -68,6 +68,7 @@
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
+			<string>SecurityYo</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -98,7 +99,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-03-10T10:20:15Z</date>
+	<date>2015-03-10T13:25:07Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -188,6 +189,17 @@
 			<integer>62298890</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1797/en_US/SecUpd2015-002Mavericks.dmg</string>
+		</dict>
+		<key>SecurityYo</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2015-002 Yosemite</string>
+			<key>sha1</key>
+			<string>d37cdab99470650043fd479ed0bfc27181b260fe</string>
+			<key>size</key>
+			<integer>5433396</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1796/en_US/SecUpd2015-002Yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
