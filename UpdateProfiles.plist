@@ -69,6 +69,7 @@
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
 			<string>SecurityYo</string>
+			<string>SafariYo</string>
 		</array>
 		<key>10.10.2-14C2043</key>
 		<array>
@@ -102,7 +103,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-03-10T14:35:14Z</date>
+	<date>2015-03-18T13:27:47Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -152,24 +153,35 @@
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 6.2.3 for Mountain Lion</string>
+			<string>Safari 6.2.4 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>703a3fbdf7d424abc863b2297b6e996091829098</string>
+			<string>5930a900513318d5f5e48902c29a5065a7953938</string>
 			<key>size</key>
-			<integer>60426742</integer>
+			<integer>60435848</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/54/37/031-10992/mlnex0jsu7f1nougez6txwp7x99p9nd3br/Safari6.2.3MountainLion.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/43/27/031-17825/iwos0451bpdeq74i1biixjq2r7lxmi7ezi/Safari6.2.4MountainLion.pkg</string>
 		</dict>
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 7.1.3 for Mavericks</string>
+			<string>Safari 7.1.4 for Mavericks</string>
 			<key>sha1</key>
-			<string>7f07fed390f6502edf405a84f43e379723f127e5</string>
+			<string>552d1cb11aa5c3a733eb426bbc96a2c0d75cc764</string>
 			<key>size</key>
-			<integer>61054391</integer>
+			<integer>61062012</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/30/44/031-10995/p6d3vvqi0fwg33yjmtsv9h0snd1dtnp0p1/Safari7.1.3Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/54/13/031-17828/4gpelv4z8bjiy2pvtxacg3mghv7w30ou99/Safari7.1.4Mavericks.pkg</string>
+		</dict>
+		<key>SafariYo</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 8.0.4 for Yosemite</string>
+			<key>sha1</key>
+			<string>74b6f6d978321ea7fc4e4a644e6cf8ae7bc355a4</string>
+			<key>size</key>
+			<integer>68878547</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/53/38/031-17831/xm6yjkk13e2axuwutxeq0zsn2s2ppt34d8/Safari8.0.4Yosemite.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
