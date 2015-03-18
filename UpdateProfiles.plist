@@ -151,7 +151,7 @@
 			<key>name</key>
 			<string>Safari 6.2.4 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>10d58dbc7e18ffd4a7d1af95cc28e3f9a8b11759</string>
+			<string>5930a900513318d5f5e48902c29a5065a7953938</string>
 			<key>size</key>
 			<integer>60435848</integer>
 			<key>url</key>
@@ -162,7 +162,7 @@
 			<key>name</key>
 			<string>Safari 7.1.4 for Mavericks</string>
 			<key>sha1</key>
-			<string>d31f2aa1086899ce545f4ea99e4afe21e1c6e66a</string>
+			<string>552d1cb11aa5c3a733eb426bbc96a2c0d75cc764</string>
 			<key>size</key>
 			<integer>61062012</integer>
 			<key>url</key>
@@ -184,7 +184,7 @@
 			<key>name</key>
 			<string>Security Update 2015-002 Mountain Lion</string>
 			<key>sha1</key>
-			<string>a02367296c1201cb3bd7f35c4d184bb3cb6ad7f8</string>
+			<string>21d254e3b98e0f4e5fef74708f7c2add5e1d6172</string>
 			<key>size</key>
 			<integer>176979353</integer>
 			<key>url</key>
@@ -195,7 +195,7 @@
 			<key>name</key>
 			<string>Security Update 2015-002 Mavericks</string>
 			<key>sha1</key>
-			<string>b28018ec18265e7f5f4300d615cc24f8382687d7</string>
+			<string>390b49c6713eb16cb9a62bdc4c80b878a9c5f960</string>
 			<key>size</key>
 			<integer>61734294</integer>
 			<key>url</key>
@@ -206,7 +206,7 @@
 			<key>name</key>
 			<string>Security Update 2015-002 Yosemite</string>
 			<key>sha1</key>
-			<string>cf9899623dd7c5530162f2684dff40cd73409ba8</string>
+			<string>553d936c45b4daa1b1bbda0bd1a95bf37ca57c94</string>
 			<key>size</key>
 			<integer>4808001</integer>
 			<key>url</key>
