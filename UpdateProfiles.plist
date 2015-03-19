@@ -68,38 +68,38 @@
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
-			<string>SecurityYo</string>
 			<string>SafariYo</string>
+			<string>SecurityYo</string>
 		</array>
 		<key>10.10.2-14C2043</key>
 		<array>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
-			<string>iTunes</string>
-			<string>AppStoreML</string>
-			<string>AirPortUtility</string>
 			<string>SafariML</string>
 			<string>RemoteDesktopClient</string>
+			<string>iTunes</string>
+			<string>AirPortUtility</string>
 			<string>SecurityML</string>
+			<string>AppStoreML</string>
 		</array>
 		<key>10.8.5-12F45</key>
 		<array>
-			<string>iTunes</string>
-			<string>AppStoreML</string>
-			<string>AirPortUtility</string>
 			<string>SafariML</string>
 			<string>RemoteDesktopClient</string>
+			<string>iTunes</string>
+			<string>AirPortUtility</string>
 			<string>SecurityML</string>
+			<string>AppStoreML</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
+			<string>RemoteDesktopClient</string>
+			<string>SafariMav</string>
 			<string>iBooks</string>
 			<string>BookKit</string>
-			<string>iTunes</string>
-			<string>SafariMav</string>
-			<string>RemoteDesktopClient</string>
 			<string>SecurityMav</string>
+			<string>iTunes</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
