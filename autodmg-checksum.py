@@ -20,6 +20,8 @@ def main(argv):
                    help=u"Verbose output")
     p.add_argument(u"-n", u"--nosave", action=u"store_true",
                    help=u"Don't save downloaded files to AutoDMG/Updates")
+    p.add_argument(u"-f", u"--force", action=u"store_true",
+                   help=u"Force checksum update")
     p.add_argument(u"updates", help=u"plist with updates")
     args = p.parse_args(argv[1:])
     
@@ -36,7 +38,7 @@ def main(argv):
     
     for name, info in plist[u"Updates"].iteritems():
         print name
-        if (not u"sha1" in info) or (not u"size" in info):
+        if args.force or (not u"sha1" in info) or (not u"size" in info):
             f = urllib2.urlopen(info[u"url"])
             data = f.read()
             m = hashlib.sha1()
