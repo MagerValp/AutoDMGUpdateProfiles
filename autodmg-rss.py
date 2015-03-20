@@ -46,6 +46,8 @@ def main(argv):
         root = feed.getroot()
         for item in root.findall(u"channel/item"):
             name = item.find(u"title").text
+            if name.startswith(u"iOS") or name.startswith(u"iTunes") or u"Windows" in name:
+                continue
             kb_url = item.find(u"link").text
             if args.verbose:
                 print u"Downloading %s" % kb_url
