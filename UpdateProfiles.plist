@@ -70,8 +70,11 @@
 			<string>SafariYo</string>
 			<string>SecurityYo</string>
 		</array>
-		<key>10.10.2-14C2043</key>
+		<key>10.10.2-14C2055</key>
 		<array>
+			<string>RemoteDesktopClient</string>
+			<string>SafariYo</string>
+			<string>SecurityYoEarly2015</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -102,7 +105,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-03-20T08:38:08Z</date>
+	<date>2015-03-20T13:03:54Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -214,6 +217,17 @@
 			<integer>5542439</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1800/en_US/SecUpd2015-003Yosemite.dmg</string>
+		</dict>
+		<key>SecurityYoEarly2015</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2015-003 Yosemite (Early 2015 Mac)</string>
+			<key>sha1</key>
+			<string>7226993d49b5393eeccb3226ddbd1b71599b2963</string>
+			<key>size</key>
+			<integer>5190131</integer>
+			<key>url</key>
+			<string>https://support.apple.com/downloads/DL1799/en_US/SecUpd2015-003YosemiteCPU.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
