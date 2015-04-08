@@ -4,7 +4,7 @@
 <dict>
 	<key>DeprecatedInstallers</key>
 	<dict>
-		<key>10.10.2-14C109</key>
+		<key>10.10.3-14D131</key>
 		<array>
 			<string>10.10-14A299l</string>
 			<string>10.10-14A329r</string>
@@ -16,6 +16,9 @@
 			<string>10.10-14A379a</string>
 			<string>10.10-14A389</string>
 			<string>10.10.1-14B25</string>
+			<string>10.10.2-14C109</string>
+			<string>10.10.2-14C2043</string>
+			<string>10.10.2-14C2055</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -64,23 +67,8 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
-		<key>10.10.2-14C109</key>
+		<key>10.10.3-14D131</key>
 		<array>
-			<string>RemoteDesktopClient</string>
-			<string>SafariYo</string>
-			<string>SecurityYo</string>
-		</array>
-		<key>10.10.2-14C2043</key>
-		<array>
-			<string>RemoteDesktopClient</string>
-			<string>SafariYo</string>
-			<string>SecurityYoEarly2015</string>
-		</array>
-		<key>10.10.2-14C2055</key>
-		<array>
-			<string>RemoteDesktopClient</string>
-			<string>SafariYo</string>
-			<string>SecurityYoEarly2015</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -111,7 +99,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-03-20T15:15:10Z</date>
+	<date>2015-04-08T20:24:01Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -180,17 +168,6 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/54/13/031-17828/4gpelv4z8bjiy2pvtxacg3mghv7w30ou99/Safari7.1.4Mavericks.pkg</string>
 		</dict>
-		<key>SafariYo</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 8.0.4 for Yosemite</string>
-			<key>sha1</key>
-			<string>74b6f6d978321ea7fc4e4a644e6cf8ae7bc355a4</string>
-			<key>size</key>
-			<integer>68878547</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/53/38/031-17831/xm6yjkk13e2axuwutxeq0zsn2s2ppt34d8/Safari8.0.4Yosemite.pkg</string>
-		</dict>
 		<key>SecurityML</key>
 		<dict>
 			<key>name</key>
@@ -212,28 +189,6 @@
 			<integer>62298890</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1797/en_US/SecUpd2015-002Mavericks.dmg</string>
-		</dict>
-		<key>SecurityYo</key>
-		<dict>
-			<key>name</key>
-			<string>Security Update 2015-003 Yosemite</string>
-			<key>sha1</key>
-			<string>b3ab2951a420509debb437e4d47167a3f855100e</string>
-			<key>size</key>
-			<integer>5542439</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1800/en_US/SecUpd2015-003Yosemite.dmg</string>
-		</dict>
-		<key>SecurityYoEarly2015</key>
-		<dict>
-			<key>name</key>
-			<string>Security Update 2015-003 Yosemite (Early 2015 Mac)</string>
-			<key>sha1</key>
-			<string>7226993d49b5393eeccb3226ddbd1b71599b2963</string>
-			<key>size</key>
-			<integer>5190131</integer>
-			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1799/en_US/SecUpd2015-003YosemiteCPU.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
