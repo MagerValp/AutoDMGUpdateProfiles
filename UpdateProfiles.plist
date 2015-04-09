@@ -99,7 +99,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-04-08T20:24:01Z</date>
+	<date>2015-04-09T07:50:03Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -149,46 +149,46 @@
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 6.2.4 for Mountain Lion</string>
+			<string>Safari 6.2.5 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>5930a900513318d5f5e48902c29a5065a7953938</string>
+			<string>6c360e8ebc2a3468393ba4256730ea8346e7af5c</string>
 			<key>size</key>
-			<integer>60435848</integer>
+			<integer>60442392</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/43/27/031-17825/iwos0451bpdeq74i1biixjq2r7lxmi7ezi/Safari6.2.4MountainLion.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/09/09/031-17875/ng0qae18rd0njn5z7aao4l4mc4rjrhga5e/Safari6.2.5MountainLion.pkg</string>
 		</dict>
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 7.1.4 for Mavericks</string>
+			<string>Safari 7.1.5 for Mavericks</string>
 			<key>sha1</key>
-			<string>552d1cb11aa5c3a733eb426bbc96a2c0d75cc764</string>
+			<string>4ea9caf1547a1bffcf7de3d6d95d70a7b4df24db</string>
 			<key>size</key>
-			<integer>61062012</integer>
+			<integer>61079543</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/54/13/031-17828/4gpelv4z8bjiy2pvtxacg3mghv7w30ou99/Safari7.1.4Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/58/35/031-17878/jz2rs8lsz7ux82mb55ohigtf2wcc3sdmvv/Safari7.1.5Mavericks.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-002 Mountain Lion</string>
+			<string>Security Update 2015-004 Mountain Lion </string>
 			<key>sha1</key>
-			<string>19758a6adbcbd27a8d6e6b6d0519b91947d5e0df</string>
+			<string>0592d023741ace5112752215d7a1dd304382fc57</string>
 			<key>size</key>
-			<integer>177269856</integer>
+			<integer>184200146</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1798/en_US/SecUpd2015-002MtLion.dmg</string>
+			<string>http://support.apple.com/downloads/DL1802/en_US/SecUpd2015-004MtLion.dmg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-002 Mavericks</string>
+			<string>Security Update 2015-004 Mavericks</string>
 			<key>sha1</key>
-			<string>abebc6c979bcd35eab6271899c29e4009de3a173</string>
+			<string>495b4a39d8c110858600688e4caa120de99156d8</string>
 			<key>size</key>
-			<integer>62298890</integer>
+			<integer>117749551</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1797/en_US/SecUpd2015-002Mavericks.dmg</string>
+			<string>http://support.apple.com/downloads/DL1803/en_US/SecUpd2015-004Mavericks.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
