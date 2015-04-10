@@ -69,6 +69,7 @@
 	<dict>
 		<key>10.10.3-14D131</key>
 		<array>
+			<string>iTunes</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -99,7 +100,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-04-09T07:50:03Z</date>
+	<date>2015-04-09T21:15:54Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -204,13 +205,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.1</string>
+			<string>iTunes 12.1.2</string>
 			<key>sha1</key>
-			<string>8da2bb4dcf428b68a34d3cd97f13f3ecadec6cca</string>
+			<string>fa2f433e41f30aa2dce9caa4a799b920a0347637</string>
 			<key>size</key>
-			<integer>216622065</integer>
+			<integer>215410580</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-19380.20150128.FcvfF/iTunes12.1.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-19002.20150409.9C24E/iTunes12.1.2.dmg</string>
 		</dict>
 	</dict>
 </dict>
