@@ -71,6 +71,7 @@
 		<key>10.10.3-14D136</key>
 		<array>
 			<string>iTunes</string>
+			<string>SafariYo</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -101,7 +102,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-04-17T08:32:26Z</date>
+	<date>2015-05-07T12:34:50Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -151,24 +152,35 @@
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 6.2.5 for Mountain Lion</string>
+			<string>Safari 6.2.6 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>6c360e8ebc2a3468393ba4256730ea8346e7af5c</string>
+			<string>cca7a986c22776dcbfb0f38566a4a3f5832ca08b</string>
 			<key>size</key>
-			<integer>60442392</integer>
+			<integer>60444044</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/09/09/031-17875/ng0qae18rd0njn5z7aao4l4mc4rjrhga5e/Safari6.2.5MountainLion.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/26/20/031-21287/kb1kdgdo439zffe0nlw8ohh5prc370zm4j/Safari6.2.6MountainLion.pkg</string>
 		</dict>
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 7.1.5 for Mavericks</string>
+			<string>Safari 7.1.6 for Mavericks</string>
 			<key>sha1</key>
-			<string>4ea9caf1547a1bffcf7de3d6d95d70a7b4df24db</string>
+			<string>24c795dd886b17ec095205dc119ee006f7ea59de</string>
 			<key>size</key>
-			<integer>61079543</integer>
+			<integer>61080933</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/58/35/031-17878/jz2rs8lsz7ux82mb55ohigtf2wcc3sdmvv/Safari7.1.5Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/20/34/031-21290/j0vt5o23z4jaontkivr0qql07pz9v5i4y6/Safari7.1.6Mavericks.pkg</string>
+		</dict>
+		<key>SafariYo</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 8.0.6 for Yosemite</string>
+			<key>sha1</key>
+			<string>7f38285421b5e22edbcf512cd6286a14033bbd2c</string>
+			<key>size</key>
+			<integer>69043453</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/42/22/031-21293/ml7kx4su87va03367o4xoxwgddvvpukj0r/Safari8.0.6Yosemite.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
