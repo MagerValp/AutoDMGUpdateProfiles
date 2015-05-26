@@ -68,6 +68,11 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
+		<key>10.10.3-14D2134</key>
+		<array>
+			<string>iTunes</string>
+			<string>SafariYo</string>
+		</array>
 		<key>10.10.3-14D136</key>
 		<array>
 			<string>iTunes</string>
@@ -102,7 +107,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-05-07T12:34:50Z</date>
+	<date>2015-05-26T19:15:50Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
