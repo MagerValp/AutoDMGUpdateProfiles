@@ -75,7 +75,9 @@
 		</array>
 		<key>10.10.3-14D136</key>
 		<array>
+			<string>DCRAW</string>
 			<string>iTunes</string>
+			<string>RemoteDesktopClient</string>
 			<string>SafariYo</string>
 		</array>
 		<key>10.8.5-12F2015</key>
@@ -107,7 +109,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-05-26T19:15:50Z</date>
+	<date>2015-05-27T14:22:10Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -143,16 +145,27 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
 		</dict>
+		<key>DCRAW</key>
+		<dict>
+			<key>name</key>
+			<string>Digital Camera RAW Compatibility Update 6.04</string>
+			<key>sha1</key>
+			<string>a9f0c2fd1f53ed786675419674c02ec3665b8e26</string>
+			<key>size</key>
+			<integer>7680697</integer>
+			<key>url</key>
+			<string>https://support.apple.com/downloads/DL1811/en_US/RAWCameraUpdate6.04.dmg</string>
+		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
-			<string>Remote Desktop Client Update 3.8.2 v1.1</string>
+			<string>Remote Desktop Client Update 3.8.4</string>
 			<key>sha1</key>
-			<string>ecd973d95cb380a0746f0bcefd0e4e7b9e35ffc1</string>
+			<string>45f0b439a8841cc9604e8c0dbaa4f3c171258340</string>
 			<key>size</key>
-			<integer>7294352</integer>
+			<integer>7273865</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/44/30/031-17448/n84c1d9rsf7206u0qsaai2hz0rla0fn6nm/RemoteDesktopClient.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/37/16/031-21283/etbobep7bor00raxv1bf5xkzuu5lqi9fku/RemoteDesktopClient.pkg</string>
 		</dict>
 		<key>SafariML</key>
 		<dict>
