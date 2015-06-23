@@ -6,20 +6,23 @@
 	<dict>
 		<key>10.10.3-14D136</key>
 		<array>
-			<string>10.10-14A299l</string>
-			<string>10.10-14A329r</string>
-			<string>10.10-14A361p</string>
-			<string>10.10-14A379b</string>
-			<string>10.10-14A238x</string>
-			<string>10.10-14A314h</string>
-			<string>10.10-14A343f</string>
-			<string>10.10-14A379a</string>
-			<string>10.10-14A389</string>
-			<string>10.10.1-14B25</string>
-			<string>10.10.2-14C109</string>
-			<string>10.10.2-14C2043</string>
-			<string>10.10.2-14C2055</string>
-			<string>10.10.3-14D131</string>
+			<string>14A299l</string>
+			<string>14A329r</string>
+			<string>14A361p</string>
+			<string>14A379b</string>
+			<string>14A238x</string>
+			<string>14A314h</string>
+			<string>14A343f</string>
+			<string>14A379a</string>
+			<string>14A389</string>
+			<string>14B25</string>
+			<string>14C109</string>
+			<string>14C2043</string>
+			<string>14C2055</string>
+			<string>14D131</string>
+		</array>
+		<key>10.11-15A178w</key>
+		<array>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -68,17 +71,20 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
-		<key>10.10.3-14D2134</key>
-		<array>
-			<string>iTunes</string>
-			<string>SafariYo</string>
-		</array>
 		<key>10.10.3-14D136</key>
 		<array>
 			<string>DCRAW</string>
 			<string>iTunes</string>
 			<string>RemoteDesktopClient</string>
 			<string>SafariYo</string>
+		</array>
+		<key>10.10.3-14D2134</key>
+		<array>
+			<string>iTunes</string>
+			<string>SafariYo</string>
+		</array>
+		<key>10.11-15A178w</key>
+		<array>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -109,7 +115,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-05-27T14:22:10Z</date>
+	<date>2015-06-09T13:24:16Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
