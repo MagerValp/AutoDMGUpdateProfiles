@@ -147,17 +147,17 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
 		</dict>
-+		<key>DCRAW</key>
-+		<dict>
-+			<key>name</key>
-+			<string>Digital Camera RAW Compatibility Update 6.05</string>
-+			<key>sha1</key>
-+			<string>4d316d120658538b64091f177e8f918ebe2c00ef</string>
-+			<key>size</key>
-+			<integer>7795381</integer>
-+			<key>url</key>
-+			<string>https://support.apple.com/downloads/DL1827/en_US/rawcameraupdate6.dmg</string>
-+		</dict>
+		<key>DCRAW</key>
+		<dict>
+			<key>name</key>
+			<string>Digital Camera RAW Compatibility Update 6.05</string>
+			<key>sha1</key>
+			<string>4d316d120658538b64091f177e8f918ebe2c00ef</string>
+			<key>size</key>
+			<integer>7795381</integer>
+			<key>url</key>
+			<string>https://support.apple.com/downloads/DL1827/en_US/rawcameraupdate6.dmg</string>
+		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
