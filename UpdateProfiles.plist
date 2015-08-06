@@ -6,8 +6,6 @@
 	<dict>
 		<key>10.10.4-14E46</key>
 		<array>
-			<string>14D2134</string>
-			<string>14D136</string>
 			<string>14A299l</string>
 			<string>14A329r</string>
 			<string>14A361p</string>
@@ -22,6 +20,8 @@
 			<string>14C2043</string>
 			<string>14C2055</string>
 			<string>14D131</string>
+			<string>14D136</string>
+			<string>14D2134</string>
 		</array>
 		<key>10.11-15A178w</key>
 		<array>
