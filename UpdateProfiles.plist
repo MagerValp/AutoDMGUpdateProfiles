@@ -4,7 +4,7 @@
 <dict>
 	<key>DeprecatedInstallers</key>
 	<dict>
-		<key>10.10.4-14E46</key>
+		<key>10.10.5-14F27</key>
 		<array>
 			<string>14A299l</string>
 			<string>14A329r</string>
@@ -22,6 +22,7 @@
 			<string>14D131</string>
 			<string>14D136</string>
 			<string>14D2134</string>
+			<string>14E46</string>
 		</array>
 		<key>10.11-15A178w</key>
 		<array>
@@ -73,7 +74,7 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
-		<key>10.10.4-14E46</key>
+		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>DCRAW</string>
@@ -111,7 +112,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-07-17T19:20:02Z</date>
+	<date>2015-08-13T19:35:58Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -227,13 +228,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.2.1</string>
+			<string>iTunes 12.2.2</string>
 			<key>sha1</key>
-			<string>ff9c583c17e5ade7534fb6e0a1775cf18f2eff5b</string>
+			<string>2a0ebf28843c7114670b966336f646eab012acf7</string>
 			<key>size</key>
-			<integer>232859041</integer>
+			<integer>233169641</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-27843-20150713-F55B8D2E-28C5-11E5-99A1-13088C430F53/iTunes12.2.1.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-31872-20150813-B2459290-41B7-11E5-A64D-900D11BA098F/iTunes12.2.2.dmg</string>
 		</dict>
 	</dict>
 </dict>
