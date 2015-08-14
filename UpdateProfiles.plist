@@ -195,24 +195,24 @@
 		<key>SecurityML</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-005 Mountain Lion </string>
+			<string>Security Update 2015-006 Mountain Lion </string>
 			<key>sha1</key>
-			<string>f3c138194cacabb58c0bb8ad0a821c0ba8af165a</string>
+			<string>0725e672c933d68f42ca110dab6f7632126034ea</string>
 			<key>size</key>
-			<integer>216550055</integer>
+			<integer>246023088</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1826/en_US/secupd2015-005mtlion.dmg</string>
+			<string>https://support.apple.com/downloads/DL1835/en_US/secupd2015-006mtlion.dmg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-005 Mavericks</string>
+			<string>Security Update 2015-006 Mavericks</string>
 			<key>sha1</key>
-			<string>46b0e7d87d2b21afac7b03ccf09fa1e76595bb4e</string>
+			<string>bcc727faa4bb02e578edf262a6cf76fc5b7c25fb</string>
 			<key>size</key>
-			<integer>168060310</integer>
+			<integer>257158058</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1825/en_US/secupd2015-005mavericks.dmg</string>
+			<string>https://support.apple.com/downloads/DL1834/en_US/secupd2015-006mavericks.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
