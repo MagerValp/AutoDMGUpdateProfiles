@@ -173,24 +173,24 @@
 		<key>SafariML</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 6.2.7 for Mountain Lion</string>
+			<string>Safari 6.2.8 for Mountain Lion</string>
 			<key>sha1</key>
-			<string>7990501ad7a6bd0234106fe0722890eaa1ab0b62</string>
+			<string>d9974f11bc9a2f4f6999fba47cdf447aa1c7c4f2</string>
 			<key>size</key>
-			<integer>60491427</integer>
+			<integer>60503493</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/15/59/031-21808/qylh17vrdgnipjibo2avj3nbw8y2pzeito/Safari6.2.7MountainLion.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/45/36/031-28342/piu9tsargpvuaxdnlhf1s0dulnxiuxc8ee/Safari6.2.8MountainLion.pkg</string>
 		</dict>
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 7.1.7 for Mavericks</string>
+			<string>Safari 7.1.8 for Mavericks</string>
 			<key>sha1</key>
-			<string>def0b4c722fd9a73e32d9d115e672ed5de132d47</string>
+			<string>41b65dec65f1825ed46baf7cb81459a3941c6561</string>
 			<key>size</key>
-			<integer>61121569</integer>
+			<integer>61136894</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/53/32/031-21811/yy87w772g3sy39agd76ro7xirstgwlpgvw/Safari7.1.7Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/59/33/031-28345/vywohd6l5y80md897mas9u1zy3ur7d6idc/Safari7.1.8Mavericks.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
