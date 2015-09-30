@@ -24,8 +24,9 @@
 			<string>14D2134</string>
 			<string>14E46</string>
 		</array>
-		<key>10.11-15A282b</key>
+		<key>10.11-15A284</key>
 		<array>
+		    	<string>15A282b</string>
 			<string>15A263e</string>
 			<string>15A178w</string>
 		</array>
@@ -82,7 +83,7 @@
 			<string>DCRAW</string>
 			<string>iTunes</string>
 		</array>
-		<key>10.11-15A282b</key>
+		<key>10.11-15A284</key>
 		<array>
 			<string>iTunes</string>
 		</array>
@@ -115,7 +116,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-09-17T05:57:47Z</date>
+	<date>2015-09-30T14:22:47Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
