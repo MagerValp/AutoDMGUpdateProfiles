@@ -82,6 +82,7 @@
 			<string>RemoteDesktopClient</string>
 			<string>DCRAW</string>
 			<string>iTunes</string>
+			<string>SafariYo</string>
 		</array>
 		<key>10.11-15A284</key>
 		<array>
@@ -115,7 +116,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-09-30T22:30:37Z</date>
+	<date>2015-10-01T09:45:52Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -187,13 +188,24 @@
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 7.1.8 for Mavericks</string>
+			<string>Safari 9.0 for Mavericks</string>
 			<key>sha1</key>
-			<string>41b65dec65f1825ed46baf7cb81459a3941c6561</string>
+			<string>b3fd3f6a4fb4bb4f24f6d0c8bf1a2138e86a9bd7</string>
 			<key>size</key>
-			<integer>61136894</integer>
+			<integer>62836111</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/59/33/031-28345/vywohd6l5y80md897mas9u1zy3ur7d6idc/Safari7.1.8Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/26/06/031-20807/nja1lesa5fy2fx9texqbg61ub6ajinh8lx/Safari9.0Mavericks.pkg</string>
+		</dict>
+		<key>SafariYo</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 9.0 for Yosemite</string>
+			<key>sha1</key>
+			<string>b3d4db69deef2d6fb74deb5cd2f47d521110a29c</string>
+			<key>size</key>
+			<integer>85388245</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/19/23/031-20810/n1y3vqy11x9mgkv96hqjbauim9r3y4qmwr/Safari9.0Yosemite.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
