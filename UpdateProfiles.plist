@@ -86,6 +86,7 @@
 		</array>
 		<key>10.11-15A284</key>
 		<array>
+			<string>iTunes</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -116,7 +117,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-10-01T09:45:52Z</date>
+	<date>2015-10-02T09:29:29Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
