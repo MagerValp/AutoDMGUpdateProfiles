@@ -80,13 +80,13 @@
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
-			<string>DCRAW</string>
 			<string>iTunes</string>
 			<string>SafariYo</string>
 		</array>
 		<key>10.11-15A284</key>
 		<array>
 			<string>iTunes</string>
+			<string>DCRAW</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -117,7 +117,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-10-02T09:29:29Z</date>
+	<date>2015-10-20T14:44:07Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -156,13 +156,13 @@
 		<key>DCRAW</key>
 		<dict>
 			<key>name</key>
-			<string>Digital Camera RAW Compatibility Update 6.06</string>
+			<string>Digital Camera RAW Compatibility Update 6.17</string>
 			<key>sha1</key>
-			<string>c376c3f853dbf056672a2b4fac36464bf1e0a595</string>
+			<string>2d1e5875cdfecde5354368865a6f06c9b9b66aea</string>
 			<key>size</key>
-			<integer>7824050</integer>
+			<integer>7930553</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1838/en_US/RAWCameraUpdate6.dmg</string>
+			<string>https://support.apple.com/downloads/DL1844/en_US/rawcameraupdate6.dmg</string>
 		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
