@@ -24,12 +24,13 @@
 			<string>14D2134</string>
 			<string>14E46</string>
 		</array>
-		<key>10.11.1-15B42</key>
+		<key>10.11.2-15C50</key>
 		<array>
 			<string>15A178w</string>
 			<string>15A263e</string>
 			<string>15A282b</string>
 			<string>15A284</string>
+			<string>15B42</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -85,11 +86,8 @@
 			<string>SafariYo</string>
 			<string>SecurityYo</string>
 		</array>
-		<key>10.11.1-15B42</key>
-		<array>
-			<string>iTunes</string>
-			<string>DCRAW</string>
-		</array>
+		<key>10.11.2-15C50</key>
+		<array/>
 		<key>10.8.5-12F2015</key>
 		<array>
 			<string>SafariML</string>
@@ -119,7 +117,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-10-22T13:15:52Z</date>
+	<date>2015-12-08T18:35:33Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -154,17 +152,6 @@
 			<integer>78492</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
-		</dict>
-		<key>DCRAW</key>
-		<dict>
-			<key>name</key>
-			<string>Digital Camera RAW Compatibility Update 6.17</string>
-			<key>sha1</key>
-			<string>2d1e5875cdfecde5354368865a6f06c9b9b66aea</string>
-			<key>size</key>
-			<integer>7930553</integer>
-			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1844/en_US/rawcameraupdate6.dmg</string>
 		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
