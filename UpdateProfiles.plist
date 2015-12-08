@@ -117,7 +117,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-12-08T18:35:33Z</date>
+	<date>2015-12-08T20:23:40Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -178,24 +178,24 @@
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.0.1 for Mavericks</string>
+			<string>Safari 9.0.2 for Mavericks</string>
 			<key>sha1</key>
-			<string>3b1be0dab209ed086d065218b8c0dcaa35413f82</string>
+			<string>cb0c2612badacd07afcafa903beb1d38fa3e5d59</string>
 			<key>size</key>
-			<integer>62692751</integer>
+			<integer>62701202</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/43/22/031-34805/mh8hd16jlji8dglecud7y4hj9uxdjlwd38/Safari9.0.1Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/39/34/031-38514/pvjdpqb67964fc4k9gbjeeoqf6lwfp5q6p/Safari9.0.2Mavericks.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.0.1 for Yosemite</string>
+			<string>Safari 9.0.2 for Yosemite</string>
 			<key>sha1</key>
-			<string>8a15d48c94d7b04f89cb3b3faff0dfcc8f7c1859</string>
+			<string>9ddfe2dc6e2d1932530a22b0f4fe89c5f0ee5bd0</string>
 			<key>size</key>
-			<integer>85405995</integer>
+			<integer>85425546</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/41/44/031-34808/tvl6cc1s49tnt817tyrgsr40dlm4i3cvev/Safari9.0.1Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/44/07/031-38517/l74jms6c3uz4p9i7456o2ldyyrd1ctdgya/Safari9.0.2Yosemite.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
