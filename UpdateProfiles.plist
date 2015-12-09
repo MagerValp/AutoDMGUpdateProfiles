@@ -117,7 +117,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-12-08T20:23:40Z</date>
+	<date>2015-12-09T11:51:49Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -211,24 +211,24 @@
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-007 Mavericks</string>
+			<string>Security Update 2015-008 Mavericks</string>
 			<key>sha1</key>
-			<string>075fd645c791ec8c8448e81868e1ff6ff2c2e176</string>
+			<string>3ff0da4241c153660ed885c9eb2f6979ea693bc0</string>
 			<key>size</key>
-			<integer>266224247</integer>
+			<integer>288225736</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1846/en_US/secupd2015-007mavericks.dmg</string>
+			<string>http://support.apple.com/downloads/DL1853/en_US/secupd2015-008mavericks.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-004 Yosemite</string>
+			<string>Security Update 2015-005 Yosemite</string>
 			<key>sha1</key>
-			<string>8954568c5062fa6213ecad98ee42cfe422b8ff86</string>
+			<string>505d5a997efefc5e5940e90a4af2bec91c1873d0</string>
 			<key>size</key>
-			<integer>334707669</integer>
+			<integer>369008004</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1847/en_US/secupd2015-004yosemite.dmg</string>
+			<string>https://support.apple.com/downloads/DL1852/en_US/secupd2015-005yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
