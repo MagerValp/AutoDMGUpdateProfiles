@@ -24,13 +24,13 @@
 			<string>14D2134</string>
 			<string>14E46</string>
 		</array>
-		<key>10.11-15A284</key>
+		<key>10.11.2-15C50</key>
 		<array>
-			<string>15A282b</string>
-			<string>15A263e</string>
 			<string>15A178w</string>
 			<string>15A263e</string>
 			<string>15A282b</string>
+			<string>15A284</string>
+			<string>15B42</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -84,11 +84,10 @@
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
 			<string>SafariYo</string>
+			<string>SecurityYo</string>
 		</array>
-		<key>10.11-15A284</key>
+		<key>10.11.2-15C50</key>
 		<array>
-			<string>iTunes</string>
-			<string>DCRAW</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -119,7 +118,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-10-20T14:44:07Z</date>
+	<date>2015-12-09T11:51:49Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -155,17 +154,6 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
 		</dict>
-		<key>DCRAW</key>
-		<dict>
-			<key>name</key>
-			<string>Digital Camera RAW Compatibility Update 6.17</string>
-			<key>sha1</key>
-			<string>2d1e5875cdfecde5354368865a6f06c9b9b66aea</string>
-			<key>size</key>
-			<integer>7930553</integer>
-			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1844/en_US/rawcameraupdate6.dmg</string>
-		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
@@ -191,40 +179,24 @@
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.0 for Mavericks</string>
+			<string>Safari 9.0.2 for Mavericks</string>
 			<key>sha1</key>
-			<string>b3fd3f6a4fb4bb4f24f6d0c8bf1a2138e86a9bd7</string>
+			<string>cb0c2612badacd07afcafa903beb1d38fa3e5d59</string>
 			<key>size</key>
-			<integer>62836111</integer>
+			<integer>62701202</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/26/06/031-20807/nja1lesa5fy2fx9texqbg61ub6ajinh8lx/Safari9.0Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/39/34/031-38514/pvjdpqb67964fc4k9gbjeeoqf6lwfp5q6p/Safari9.0.2Mavericks.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.0 for Yosemite</string>
+			<string>Safari 9.0.2 for Yosemite</string>
 			<key>sha1</key>
-			<string>b3d4db69deef2d6fb74deb5cd2f47d521110a29c</string>
+			<string>9ddfe2dc6e2d1932530a22b0f4fe89c5f0ee5bd0</string>
 			<key>size</key>
-			<integer>85388245</integer>
+			<integer>85425546</integer>
 			<key>url</key>
-			<key>sha1</key>
-			<string>b3fd3f6a4fb4bb4f24f6d0c8bf1a2138e86a9bd7</string>
-			<key>size</key>
-			<integer>62836111</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/26/06/031-20807/nja1lesa5fy2fx9texqbg61ub6ajinh8lx/Safari9.0Mavericks.pkg</string>
-		</dict>
-		<key>SafariYo</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 9.0 for Yosemite</string>
-			<key>sha1</key>
-			<string>b3d4db69deef2d6fb74deb5cd2f47d521110a29c</string>
-			<key>size</key>
-			<integer>85388245</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/19/23/031-20810/n1y3vqy11x9mgkv96hqjbauim9r3y4qmwr/Safari9.0Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/44/07/031-38517/l74jms6c3uz4p9i7456o2ldyyrd1ctdgya/Safari9.0.2Yosemite.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
@@ -240,13 +212,24 @@
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-006 Mavericks</string>
+			<string>Security Update 2015-008 Mavericks</string>
 			<key>sha1</key>
-			<string>bcc727faa4bb02e578edf262a6cf76fc5b7c25fb</string>
+			<string>3ff0da4241c153660ed885c9eb2f6979ea693bc0</string>
 			<key>size</key>
-			<integer>257158058</integer>
+			<integer>288225736</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1834/en_US/secupd2015-006mavericks.dmg</string>
+			<string>http://support.apple.com/downloads/DL1853/en_US/secupd2015-008mavericks.dmg</string>
+		</dict>
+		<key>SecurityYo</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2015-005 Yosemite</string>
+			<key>sha1</key>
+			<string>505d5a997efefc5e5940e90a4af2bec91c1873d0</string>
+			<key>size</key>
+			<integer>369008004</integer>
+			<key>url</key>
+			<string>https://support.apple.com/downloads/DL1852/en_US/secupd2015-005yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
@@ -262,13 +245,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.3</string>
+			<string>iTunes 12.3.1</string>
 			<key>sha1</key>
-			<string>3747c6f9b0f1e16fe083cb84a39989bab5de2688</string>
+			<string>2a82994d80bed7869cfec5a73604812a646a3405</string>
 			<key>size</key>
-			<integer>250744828</integer>
+			<integer>253885459</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-24466-20150916-d64338f2-5c68-11e5-8940-c95c6da99cb1/itunes12.3.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-36004-20151020-7736EA8C-EBCF-4048-93AB-569837557D10/iTunes12.3.1.dmg</string>
 		</dict>
 	</dict>
 </dict>
