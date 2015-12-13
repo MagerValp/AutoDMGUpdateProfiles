@@ -118,7 +118,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-12-09T11:51:49Z</date>
+	<date>2015-12-13T12:54:15Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -223,13 +223,13 @@
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-005 Yosemite</string>
+			<string>Security Update 2015-006 Yosemite</string>
 			<key>sha1</key>
-			<string>505d5a997efefc5e5940e90a4af2bec91c1873d0</string>
+			<string>991d82f04563691526b0f1669c360a0503e416f3</string>
 			<key>size</key>
-			<integer>369008004</integer>
+			<integer>369099624</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1852/en_US/secupd2015-005yosemite.dmg</string>
+			<string>https://support.apple.com/downloads/DL1852/en_US/secupd2015-006yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
