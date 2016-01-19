@@ -24,13 +24,14 @@
 			<string>14D2134</string>
 			<string>14E46</string>
 		</array>
-		<key>10.11.2-15C50</key>
+		<key>10.11.3-15D21</key>
 		<array>
 			<string>15A178w</string>
 			<string>15A263e</string>
 			<string>15A282b</string>
 			<string>15A284</string>
 			<string>15B42</string>
+			<string>15C50</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -86,9 +87,8 @@
 			<string>SafariYo</string>
 			<string>SecurityYo</string>
 		</array>
-		<key>10.11.2-15C50</key>
+		<key>10.11.3-15D21</key>
 		<array>
-			<string>iTunes</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -119,7 +119,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2015-12-13T12:56:29Z</date>
+	<date>2016-01-19T18:32:26Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -213,24 +213,24 @@
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-008 Mavericks</string>
+			<string>Security Update 2016-001 Mavericks</string>
 			<key>sha1</key>
-			<string>3ff0da4241c153660ed885c9eb2f6979ea693bc0</string>
+			<string>5bcfdb1ece0c0b1bc127b8cde89ae07f61a70998</string>
 			<key>size</key>
-			<integer>288225736</integer>
+			<integer>288616935</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1853/en_US/secupd2015-008mavericks.dmg</string>
+			<string>http://support.apple.com/downloads/DL1857/en_US/secupd2016-001mavericks.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2015-006 Yosemite</string>
+			<string>Security Update 2016-001 Yosemite</string>
 			<key>sha1</key>
-			<string>991d82f04563691526b0f1669c360a0503e416f3</string>
+			<string>551212eaf3724ef9388815fdf0c5b6b32ad813d3</string>
 			<key>size</key>
-			<integer>369099624</integer>
+			<integer>369595822</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1852/en_US/secupd2015-006yosemite.dmg</string>
+			<string>http://support.apple.com/downloads/DL1856/en_US/secupd2016-001yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
