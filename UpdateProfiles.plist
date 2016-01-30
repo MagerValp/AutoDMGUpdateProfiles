@@ -86,7 +86,6 @@
 			<string>iTunes</string>
 			<string>SafariYo</string>
 			<string>SecurityYo</string>
-			<string>CameraRaw</string>
 		</array>
 		<key>10.11.3-15D21</key>
 		<array>
@@ -121,7 +120,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-01-19T19:39:40Z</date>
+	<date>2016-01-30T03:18:57Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
