@@ -24,7 +24,7 @@
 			<string>14D2134</string>
 			<string>14E46</string>
 		</array>
-		<key>10.11.3-15D21</key>
+		<key>10.11.4-15E65</key>
 		<array>
 			<string>15A178w</string>
 			<string>15A263e</string>
@@ -32,6 +32,7 @@
 			<string>15A284</string>
 			<string>15B42</string>
 			<string>15C50</string>
+			<string>15D21</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -87,9 +88,9 @@
 			<string>SafariYo</string>
 			<string>SecurityYo</string>
 		</array>
-		<key>10.11.3-15D21</key>
+		<key>10.11.4-15E65</key>
 		<array>
-			<string>CameraRaw</string>
+			<string>iTunes</string>
 		</array>
 		<key>10.8.5-12F2015</key>
 		<array>
@@ -120,7 +121,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-01-30T03:18:57Z</date>
+	<date>2016-03-22T08:40:26Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -181,24 +182,24 @@
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.0.3 for Mavericks</string>
+			<string>Safari 9.1 for Mavericks</string>
 			<key>sha1</key>
-			<string>efc3e8de1d3e44a07bc5f6a49ca5740cf8d9968f</string>
+			<string>58f53a2c2ef5a4974bf29497e4f074e11580190e</string>
 			<key>size</key>
-			<integer>62694438</integer>
+			<integer>63136808</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/41/43/031-45942/4u4qsexk16929lhq0t5g0i8wz8duun3teu/Safari9.0.3Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/56/26/031-46447/e9xjcfmv0t3t6nrw01zn99ez32brni5wd6/Safari9.1Mavericks.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.0.3 for Yosemite</string>
+			<string>Safari 9.1 for Yosemite</string>
 			<key>sha1</key>
-			<string>2d218191b0cccba914ae88e9eacd620bb9ff0e65</string>
+			<string>fb1d64808c2f6b935285a6e087712e31756609ea</string>
 			<key>size</key>
-			<integer>85425549</integer>
+			<integer>85820104</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/45/25/031-45945/7ezu54kv53ryt4zvm6tezk23m8c0xr17kl/Safari9.0.3Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/08/24/031-46450/dwnqvawp11yhf8sdvx9edw1ka9o1brd6rt/Safari9.1Yosemite.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
@@ -214,24 +215,24 @@
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-001 Mavericks</string>
+			<string>Security Update 2016-002 Mavericks</string>
 			<key>sha1</key>
-			<string>5bcfdb1ece0c0b1bc127b8cde89ae07f61a70998</string>
+			<string>8df5ab91d12a389b2de0aa698679dbccaa9728ca</string>
 			<key>size</key>
-			<integer>288616935</integer>
+			<integer>370795700</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1857/en_US/secupd2016-001mavericks.dmg</string>
+			<string>http://support.apple.com/downloads/DL1872/en_US/secupd2016-002mavericks.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-001 Yosemite</string>
+			<string>Security Update 2016-002 Yosemite</string>
 			<key>sha1</key>
-			<string>551212eaf3724ef9388815fdf0c5b6b32ad813d3</string>
+			<string>fbbaa3a63faf613f90a2565077478f1d15d968b2</string>
 			<key>size</key>
-			<integer>369595822</integer>
+			<integer>462107325</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1856/en_US/secupd2016-001yosemite.dmg</string>
+			<string>http://support.apple.com/downloads/DL1871/en_US/secupd2016-002yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
@@ -247,24 +248,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.3.2</string>
+			<string>iTunes 12.3.3</string>
 			<key>sha1</key>
-			<string>feaebf23e5031e89ce317de007158daf35102226</string>
+			<string>ebfacba7a27ca925873b2660077a1390ac0cc2b1</string>
 			<key>size</key>
-			<integer>253627430</integer>
+			<integer>259632043</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-45965-20151210-23476c18-9f85-11e5-8230-9582f5563fd9/itunes12.3.2.dmg</string>
-		</dict>
-		<key>CameraRaw</key>
-		<dict>
-			<key>name</key>
-			<string>Camera Raw Update 6.18</string>
-			<key>sha1</key>
-			<string>c79cd2f45b5eb89a573f75a808392bf6ee8b5b03</string>
-			<key>size</key>
-			<integer>7975608</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1855/en_US/rawcameraupdate6.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-51748-20160321-D6635716-EDF6-11E5-A6FC-DF14BE379832/iTunes12.3.3.dmg</string>
 		</dict>
 	</dict>
 </dict>
