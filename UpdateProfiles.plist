@@ -121,7 +121,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-03-22T08:40:26Z</date>
+	<date>2016-03-22T08:42:47Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -160,13 +160,13 @@
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
-			<string>Remote Desktop Client Update 3.8.4</string>
+			<string>Remote Desktop Client Update 3.8.5</string>
 			<key>sha1</key>
-			<string>45f0b439a8841cc9604e8c0dbaa4f3c171258340</string>
+			<string>e6585862c8699fd319447e01430edce358024d89</string>
 			<key>size</key>
-			<integer>7273865</integer>
+			<integer>7921856</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/37/16/031-21283/etbobep7bor00raxv1bf5xkzuu5lqi9fku/RemoteDesktopClient.pkg</string>
+			<string>http://support.apple.com/downloads/DL1870/en_US/remotedesktopclient.dmg</string>
 		</dict>
 		<key>SafariML</key>
 		<dict>
