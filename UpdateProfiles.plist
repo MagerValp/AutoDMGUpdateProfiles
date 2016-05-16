@@ -90,7 +90,6 @@
 		</array>
 		<key>10.11.4-15E65</key>
 		<array>
-			<string>CameraRawElCap</string>
 			<string>iTunes</string>
 		</array>
 		<key>10.8.5-12F2015</key>
@@ -157,17 +156,6 @@
 			<integer>78492</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
-		</dict>
-		<key>CameraRawElCap</key>
-		<dict>
-			<key>name</key>
-			<string>Camera Raw Update 6.19</string>
-			<key>sha1</key>
-			<string>0d5f2dac769a3e256c920897383efa02eaa7e7cf</string>
-			<key>size</key>
-			<integer>8053094</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1874/en_US/rawcameraupdate6.dmg</string>
 		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
