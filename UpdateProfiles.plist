@@ -194,24 +194,24 @@
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.1 for Mavericks</string>
+			<string>Safari 9.1.1 for Mavericks</string>
 			<key>sha1</key>
-			<string>58f53a2c2ef5a4974bf29497e4f074e11580190e</string>
+			<string>20766c13fecbb75d578dc4f4add2b45a191185a6</string>
 			<key>size</key>
-			<integer>63136808</integer>
+			<integer>63125392</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/56/26/031-46447/e9xjcfmv0t3t6nrw01zn99ez32brni5wd6/Safari9.1Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/10/36/031-62956/xg5tmge780hxgxfs6xf1cvf2zlczr0lv7n/Safari9.1.1Mavericks.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.1 for Yosemite</string>
+			<string>Safari 9.1.1 for Yosemite</string>
 			<key>sha1</key>
-			<string>fb1d64808c2f6b935285a6e087712e31756609ea</string>
+			<string>c1b44b7f68b8c0369bb47e9c14a6b4db8a760545</string>
 			<key>size</key>
-			<integer>85820104</integer>
+			<integer>85818764</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/08/24/031-46450/dwnqvawp11yhf8sdvx9edw1ka9o1brd6rt/Safari9.1Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/14/61/031-62957/db9b5nnn3j7b5b2ei82vs18jk0psycxw3s/Safari9.1.1Yosemite.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
@@ -227,24 +227,24 @@
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-002 Mavericks</string>
+			<string>Security Update 2016-003 Mavericks</string>
 			<key>sha1</key>
-			<string>8df5ab91d12a389b2de0aa698679dbccaa9728ca</string>
+			<string>248a5d76fc51d36d38881e5bdf9059804626872d</string>
 			<key>size</key>
-			<integer>370795700</integer>
+			<integer>370887751</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1872/en_US/secupd2016-002mavericks.dmg</string>
+			<string>http://support.apple.com/downloads/DL1878/en_US/secupd2016-003mavericks.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-002 Yosemite</string>
+			<string>Security Update 2016-003 Yosemite</string>
 			<key>sha1</key>
-			<string>fbbaa3a63faf613f90a2565077478f1d15d968b2</string>
+			<string>73aea2212f2bb5359ce9bbb2b31fb509643158ac</string>
 			<key>size</key>
-			<integer>462107325</integer>
+			<integer>454770804</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1871/en_US/secupd2016-002yosemite.dmg</string>
+			<string>http://support.apple.com/downloads/DL1879/en_US/secupd2016-003yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
