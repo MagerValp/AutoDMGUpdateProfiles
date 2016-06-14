@@ -82,6 +82,8 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
+		<key>10.12-16A201w</key>
+		<array/>
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -122,7 +124,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-06-03T07:18:54Z</date>
+	<date>2016-06-13T21:54:42Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
