@@ -93,6 +93,7 @@
 		</array>
 		<key>10.11.5-15F34</key>
 		<array>
+			<string>CameraRawElCap</string>
 			<string>iTunes</string>
 		</array>
 		<key>10.8.5-12F2015</key>
@@ -124,7 +125,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-06-13T21:54:42Z</date>
+	<date>2016-06-26T19:32:47Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -159,6 +160,17 @@
 			<integer>78492</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/49/62/031-1878/hfuvnhh956akbythuxg2im9pdnm3c263sf/BookKitDelta.pkg</string>
+		</dict>
+		<key>CameraRawElCap</key>
+		<dict>
+			<key>name</key>
+			<string>Digital Camera RAW Compatibility Update 6.20</string>
+			<key>sha1</key>
+			<string>baf78b02ac9942bb9940f6f8cbdfc9cf0643f3b4</string>
+			<key>size</key>
+			<integer>8106681</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1882/en_US/rawcameraupdate6.dmg</string>
 		</dict>
 		<key>RemoteDesktopClient</key>
 		<dict>
