@@ -131,7 +131,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-07-18T16:38:25Z</date>
+	<date>2016-07-19T14:44:34Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -203,24 +203,24 @@
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.1.1 for Mavericks</string>
+			<string>Safari 9.1.2 for Mavericks</string>
 			<key>sha1</key>
-			<string>20766c13fecbb75d578dc4f4add2b45a191185a6</string>
+			<string>e34604d406d3b4c5a2110a7514b98a69574dce55</string>
 			<key>size</key>
-			<integer>63125392</integer>
+			<integer>63189749</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/10/36/031-62956/xg5tmge780hxgxfs6xf1cvf2zlczr0lv7n/Safari9.1.1Mavericks.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/12/33/031-62815/iww22xnt0luizshgtbr0lk8ctiq3m83wif/Safari9.1.2Mavericks.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 9.1.1 for Yosemite</string>
+			<string>Safari 9.1.2 for Yosemite</string>
 			<key>sha1</key>
-			<string>c1b44b7f68b8c0369bb47e9c14a6b4db8a760545</string>
+			<string>27122a08da9d96a133d43fcec0be562288a2fbdc</string>
 			<key>size</key>
-			<integer>85818764</integer>
+			<integer>85806477</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/14/61/031-62957/db9b5nnn3j7b5b2ei82vs18jk0psycxw3s/Safari9.1.1Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/44/04/031-62818/a3zjwwb5bkd4csyhmh0rq1vq97kstcfrtw/Safari9.1.2Yosemite.pkg</string>
 		</dict>
 		<key>SecurityML</key>
 		<dict>
@@ -236,24 +236,24 @@
 		<key>SecurityMav</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-003 Mavericks</string>
+			<string>Security Update 2016-004 Mavericks</string>
 			<key>sha1</key>
-			<string>248a5d76fc51d36d38881e5bdf9059804626872d</string>
+			<string>605e326a035387e029b77b1f06dccff5dfaf98c7</string>
 			<key>size</key>
-			<integer>370887751</integer>
+			<integer>371240779</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1878/en_US/secupd2016-003mavericks.dmg</string>
+			<string>http://support.apple.com/downloads/DL1886/en_US/secupd2016-004mavericks.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-003 Yosemite</string>
+			<string>Security Update 2016-004 Yosemite</string>
 			<key>sha1</key>
-			<string>73aea2212f2bb5359ce9bbb2b31fb509643158ac</string>
+			<string>73268d86acd6e5a4b7ce573e89f503ae01006df1</string>
 			<key>size</key>
-			<integer>454770804</integer>
+			<integer>455983868</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1879/en_US/secupd2016-003yosemite.dmg</string>
+			<string>http://support.apple.com/downloads/DL1887/en_US/secupd2016-004yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
