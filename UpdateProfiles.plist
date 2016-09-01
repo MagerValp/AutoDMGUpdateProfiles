@@ -99,6 +99,7 @@
 		<array>
 			<string>CameraRawElCap</string>
 			<string>iTunes</string>
+			<string>SecurityElCap</string>
 		</array>
 		<key>10.12-16A304a</key>
 		<array>
@@ -132,7 +133,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-08-25T19:31:58Z</date>
+	<date>2016-09-01T14:22:18Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
@@ -223,6 +224,17 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/44/04/031-62818/a3zjwwb5bkd4csyhmh0rq1vq97kstcfrtw/Safari9.1.2Yosemite.pkg</string>
 		</dict>
+		<key>SecurityElCap</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2016-001 El Capitan</string>
+			<key>sha1</key>
+			<string>954554f0d4420cdbda03ed836a0999823405b009</string>
+			<key>size</key>
+			<integer>414890345</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1891/en_US/secupd2016-001elcapitan.dmg</string>
+		</dict>
 		<key>SecurityML</key>
 		<dict>
 			<key>name</key>
@@ -248,13 +260,13 @@
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-004 Yosemite</string>
+			<string>Security Update 2016-005 Yosemite</string>
 			<key>sha1</key>
-			<string>73268d86acd6e5a4b7ce573e89f503ae01006df1</string>
+			<string>950bb2d71ffb62df0c55ec85a9460f9756c3808d</string>
 			<key>size</key>
-			<integer>455983868</integer>
+			<integer>468002206</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1887/en_US/secupd2016-004yosemite.dmg</string>
+			<string>http://support.apple.com/downloads/DL1890/en_US/secupd2016-005yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
