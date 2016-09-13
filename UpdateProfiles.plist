@@ -36,8 +36,10 @@
 			<string>15E65</string>
 			<string>15F34</string>
 		</array>
-		<key>10.12-16A319</key>
+		<key>10.12-16A322</key>
 		<array>
+			<string>10.12-16A319</string>
+			<string>10.12-16A320</string>
 			<string>10.12-16A304a</string>
 			<string>10.12-16A201w</string>
 			<string>10.12-16A239m</string>
@@ -89,15 +91,15 @@
 	</dict>
 	<key>Profiles</key>
 	<dict>
+		<key>10.10.5-14F1912</key>
+		<array>
+		</array>
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
 			<string>SafariYo</string>
 			<string>SecurityYo</string>
-		</array>
-		<key>10.10.5-14F1912</key>
-		<array>
 		</array>
 		<key>10.11.6-15G1004</key>
 		<array>
@@ -108,7 +110,7 @@
 			<string>iTunes</string>
 			<string>SecurityElCap</string>
 		</array>
-		<key>10.12-16A319</key>
+		<key>10.12-16A322</key>
 		<array>
 		</array>
 		<key>10.8.5-12F2015</key>
@@ -140,7 +142,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-09-13T13:40:46Z</date>
+	<date>2016-09-13T20:24:40Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AirPortUtility</key>
