@@ -115,24 +115,6 @@
 		<array>
 			<string>iTunes</string>
 		</array>
-		<key>10.8.5-12F2015</key>
-		<array>
-			<string>SafariML</string>
-			<string>RemoteDesktopClient</string>
-			<string>iTunes</string>
-			<string>AirPortUtility</string>
-			<string>SecurityML</string>
-			<string>AppStoreML</string>
-		</array>
-		<key>10.8.5-12F45</key>
-		<array>
-			<string>SafariML</string>
-			<string>RemoteDesktopClient</string>
-			<string>iTunes</string>
-			<string>AirPortUtility</string>
-			<string>SecurityML</string>
-			<string>AppStoreML</string>
-		</array>
 		<key>10.9.5-13F34</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -144,31 +126,9 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-09-19T09:30:00Z</date>
+	<date>2016-09-19T14:52:09Z</date>
 	<key>Updates</key>
 	<dict>
-		<key>AirPortUtility</key>
-		<dict>
-			<key>name</key>
-			<string>AirPort Utility 6.3.1 for Mac</string>
-			<key>sha1</key>
-			<string>7cb449454ef5c2cf478a2a5394f652a9705c9481</string>
-			<key>size</key>
-			<integer>22480138</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1664/en_US/AirPortUtility6.3.1.dmg</string>
-		</dict>
-		<key>AppStoreML</key>
-		<dict>
-			<key>name</key>
-			<string>Mac App Store Update</string>
-			<key>sha1</key>
-			<string>329b47c098d3881d25dbc16ba74c1aba71d26179</string>
-			<key>size</key>
-			<integer>3785760</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/54/51/031-2395/qeqbn5wc3kflff920aj1esepak7qizc3na/AppStoreUpdate.pkg</string>
-		</dict>
 		<key>BookKit</key>
 		<dict>
 			<key>name</key>
@@ -202,17 +162,6 @@
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1875/en_US/remotedesktopclient.dmg</string>
 		</dict>
-		<key>SafariML</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 6.2.8 for Mountain Lion</string>
-			<key>sha1</key>
-			<string>d9974f11bc9a2f4f6999fba47cdf447aa1c7c4f2</string>
-			<key>size</key>
-			<integer>60503493</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/45/36/031-28342/piu9tsargpvuaxdnlhf1s0dulnxiuxc8ee/Safari6.2.8MountainLion.pkg</string>
-		</dict>
 		<key>SafariMav</key>
 		<dict>
 			<key>name</key>
@@ -245,17 +194,6 @@
 			<integer>414890345</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1891/en_US/secupd2016-001elcapitan.dmg</string>
-		</dict>
-		<key>SecurityML</key>
-		<dict>
-			<key>name</key>
-			<string>Security Update 2015-006 Mountain Lion </string>
-			<key>sha1</key>
-			<string>0725e672c933d68f42ca110dab6f7632126034ea</string>
-			<key>size</key>
-			<integer>246023088</integer>
-			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1835/en_US/secupd2015-006mtlion.dmg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
