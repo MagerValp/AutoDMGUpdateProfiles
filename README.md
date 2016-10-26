@@ -26,6 +26,7 @@ autodmg-verify.py
 Suggested Workflow
 ==================
 
+0. [Fork this repository](https://help.github.com/articles/fork-a-repo/) and [check out your fork](https://help.github.com/desktop/guides/getting-started/) out on your admin machine.
 1. Install a bare OS on a test machine, and perform initial setup.
 2. Run `sudo softwareupdate -l -a`.
 3. Note the updates and the order they appear in.
@@ -37,7 +38,7 @@ Suggested Workflow
 9. Run `./install.sh` to move `UpdateProfiles.plist` into `~/Library/Application Support/AutoDMG` for testing.
 10. Build an image with updates applied.
 11. Deploy it and verify that no additional updates are required.
-
+12. Commit changes and submit a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 Finding iTunes Updates
 ======================
