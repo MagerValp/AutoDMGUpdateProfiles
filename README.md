@@ -29,11 +29,11 @@ Suggested Workflow
 1. Install a bare OS on a test machine, and perform initial setup.
 2. Run `sudo softwareupdate -l -a`.
 3. Note the updates and the order they appear in.
-4. Run `./autodmg-rss.py updates.plist`.
-5. Use `updates.plist` to update AutoDMG's `UpdateProfiles.plist`, while paying attention to installation order.
+4. ~~Run `./autodmg-rss.py updates.plist`.~~ *Script is currently broken, find links on [Apple's download page](https://support.apple.com/downloads/macos) for now.*
+5. ~~Use `updates.plist` to update AutoDMG's `UpdateProfiles.plist`, while paying attention to installation order.~~
 6. Manually add any updates that `autodmg-rss.py` doesn't find (see below), and remove deprecated updates.
-7. Run `./autodmg-checksum.py updates.plist`.
-8. Run `./autodmg-verify.py updates.plist`.
+7. Run `./autodmg-checksum.py UpdateProfiles.plist`.
+8. Run `./autodmg-verify.py UpdateProfiles.plist`.
 9. Run `./install.sh` to move `UpdateProfiles.plist` into `~/Library/Application Support/AutoDMG` for testing.
 10. Build an image with updates applied.
 11. Deploy it and verify that no additional updates are required.
