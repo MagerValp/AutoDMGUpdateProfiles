@@ -127,7 +127,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-10-15T15:21:22Z</date>
+	<date>2016-10-26T22:10:48Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -166,13 +166,13 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.0 for El Capitan</string>
+			<string>Safari 10.0.1 for El Capitan</string>
 			<key>sha1</key>
-			<string>a83f9411cf4243c4faa3369a538717dbac30f8d0</string>
+			<string>d1adda852a82127d2fbb12116574fe5069522e12</string>
 			<key>size</key>
-			<integer>70479251</integer>
+			<integer>70454679</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/13/52/031-78814/r747w78fqi2jru2xuiihjhnedprlwz1ubg/Safari10.0ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/44/57/031-81873/b7woxaez0lftqe660ikhdui2cmzcuktqmo/Safari10.0.1ElCapitan.pkg</string>
 		</dict>
 		<key>SafariMav</key>
 		<dict>
@@ -199,13 +199,13 @@
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-001 El Capitan</string>
+			<string>Security Update 2016-002 El Capitan</string>
 			<key>sha1</key>
-			<string>954554f0d4420cdbda03ed836a0999823405b009</string>
+			<string>ef3840fee0d44f5feb10e12437ef42b59732c538</string>
 			<key>size</key>
-			<integer>414890345</integer>
+			<integer>438157296</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1891/en_US/secupd2016-001elcapitan.dmg</string>
+			<string>http://support.apple.com/downloads/DL1891/en_US/secupd2016-002elcapitan.dmg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
