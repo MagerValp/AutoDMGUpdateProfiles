@@ -5,7 +5,7 @@ AutoDMGUpdateProfiles
 This repository contains three utilities to help generate update profiles for [AutoDMG](https://github.com/MagerValp/AutoDMG)
 
 
-autodmg-rss.py
+~~autodmg-rss.py~~ *Currently broken*
 --------------
 
 `autodmg-rss.py` reads [Apple's RSS feed for software updates](http://rss.support.apple.com/?channel=DOWNLOADS) and creates a plist with the name and URL of each update. Not all updates have standard download buttons (notably iTunes), and some updates are only available from Software Update, so some will have to be added manually.
