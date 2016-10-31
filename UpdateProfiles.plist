@@ -127,7 +127,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-10-27T20:07:49Z</date>
+	<date>2016-10-31T14:53:39Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -188,13 +188,13 @@
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.0 for Yosemite</string>
+			<string>Safari 10.0.1 for Yosemite</string>
 			<key>sha1</key>
-			<string>ea28ae7a037d7fcb5f44f225bed80929bb7f7f38</string>
+			<string>93dcd1ed8fdcf42daabab245529dc8a0408dcbda</string>
 			<key>size</key>
-			<integer>70159754</integer>
+			<integer>70180241</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/26/00/031-78815/65fo5s25h4188p212k7dxrychsq1mspruc/Safari10.0Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/52/32/031-81868/w5bagui48ji3kb044hu8lgz1frhp0mdhlv/Safari10.0.1Yosemite.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
