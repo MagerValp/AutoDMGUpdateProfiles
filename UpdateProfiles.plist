@@ -127,7 +127,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-10-31T14:53:39Z</date>
+	<date>2016-10-31T15:13:23Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -221,13 +221,13 @@
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-005 Yosemite</string>
+			<string>Security Update 2016-006 (10.10.5)</string>
 			<key>sha1</key>
-			<string>950bb2d71ffb62df0c55ec85a9460f9756c3808d</string>
+			<string>8e7611c83993918dd9509215a7d5900472be8ca7</string>
 			<key>size</key>
-			<integer>468002206</integer>
+			<integer>473635414</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1890/en_US/secupd2016-005yosemite.dmg</string>
+			<string>https://support.apple.com/downloads/DL1890/en_US/secupd2016-006yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
