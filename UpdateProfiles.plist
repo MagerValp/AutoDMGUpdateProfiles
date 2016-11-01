@@ -115,6 +115,7 @@
 		</array>
 		<key>10.12.1-16B2657</key>
 		<array>
+			<string>iTunes</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -127,7 +128,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-10-31T15:13:23Z</date>
+	<date>2016-11-01T11:39:43Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -243,13 +244,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.5.2</string>
+			<string>Download iTunes 12.5.3</string>
 			<key>sha1</key>
-			<string>549e72600920cc26f55babff3ca4fc67576b1f01</string>
+			<string>77bdd0cfb73768139b6b9302d8eaf814e8e8f7b2</string>
 			<key>size</key>
-			<integer>275460776</integer>
+			<integer>275462957</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-86103-20161027-2DAAE916-9A2D-11E6-9AB5-2A8B80A31755/iTunes12.5.2.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-86258-20161031-CE8BD2B8-32CB-42F7-BB14-07F1FB0EB2D7/iTunes12.5.3.dmg</string>
 		</dict>
 	</dict>
 </dict>
