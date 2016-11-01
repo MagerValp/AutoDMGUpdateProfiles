@@ -115,6 +115,7 @@
 		</array>
 		<key>10.12.1-16B2657</key>
 		<array>
+			<string>iTunes</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -127,7 +128,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-10-27T20:07:49Z</date>
+	<date>2016-11-01T11:39:43Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -188,13 +189,13 @@
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.0 for Yosemite</string>
+			<string>Safari 10.0.1 for Yosemite</string>
 			<key>sha1</key>
-			<string>ea28ae7a037d7fcb5f44f225bed80929bb7f7f38</string>
+			<string>93dcd1ed8fdcf42daabab245529dc8a0408dcbda</string>
 			<key>size</key>
-			<integer>70159754</integer>
+			<integer>70180241</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/26/00/031-78815/65fo5s25h4188p212k7dxrychsq1mspruc/Safari10.0Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/52/32/031-81868/w5bagui48ji3kb044hu8lgz1frhp0mdhlv/Safari10.0.1Yosemite.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
@@ -221,13 +222,13 @@
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-005 Yosemite</string>
+			<string>Security Update 2016-006 (10.10.5)</string>
 			<key>sha1</key>
-			<string>950bb2d71ffb62df0c55ec85a9460f9756c3808d</string>
+			<string>8e7611c83993918dd9509215a7d5900472be8ca7</string>
 			<key>size</key>
-			<integer>468002206</integer>
+			<integer>473635414</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1890/en_US/secupd2016-005yosemite.dmg</string>
+			<string>https://support.apple.com/downloads/DL1890/en_US/secupd2016-006yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
@@ -243,13 +244,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.5.1</string>
+			<string>iTunes 12.5.3</string>
 			<key>sha1</key>
-			<string>c94f2386e780fdef391d2636c9bd7b692f9ceeca</string>
+			<string>77bdd0cfb73768139b6b9302d8eaf814e8e8f7b2</string>
 			<key>size</key>
-			<integer>274298138</integer>
+			<integer>275462957</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-77682-20160908-A3B6AB42-7541-11E6-901F-53F133D2D062/iTunes12.5.1.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-86258-20161031-CE8BD2B8-32CB-42F7-BB14-07F1FB0EB2D7/iTunes12.5.3.dmg</string>
 		</dict>
 	</dict>
 </dict>
