@@ -244,7 +244,7 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>Download iTunes 12.5.3</string>
+			<string>iTunes 12.5.3</string>
 			<key>sha1</key>
 			<string>77bdd0cfb73768139b6b9302d8eaf814e8e8f7b2</string>
 			<key>size</key>
