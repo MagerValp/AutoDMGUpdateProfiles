@@ -128,7 +128,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-11-01T11:39:43Z</date>
+	<date>2016-11-03T12:05:20Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -246,11 +246,11 @@
 			<key>name</key>
 			<string>iTunes 12.5.3</string>
 			<key>sha1</key>
-			<string>77bdd0cfb73768139b6b9302d8eaf814e8e8f7b2</string>
+			<string>fa90815d353c80a1e814f17c82c1a830785fb0fb</string>
 			<key>size</key>
-			<integer>275462957</integer>
+			<integer>275533874</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-86258-20161031-CE8BD2B8-32CB-42F7-BB14-07F1FB0EB2D7/iTunes12.5.3.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-88644-20161108-43128F66-A13F-11E6-861D-DEFFA2A9A694/iTunes12.5.3.dmg</string>
 		</dict>
 	</dict>
 </dict>
