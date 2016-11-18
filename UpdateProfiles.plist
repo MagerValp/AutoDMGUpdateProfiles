@@ -117,6 +117,10 @@
 		<array>
 			<string>iTunes</string>
 		</array>
+		<key>10.12.1-16B2659</key>
+		<array>
+			<string>iTunes</string>
+		</array>
 		<key>10.9.5-13F34</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -128,7 +132,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-11-03T12:05:20Z</date>
+	<date>2016-11-17T15:27:23Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
