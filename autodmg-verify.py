@@ -9,6 +9,7 @@ import sys
 import argparse
 import plistlib
 import datetime
+import re
 
 
 def uprint(*args, **kwargs):
@@ -54,10 +55,14 @@ def main(argv):
     
     # Verify DeprecatedInstallers.
     supported_builds = set(x.partition(u"-")[2] for x in plist[u"DeprecatedInstallers"].iterkeys())
+    re_osbuild = re.compile(ur'^\d+[A-Z]\d+[a-z]?$')
     for replacement, replaced in plist[u"DeprecatedInstallers"].iteritems():
-        for version in replaced:
-            if version in supported_builds:
-                uprint(u"Error: %s deprecates supported version %s" % (replacement, version))
+        for build in replaced:
+            if not re_osbuild.search(build):
+                uprint(u"Error: invalid deprecated build %s" % build)
+                error_count += 1
+            if build in supported_builds:
+                uprint(u"Error: %s deprecates supported build %s" % (replacement, build))
                 error_count += 1
     
     # Verify PublicationDate.
