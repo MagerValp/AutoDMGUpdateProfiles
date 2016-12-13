@@ -36,7 +36,7 @@
 			<string>15E65</string>
 			<string>15F34</string>
 		</array>
-		<key>10.12.1-16B2659</key>
+		<key>10.12.2-16C67</key>
 		<array>
 			<string>16A323</string>
 			<string>16A322</string>
@@ -46,6 +46,7 @@
 			<string>16A201w</string>
 			<string>16A239m</string>
 			<string>16B2657</string>
+			<string>16B2659</string>
 		</array>
 		<key>10.7.5-11G63</key>
 		<array>
@@ -95,8 +96,7 @@
 	<key>Profiles</key>
 	<dict>
 		<key>10.10.5-14F1912</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -105,8 +105,7 @@
 			<string>SecurityYo</string>
 		</array>
 		<key>10.11.6-15G1004</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.11.6-15G31</key>
 		<array>
 			<string>CameraRawElCap</string>
@@ -114,7 +113,7 @@
 			<string>SafariElCap</string>
 			<string>SecurityElCap</string>
 		</array>
-		<key>10.12.1-16B2659</key>
+		<key>10.12.2-16C67</key>
 		<array>
 			<string>iTunes</string>
 		</array>
@@ -129,7 +128,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-12-03T17:13:18Z</date>
+	<date>2016-12-13T12:58:30Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -245,13 +244,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.5.3</string>
+			<string>iTunes 12.5.4</string>
 			<key>sha1</key>
-			<string>fa90815d353c80a1e814f17c82c1a830785fb0fb</string>
+			<string>211de6432af0a47b1a82e2fd548669b66d581863</string>
 			<key>size</key>
-			<integer>275533874</integer>
+			<integer>276066408</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-88644-20161108-43128F66-A13F-11E6-861D-DEFFA2A9A694/iTunes12.5.3.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-77736-20161212-7D847B64-BE2C-11E6-93D2-FAEA82FDB0CC/iTunes12.5.4.dmg</string>
 		</dict>
 	</dict>
 </dict>
