@@ -167,13 +167,13 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.0.1 for El Capitan</string>
+			<string>Safari 10.0.2 for El Capitan</string>
 			<key>sha1</key>
-			<string>d1adda852a82127d2fbb12116574fe5069522e12</string>
+			<string>13ccc3614b3c6ec1f9a30edb0763a7702ec4f1a4</string>
 			<key>size</key>
-			<integer>70454679</integer>
+			<integer>70544799</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/44/57/031-81873/b7woxaez0lftqe660ikhdui2cmzcuktqmo/Safari10.0.1ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/34/41/031-93196/0ytx8ld0c6lrtla0o25n461p8hvpuz2x3n/Safari10.0.2ElCapitan.pkg</string>
 		</dict>
 		<key>SafariMav</key>
 		<dict>
@@ -189,13 +189,13 @@
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.0.1 for Yosemite</string>
+			<string>Safari 10.0.2 for Yosemite</string>
 			<key>sha1</key>
-			<string>93dcd1ed8fdcf42daabab245529dc8a0408dcbda</string>
+			<string>b7dad4700bf27abf35ac87e7e77b22d4475846e7</string>
 			<key>size</key>
-			<integer>70180241</integer>
+			<integer>70217110</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/52/32/031-81868/w5bagui48ji3kb044hu8lgz1frhp0mdhlv/Safari10.0.1Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/53/47/031-93195/pxv0cq3qo0sclhdpamv7qxcvf60k5pj5gi/Safari10.0.2Yosemite.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
