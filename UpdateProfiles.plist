@@ -70,7 +70,8 @@
 	<key>Profiles</key>
 	<dict>
 		<key>10.10.5-14F1912</key>
-		<array/>
+		<array>
+		</array>
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -79,7 +80,8 @@
 			<string>SecurityYo</string>
 		</array>
 		<key>10.11.6-15G1004</key>
-		<array/>
+		<array>
+		</array>
 		<key>10.11.6-15G31</key>
 		<array>
 			<string>CameraRawElCap</string>
@@ -102,7 +104,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-12-13T12:58:30Z</date>
+	<date>2016-12-14T17:44:02Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
