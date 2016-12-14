@@ -63,6 +63,10 @@
 			<string>13E28</string>
 		</array>
 	</dict>
+	<key>DeprecatedOSVersions</key>
+	<array>
+		<string>10.12</string>
+	</array>
 	<key>Profiles</key>
 	<dict>
 		<key>10.10.5-14F1912</key>
