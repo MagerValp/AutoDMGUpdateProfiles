@@ -174,13 +174,13 @@
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-002 El Capitan</string>
+			<string>Security Update 2016-003 (10.11.6)</string>
 			<key>sha1</key>
-			<string>ef3840fee0d44f5feb10e12437ef42b59732c538</string>
+			<string>fb90f674881fd64e95fcc78fe3beb121a531dcb2</string>
 			<key>size</key>
-			<integer>438157296</integer>
+			<integer>331664814</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1891/en_US/secupd2016-002elcapitan.dmg</string>
+			<string>http://swcdn.apple.com/content/downloads/63/05/031-78817/kq8igkg4q86t4bb820apbkszfxy5dlywwe/SecUpd2016-003ElCapitan.pkg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
@@ -196,13 +196,13 @@
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2016-006 (10.10.5)</string>
+			<string>Security Update 2016-007 (10.10.5)</string>
 			<key>sha1</key>
-			<string>8e7611c83993918dd9509215a7d5900472be8ca7</string>
+			<string>dcce05ca2b53c7d16951399e3ca358892190e543</string>
 			<key>size</key>
-			<integer>473635414</integer>
+			<integer>498144682</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1890/en_US/secupd2016-006yosemite.dmg</string>
+			<string>https://support.apple.com/downloads/DL1902/en_US/secupd2016-007yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
