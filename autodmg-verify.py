@@ -43,7 +43,7 @@ def main(argv):
     error_count = 0
     
     # Verify root keys.
-    expected_keys = set([u"DeprecatedInstallers", u"PublicationDate", u"Profiles", u"Updates"])
+    expected_keys = set([u"DeprecatedInstallers", u"DeprecatedOSVersions", u"PublicationDate", u"Profiles", u"Updates"])
     found_keys = set(plist.iterkeys())
     if found_keys != expected_keys:
         missing_keys = expected_keys - found_keys
