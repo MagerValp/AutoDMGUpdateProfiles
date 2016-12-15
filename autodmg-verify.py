@@ -103,6 +103,14 @@ def main(argv):
     if error_count:
         return os.EX_DATAERR
     else:
+        uprint(u"Verified profiles:")
+        for verbuild in sorted(plist[u"Profiles"].iterkeys()):
+            deprecated = False
+            for depver in plist[u"DeprecatedOSVersions"]:
+                splitver = depver.split(u".")
+                if splitver == verbuild.split(u".")[:len(splitver)]:
+                    deprecated = True
+            uprint(u"  %s%s" % (verbuild, u" (deprecated)" if deprecated else u""))
         return os.EX_OK
     
 

@@ -65,7 +65,7 @@
 	</dict>
 	<key>DeprecatedOSVersions</key>
 	<array>
-		<string>10.12</string>
+		<string>10.9</string>
 	</array>
 	<key>Profiles</key>
 	<dict>
@@ -104,7 +104,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-12-15T00:44:16Z</date>
+	<date>2016-12-15T15:59:14Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
