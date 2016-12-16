@@ -104,7 +104,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2016-12-15T17:40:21Z</date>
+	<date>2016-12-16T02:12:47Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -178,11 +178,11 @@
 			<key>name</key>
 			<string>Security Update 2016-003 (10.11.6)</string>
 			<key>sha1</key>
-			<string>fb90f674881fd64e95fcc78fe3beb121a531dcb2</string>
+			<string>53770436f3dbeb60fe8b131412215c9eee5108ee</string>
 			<key>size</key>
-			<integer>331664814</integer>
+			<integer>717012386</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/63/05/031-78817/kq8igkg4q86t4bb820apbkszfxy5dlywwe/SecUpd2016-003ElCapitan.pkg</string>
+			<string>http://support.apple.com/downloads/DL1903/en_US/secupd2016-003elcapitan.dmg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
