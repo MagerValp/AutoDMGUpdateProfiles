@@ -1,9 +1,12 @@
-#!/usr/bin/env python
-# _*_ coding:utf-8 _*_
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
 """Helper tool to generate AutoDMG profiles."""
 
 import xml.etree.ElementTree as ET
 import sys
+import argparse
 import re
 import urllib2
 import plistlib
@@ -17,6 +20,14 @@ INCLUDED_UPDATES = ['Update',
 EXCLUDED_UPDATES = ['Windows',
                     'Firmware',
                     'Combo',]
+
+
+def print8(*args):
+    print " ".join(unicode(x).encode(u"utf-8") for x in args)
+
+def printerr8(*args):
+    print >>sys.stderr, " ".join(unicode(x).encode(u"utf-8") for x in args)
+
 
 def get_download_url(link):
     """Follows HTTP 302 redirects to fetch the final url of a download."""
@@ -58,8 +69,16 @@ def get_itunes_download_url(title):
     if url_match:
         return url_match.group(1)
 
-def main():
-    """Where all the magic happens"""
+def main(argv):
+    p = argparse.ArgumentParser()
+    p.add_argument(u"-v", u"--verbose", action=u"store_true",
+                   help=u"Verbose output.")
+    p.add_argument(u"updates", help=u"plist with updates")
+    args = p.parse_args(argv[1:])
+    
+    if args.verbose:
+        printerr8(u"Downloading %s\n" % FEED_URL)
+    
     try:
         rss_feed = urllib2.urlopen(FEED_URL)
         rss_feed = ET.parse(rss_feed)
@@ -92,7 +111,10 @@ def main():
 
         updates_found["Updates"][link.split('/')[-1]] = update
 
-    plistlib.writePlist(updates_found, "updates.plist")
+    plistlib.writePlist(updates_found, args.updates)
+    
+    return 0
+
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main(sys.argv))
