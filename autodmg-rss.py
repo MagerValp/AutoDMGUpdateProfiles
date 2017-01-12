@@ -4,7 +4,7 @@
 
 """Helper tool to generate AutoDMG profiles."""
 
-import xml.etree.ElementTree as ET
+from xml.etree import ElementTree
 import sys
 import argparse
 import re
@@ -81,10 +81,10 @@ def main(argv):
     
     try:
         rss_feed = urllib2.urlopen(FEED_URL)
-        rss_feed = ET.parse(rss_feed)
+        rss_feed = ElementTree.parse(rss_feed)
     except urllib2.URLError as e:
         sys.exit(u"Feed fetching failed: %s" % unicode(e))
-    except ET.ParseError as e:
+    except ElementTree.ParseError as e:
         sys.exit(u"Feed parsing failed: %s" % unicode(e))
 
     updates_found = {"Updates": {}}
