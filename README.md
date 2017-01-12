@@ -5,10 +5,10 @@ AutoDMGUpdateProfiles
 This repository contains three utilities to help generate update profiles for [AutoDMG](https://github.com/MagerValp/AutoDMG)
 
 
-~~autodmg-rss.py~~ *Currently broken*
+autodmg-rss.py
 --------------
 
-`autodmg-rss.py` reads [Apple's RSS feed for software updates](http://rss.support.apple.com/?channel=DOWNLOADS) and creates a plist with the name and URL of each update. Not all updates have standard download buttons (notably iTunes), and some updates are only available from Software Update, so some will have to be added manually.
+`autodmg-rss.py` reads [Apple's RSS feed for software updates](http://rss.support.apple.com/?channel=DOWNLOADS) and creates a plist with the name and URL of each update. Not all updates have standard download buttons, and some updates are only available from Software Update, so some will still have to be added manually.
 
 
 autodmg-checksum.py
@@ -30,8 +30,8 @@ Suggested Workflow
 1. Install a bare OS on a test machine, and perform initial setup.
 2. Run `sudo softwareupdate -l -a`.
 3. Note the updates and the order they appear in.
-4. ~~Run `./autodmg-rss.py updates.plist`.~~ *Script is currently broken, find links on [Apple's download page](https://support.apple.com/downloads/macos) for now.*
-5. ~~Use `updates.plist` to update AutoDMG's `UpdateProfiles.plist`, while paying attention to installation order.~~
+4. Run `./autodmg-rss.py updates.plist`.
+5. Use `updates.plist` to update AutoDMG's `UpdateProfiles.plist`, while paying attention to installation order.
 6. Manually add any updates that `autodmg-rss.py` doesn't find (see below), and remove deprecated updates.
 7. Run `./autodmg-checksum.py UpdateProfiles.plist`.
 8. Run `./autodmg-verify.py UpdateProfiles.plist`.
