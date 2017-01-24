@@ -221,13 +221,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.5.4</string>
+			<string>iTunes 12.5.5</string>
 			<key>sha1</key>
-			<string>211de6432af0a47b1a82e2fd548669b66d581863</string>
+			<string>65a03ec45540ce6666512f62ece0d1c3e1002d4e</string>
 			<key>size</key>
-			<integer>276066408</integer>
+			<integer>275997336</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/031-77736-20161212-7D847B64-BE2C-11E6-93D2-FAEA82FDB0CC/iTunes12.5.4.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/031-94941-20170123-014E3FF0-DF1D-11E6-8CA3-55D3D55B5B9D/iTunes12.5.5.dmg</string>
 		</dict>
 	</dict>
 </dict>
