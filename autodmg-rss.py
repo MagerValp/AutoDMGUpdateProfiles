@@ -5,15 +5,26 @@
 """Helper tool to generate AutoDMG profiles."""
 
 
-from xml.etree import ElementTree
+from __future__ import unicode_literals
+from __future__ import print_function
+from __future__ import division
+import io
 import sys
+import codecs
+if sys.stdout.encoding != "UTF-8":
+    sys.stdout = codecs.getwriter("utf-8")(sys.stdout, "strict")
+if sys.stderr.encoding != "UTF-8":
+    sys.stderr = codecs.getwriter("utf-8")(sys.stderr, "strict")
+
+
+from xml.etree import ElementTree
 import argparse
 import re
 import urllib2
 import plistlib
 
 
-FEED_URL = u"http://rss.support.apple.com/?channel=DOWNLOADS"
+FEED_URL = "http://rss.support.apple.com/?channel=DOWNLOADS"
 
 INCLUDED_UPDATES = [
     "Update",
@@ -28,26 +39,19 @@ EXCLUDED_UPDATES = [
 ]
 
 
-def print8(*args):
-    print " ".join(unicode(x).encode(u"utf-8") for x in args)
-
-def printerr8(*args):
-    print >>sys.stderr, " ".join(unicode(x).encode(u"utf-8") for x in args)
-
-
 def get_download_url(link):
     """Follows HTTP 302 redirects to fetch the final url of a download."""
-    base_url = u"https://support.apple.com"
+    base_url = "https://support.apple.com"
     article_number = link.split("/")[-1]
-    download_url = (u"{}/downloads/{}/en_US/".format(base_url, article_number))
+    download_url = ("{}/downloads/{}/en_US/".format(base_url, article_number))
     try:
         request = urllib2.Request(download_url)
         response = urllib2.urlopen(request)
     except BaseException as e:
-        sys.exit(u"Can't download %s: %s" % (download_url, unicode(e)))
+        sys.exit("Can't download %s: %s" % (download_url, unicode(e)))
     
-    filename = response.geturl().split(u"/")[-1]
-    return u"{}{}".format(download_url, filename)
+    filename = response.geturl().split("/")[-1]
+    return "{}{}".format(download_url, filename)
 
 
 def get_itunes_download_url(title):
@@ -55,12 +59,12 @@ def get_itunes_download_url(title):
     download link from the iTunes download page.
     """
     re_version = re.compile(ur"(?P<version>(?:(\d+)\.)?(?:(\d+)\.)?(\d+)(.*))")
-    itunes_base_url = u"https://swdlp.apple.com/iframes/82/en_us/82_en_us.html"
+    itunes_base_url = "https://swdlp.apple.com/iframes/82/en_us/82_en_us.html"
     
     # Figure out which version we need a url for
     version_match = re_version.search(title)
     if version_match:
-        version = version_match.group(u"version")
+        version = version_match.group("version")
     
     # Build a regex to include the version number
     re_url = re.compile(ur"value='(https://.*?iTunes{}.dmg)'".format(version))
@@ -68,7 +72,7 @@ def get_itunes_download_url(title):
     try:
         html = urllib2.urlopen(itunes_base_url).read()
     except urllib2.URLError as e:
-        sys.exit(u"Feed fetching failed: %s" % unicode(e))
+        sys.exit("Feed fetching failed: %s" % unicode(e))
     
     url_match = re_url.search(html)
     if url_match:
@@ -77,27 +81,27 @@ def get_itunes_download_url(title):
 
 def main(argv):
     p = argparse.ArgumentParser()
-    p.add_argument(u"-v", u"--verbose", action=u"store_true",
-                   help=u"Verbose output.")
-    p.add_argument(u"updates", help=u"plist with updates")
+    p.add_argument("-v", "--verbose", action="store_true",
+                   help="Verbose output.")
+    p.add_argument("updates", help="plist with updates")
     args = p.parse_args(argv[1:])
     
     if args.verbose:
-        printerr8(u"Downloading %s\n" % FEED_URL)
+        print("Downloading {}\n".format(FEED_URL))
     
     try:
         rss_feed = urllib2.urlopen(FEED_URL)
         rss_feed = ElementTree.parse(rss_feed)
     except urllib2.URLError as e:
-        sys.exit(u"Feed fetching failed: %s" % unicode(e))
+        sys.exit("Feed fetching failed: %s" % unicode(e))
     except ElementTree.ParseError as e:
-        sys.exit(u"Feed parsing failed: %s" % unicode(e))
+        sys.exit("Feed parsing failed: %s" % unicode(e))
     
-    updates_found = {u"Updates": {}}
+    updates_found = {"Updates": {}}
     
-    for item in rss_feed.findall(u".//item"):
-        title = item.find(u"title").text
-        if title.startswith(u"Download "):
+    for item in rss_feed.findall(".//item"):
+        title = item.find("title").text
+        if title.startswith("Download "):
             title = title[9:]
         
         # Only includes updates with "INCLUDED_UPDATES" in the title.
@@ -105,34 +109,34 @@ def main(argv):
         if (not any(update in title for update in INCLUDED_UPDATES) or
                 any(update in title for update in EXCLUDED_UPDATES)):
             if args.verbose:
-                print8(u"Skipping {}\n".format(title))
+                print("Skipping {}\n".format(title))
             continue
         
-        link = item.find(u"link").text
+        link = item.find("link").text
         if not link:
-            print8(u"Unable to find link for {}".format(title))
+            print("Unable to find link for {}".format(title))
             continue
         url = get_download_url(link)
         if not url:
-            print8(u"Unable to find URL for {}".format(title))
+            print("Unable to find URL for {}".format(title))
             continue
         
-        if (u".dmg" or u".pkg") not in url:
-            if u"iTunes" in title:
+        if (".dmg" or ".pkg") not in url:
+            if "iTunes" in title:
                 url = get_itunes_download_url(title)
         
-        print8(title)
+        print("# {}".format(title))
         if args.verbose:
-            print8(url + u"\n")
+            print(url + "\n")
         
         update = {
-            u"name": title,
-            u"url": url,
+            "name": title,
+            "url": url,
         }
         
-        updates_found[u"Updates"][link.split(u"/")[-1]] = update
+        updates_found["Updates"][link.split("/")[-1]] = update
     
-    print8(u"Saving to {}".format(args.updates))
+    print("Saving to {}".format(args.updates))
     plistlib.writePlist(updates_found, args.updates)
     
     return 0
