@@ -97,6 +97,9 @@ def main(argv):
     
     for item in rss_feed.findall(u".//item"):
         title = item.find(u"title").text
+        if title.startswith(u"Download "):
+            title = title[9:]
+        
         # Only includes updates with "INCLUDED_UPDATES" in the title.
         # Filters out "EXCLUDED_UPDATES" for things we don't care about.
         if (not any(update in title for update in INCLUDED_UPDATES) or
@@ -106,7 +109,13 @@ def main(argv):
             continue
         
         link = item.find(u"link").text
+        if not link:
+            print8(u"Unable to find link for {}".format(title))
+            continue
         url = get_download_url(link)
+        if not url:
+            print8(u"Unable to find URL for {}".format(title))
+            continue
         
         if (u".dmg" or u".pkg") not in url:
             if u"iTunes" in title:
@@ -123,6 +132,7 @@ def main(argv):
         
         updates_found[u"Updates"][link.split(u"/")[-1]] = update
     
+    print8(u"Saving to {}".format(args.updates))
     plistlib.writePlist(updates_found, args.updates)
     
     return 0
