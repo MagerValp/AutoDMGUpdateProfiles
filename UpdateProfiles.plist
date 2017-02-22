@@ -86,6 +86,7 @@
 		</array>
 		<key>10.11.6-15G31</key>
 		<array>
+			<string>RemoteDesktopClient</string>
 			<string>CameraRawElCap</string>
 			<string>iTunes</string>
 			<string>SafariElCap</string>
@@ -93,6 +94,7 @@
 		</array>
 		<key>10.12.3-16D32</key>
 		<array>
+			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
 		</array>
 		<key>10.9.5-13F34</key>
@@ -134,13 +136,13 @@
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
-			<string>Remote Desktop Client Update 3.8.5.1</string>
+			<string>Remote Desktop Client Update 3.9.0</string>
 			<key>sha1</key>
-			<string>a9d22fe999931ab0209cb0b0ad9b5c0322ca6fd3</string>
+			<string>f472505e88bf53833b206748966025c6570a437d</string>
 			<key>size</key>
-			<integer>7888653</integer>
+			<integer>9282335</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1875/en_US/remotedesktopclient.dmg</string>
+			<string>http://support.apple.com/downloads/DL1909/en_US/remotedesktopclient.dmg</string>
 		</dict>
 		<key>SafariElCap</key>
 		<dict>
