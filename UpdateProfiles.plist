@@ -108,7 +108,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-02-22T17:49:52Z</date>
+	<date>2017-03-15T04:04:04Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>BookKit</key>
@@ -136,13 +136,13 @@
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
-			<string>Remote Desktop Client Update 3.9.0</string>
+			<string>Remote Desktop Client Update 3.9.2</string>
 			<key>sha1</key>
-			<string>f472505e88bf53833b206748966025c6570a437d</string>
+			<string>2ad3b30ca2e15312a421d4383cbe410b9314f9fa</string>
 			<key>size</key>
-			<integer>9282335</integer>
+			<integer>8768918</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1909/en_US/remotedesktopclient.dmg</string>
+			<string>http://swcdn.apple.com/content/downloads/51/41/091-00404/yf2kt4gajz3qh788grqeg366vuglw5l3hw/RemoteDesktopClient.pkg</string>
 		</dict>
 		<key>SafariElCap</key>
 		<dict>
