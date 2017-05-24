@@ -111,7 +111,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-05-15T18:19:56Z</date>
+	<date>2017-05-24T12:05:42Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -240,11 +240,11 @@
 			<key>name</key>
 			<string>iTunes 12.6.1</string>
 			<key>sha1</key>
-			<string>84e287316015603e3a1687af6a0577ea2679b0c3</string>
+			<string>d90cc2acbb6270996821be298daeffdbb9214de3</string>
 			<key>size</key>
-			<integer>282989992</integer>
+			<integer>283099318</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/091-14260-20170515-42ED3D8C-369B-11E7-BA5D-08A72DBC0DB3/iTunes12.6.1.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/091-14787-20170523-86F107F8-3FB9-11E7-A63F-D7F22C6174CC/iTunes12.6.1.dmg</string>
 		</dict>
 	</dict>
 </dict>
