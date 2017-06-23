@@ -111,7 +111,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-05-24T12:05:42Z</date>
+	<date>2017-06-23T15:30:17Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -150,13 +150,13 @@
 		<key>RemoteDesktopClient</key>
 		<dict>
 			<key>name</key>
-			<string>Remote Desktop Client Update 3.9.2</string>
+			<string>Remote Desktop Client Update 3.9.3</string>
 			<key>sha1</key>
-			<string>2ad3b30ca2e15312a421d4383cbe410b9314f9fa</string>
+			<string>8f578ce13def8188e77a9ba4d1a8a369b82f779e</string>
 			<key>size</key>
-			<integer>8768918</integer>
+			<integer>8793493</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/51/41/091-00404/yf2kt4gajz3qh788grqeg366vuglw5l3hw/RemoteDesktopClient.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/50/46/091-14720/s22jiusq9ekq2ioyb6jzy6syqvbavjb46e/RemoteDesktopClient.pkg</string>
 		</dict>
 		<key>SafariElCap</key>
 		<dict>
