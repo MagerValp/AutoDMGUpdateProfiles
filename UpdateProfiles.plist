@@ -98,6 +98,7 @@
 		</array>
 		<key>10.12.6-16G29</key>
 		<array>
+			<string>iTunes</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -110,7 +111,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-06-23T15:30:17Z</date>
+	<date>2017-07-19T19:24:46Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -237,13 +238,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.6.1</string>
+			<string>iTunes 12.6.2</string>
 			<key>sha1</key>
-			<string>d90cc2acbb6270996821be298daeffdbb9214de3</string>
+			<string>fe2e229e11b232ab2db12ccd893983bb13a7cdc4</string>
 			<key>size</key>
-			<integer>283099318</integer>
+			<integer>284911210</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/091-14787-20170523-86F107F8-3FB9-11E7-A63F-D7F22C6174CC/iTunes12.6.1.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/091-22852-20170719-8AC524F0-6BB9-11E7-A52A-C5374A4DD6D5/iTunes12.6.2.dmg</string>
 		</dict>
 	</dict>
 </dict>
