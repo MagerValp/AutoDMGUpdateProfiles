@@ -36,7 +36,7 @@
 			<string>15E65</string>
 			<string>15F34</string>
 		</array>
-		<key>10.12.5-16F73</key>
+		<key>10.12.6-16G29</key>
 		<array>
 			<string>16A323</string>
 			<string>16A322</string>
@@ -51,6 +51,9 @@
 			<string>16C68</string>
 			<string>16D32</string>
 			<string>16E195</string>
+			<string>16F73</string>
+			<string>16F2073</string>
+			<string>16F2104</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -73,7 +76,7 @@
 	</array>
 	<key>Profiles</key>
 	<dict>
-		<key>10.10.5-14F2411</key>
+		<key>10.10.5-14F2511</key>
 		<array>
 		</array>
 		<key>10.10.5-14F27</key>
@@ -83,7 +86,7 @@
 			<string>SecurityYo</string>
 			<string>SafariYo</string>
 		</array>
-		<key>10.11.6-15G1510</key>
+		<key>10.11.6-15G1611</key>
 		<array>
 		</array>
 		<key>10.11.6-15G31</key>
@@ -95,10 +98,10 @@
 			<string>SafariElCap</string>
 			<string>AppStoreElCap</string>
 		</array>
-		<key>10.12.5-16F73</key>
+		<key>10.12.6-16G29</key>
 		<array>
-			<string>RemoteDesktopClient</string>
 			<string>iTunes</string>
+			<string>RemoteDesktopClient</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -111,7 +114,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-06-23T15:30:17Z</date>
+	<date>2017-07-19T20:07:59Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -238,13 +241,13 @@
 		<key>iTunes</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.6.1</string>
+			<string>iTunes 12.6.2</string>
 			<key>sha1</key>
-			<string>d90cc2acbb6270996821be298daeffdbb9214de3</string>
+			<string>fe2e229e11b232ab2db12ccd893983bb13a7cdc4</string>
 			<key>size</key>
-			<integer>283099318</integer>
+			<integer>284911210</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/091-14787-20170523-86F107F8-3FB9-11E7-A63F-D7F22C6174CC/iTunes12.6.1.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/091-22852-20170719-8AC524F0-6BB9-11E7-A52A-C5374A4DD6D5/iTunes12.6.2.dmg</string>
 		</dict>
 	</dict>
 </dict>
