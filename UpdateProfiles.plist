@@ -36,7 +36,7 @@
 			<string>15E65</string>
 			<string>15F34</string>
 		</array>
-		<key>10.12.5-16F73</key>
+		<key>10.12.6-16G29</key>
 		<array>
 			<string>16A323</string>
 			<string>16A322</string>
@@ -51,6 +51,7 @@
 			<string>16C68</string>
 			<string>16D32</string>
 			<string>16E195</string>
+			<string>16F73</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -95,10 +96,8 @@
 			<string>SafariElCap</string>
 			<string>AppStoreElCap</string>
 		</array>
-		<key>10.12.5-16F73</key>
+		<key>10.12.6-16G29</key>
 		<array>
-			<string>RemoteDesktopClient</string>
-			<string>iTunes</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
