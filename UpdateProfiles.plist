@@ -52,6 +52,8 @@
 			<string>16D32</string>
 			<string>16E195</string>
 			<string>16F73</string>
+			<string>16F2073</string>
+			<string>16F2104</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -112,7 +114,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-07-19T19:26:04Z</date>
+	<date>2017-07-19T19:52:10Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
