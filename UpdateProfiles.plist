@@ -197,13 +197,13 @@
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2017-002 (El Capitan)</string>
+			<string>Security Update 2017-003 (El Capitan)</string>
 			<key>sha1</key>
-			<string>502aafd298cac5f524fdab1daf6a7674e27728cd</string>
+			<string>ebe661bb32c54e338da0cbaf2d23fd5d07a13374</string>
 			<key>size</key>
-			<integer>710622744</integer>
+			<integer>763907490</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1920/en_US/secupd2017-002elcapitan.dmg</string>
+			<string>http://support.apple.com/downloads/DL1932/en_US/secupd2017-003elcapitan.dmg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
