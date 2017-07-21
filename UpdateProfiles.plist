@@ -114,7 +114,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-07-19T20:07:59Z</date>
+	<date>2017-07-21T12:52:52Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -164,13 +164,13 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.1.1 for El Capitan</string>
+			<string>Safari 10.1.2 for El Capitan</string>
 			<key>sha1</key>
-			<string>037005b0df008fe70f5843b09363bd7aa008a4b1</string>
+			<string>d1c54c91763d9271b28a8a92872b710b3ca4350c</string>
 			<key>size</key>
-			<integer>73117080</integer>
+			<integer>73198997</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/27/23/091-03063/2354sgxgndmvy5w4rruif7f3aw5uphchvr/Safari10.1.1ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/11/18/091-22828/isj968w4tkwqtz4jhlxngzbsr3nit6zh6z/Safari10.1.2ElCapitan.pkg</string>
 		</dict>
 		<key>SafariMav</key>
 		<dict>
@@ -186,24 +186,24 @@
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.1.1 for Yosemite</string>
+			<string>Safari 10.1.2 for Yosemite</string>
 			<key>sha1</key>
-			<string>fa033537f17990c5609d057a7f88587e706b4f41</string>
+			<string>86b8af542c1a8d35c5fc64a477733afe828a51c2</string>
 			<key>size</key>
-			<integer>72822161</integer>
+			<integer>73194892</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/08/23/091-02722/anzj6rcuourekx784i99cz29rd472rb3yp/Safari10.1.1Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/49/15/091-22830/922z4gigaqp3s1ww66w487cbm88x2cd2gu/Safari10.1.2Yosemite.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2017-002 (El Capitan)</string>
+			<string>Security Update 2017-003 (El Capitan)</string>
 			<key>sha1</key>
-			<string>502aafd298cac5f524fdab1daf6a7674e27728cd</string>
+			<string>ebe661bb32c54e338da0cbaf2d23fd5d07a13374</string>
 			<key>size</key>
-			<integer>710622744</integer>
+			<integer>763907490</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1920/en_US/secupd2017-002elcapitan.dmg</string>
+			<string>http://support.apple.com/downloads/DL1932/en_US/secupd2017-003elcapitan.dmg</string>
 		</dict>
 		<key>SecurityMav</key>
 		<dict>
@@ -219,13 +219,13 @@
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2017-002 (Yosemite)</string>
+			<string>Security Update 2017-003 (Yosemite)</string>
 			<key>sha1</key>
-			<string>9998bccdd6bd05e06b7da21fbb7835e7fe370de5</string>
+			<string>5079894334ea2054a30a7e44e0ccf59e5aa72d8a</string>
 			<key>size</key>
-			<integer>421094826</integer>
+			<integer>431572394</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1919/en_US/secupd2017-002yosemite.dmg</string>
+			<string>http://support.apple.com/downloads/DL1933/en_US/secupd2017-003yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
