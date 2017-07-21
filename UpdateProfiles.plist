@@ -219,13 +219,13 @@
 		<key>SecurityYo</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2017-002 (Yosemite)</string>
+			<string>Security Update 2017-003 (Yosemite)</string>
 			<key>sha1</key>
-			<string>9998bccdd6bd05e06b7da21fbb7835e7fe370de5</string>
+			<string>5079894334ea2054a30a7e44e0ccf59e5aa72d8a</string>
 			<key>size</key>
-			<integer>421094826</integer>
+			<integer>431572394</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1919/en_US/secupd2017-002yosemite.dmg</string>
+			<string>http://support.apple.com/downloads/DL1933/en_US/secupd2017-003yosemite.dmg</string>
 		</dict>
 		<key>iBooks</key>
 		<dict>
