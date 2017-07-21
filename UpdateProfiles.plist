@@ -186,13 +186,13 @@
 		<key>SafariYo</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.1.1 for Yosemite</string>
+			<string>Safari 10.1.2 for Yosemite</string>
 			<key>sha1</key>
-			<string>fa033537f17990c5609d057a7f88587e706b4f41</string>
+			<string>86b8af542c1a8d35c5fc64a477733afe828a51c2</string>
 			<key>size</key>
-			<integer>72822161</integer>
+			<integer>73194892</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/08/23/091-02722/anzj6rcuourekx784i99cz29rd472rb3yp/Safari10.1.1Yosemite.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/49/15/091-22830/922z4gigaqp3s1ww66w487cbm88x2cd2gu/Safari10.1.2Yosemite.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
