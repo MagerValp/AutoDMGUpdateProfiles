@@ -55,7 +55,7 @@
 			<string>16F2073</string>
 			<string>16F2104</string>
 		</array>
-		<key>10.13-17A358a</key>
+		<key>10.13-17A360a</key>
 		<array>
 			<string>17A306f</string>
 			<string>17A291m</string>
@@ -65,6 +65,7 @@
 			<string>17A330h</string>
 			<string>17A344b</string>
 			<string>17A352a</string>
+			<string>17A358a</string>
 		</array>
 		<key>10.9.5-13F34</key>
 		<array>
@@ -114,7 +115,7 @@
 			<string>iTunes</string>
 			<string>RemoteDesktopClient</string>
 		</array>
-		<key>10.13-17A358a</key>
+		<key>10.13-17A360a</key>
 		<array>
 			<string>iTunes</string>
 		</array>
@@ -129,7 +130,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-08-28T18:57:03Z</date>
+	<date>2017-09-04T10:20:49Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
