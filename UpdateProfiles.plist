@@ -113,7 +113,6 @@
 		</array>
 		<key>10.12.6-16G29</key>
 		<array>
-			<string>iTunes</string>
 			<string>RemoteDesktopClient</string>
 		</array>
 		<key>10.13-17A362a</key>
@@ -131,7 +130,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-09-14T18:20:30Z</date>
+	<date>2017-09-14T22:06:20Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
