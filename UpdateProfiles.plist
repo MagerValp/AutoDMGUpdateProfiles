@@ -115,6 +115,7 @@
 		<key>10.12.6-16G29</key>
 		<array>
 			<string>RemoteDesktopClient</string>
+			<string>SafariSierra</string>
 		</array>
 		<key>10.13-17A365</key>
 		<array>
@@ -131,7 +132,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-09-25T18:17:11Z</date>
+	<date>2017-09-26T07:06:00Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -181,13 +182,13 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 10.1.2 for El Capitan</string>
+			<string>Safari 11.0 for El Capitan</string>
 			<key>sha1</key>
-			<string>d1c54c91763d9271b28a8a92872b710b3ca4350c</string>
+			<string>3e4e0285c3b6aaad6088b738595eebaf580a3191</string>
 			<key>size</key>
-			<integer>73198997</integer>
+			<integer>73842070</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/11/18/091-22828/isj968w4tkwqtz4jhlxngzbsr3nit6zh6z/Safari10.1.2ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/61/53/031-98377/ao3e0s3d4tkttp2rbhaj94ikjg4g1dqpif/Safari11.0ElCapitan.pkg</string>
 		</dict>
 		<key>SafariMav</key>
 		<dict>
@@ -199,6 +200,17 @@
 			<integer>63186815</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/47/05/031-75479/4l0mviuw0q0eey0tl79gwl4cillof6yyp0/Safari9.1.3Mavericks.pkg</string>
+		</dict>
+		<key>SafariSierra</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 11.0 for Sierra</string>
+			<key>sha1</key>
+			<string>59df1c8eed56f0e0932a7ff7cc5ef694eee4fd65</string>
+			<key>size</key>
+			<integer>75554203</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/36/14/091-00938/p3q0nh19f3vfti9kp449ms1e4wrjh9ltva/Safari11.0Sierra.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
