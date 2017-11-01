@@ -154,13 +154,13 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 11.0 for El Capitan</string>
+			<string>Safari 11.0.1 for El Capitan</string>
 			<key>sha1</key>
-			<string>3e4e0285c3b6aaad6088b738595eebaf580a3191</string>
+			<string>f28dd2811515f96c139f652398b49350664a28a4</string>
 			<key>size</key>
-			<integer>73842070</integer>
+			<integer>73899409</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/61/53/031-98377/ao3e0s3d4tkttp2rbhaj94ikjg4g1dqpif/Safari11.0ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/16/09/091-33402/fnpiqqd4on1on5s0c50l8b3jk1yfmp25mx/Safari11.0.1ElCapitan.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
@@ -176,7 +176,14 @@
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2017-003 (El Capitan)</string>
+			<string>Security Update 2017-004 (El Capitan)</string>
+			<key>sha1</key>
+			<string>efd1f866df862694118ae9131b6f066711cbed4f</string>
+			<key>size</key>
+			<integer>473464232</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/20/57/091-41764/g7nmv5zqkuubye96a3gyt84xyepm5c2ybz/SecUpd2017-004ElCapitan.pkg</string>
+		</dict>
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
