@@ -113,7 +113,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-11-01T09:35:55Z</date>
+	<date>2017-11-03T19:27:32Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -176,22 +176,22 @@
 			<key>name</key>
 			<string>Security Update 2017-004 (El Capitan)</string>
 			<key>sha1</key>
-			<string>efd1f866df862694118ae9131b6f066711cbed4f</string>
+			<string>32ef0aace4beb06b31a4df7f0406e0071154a177</string>
 			<key>size</key>
-			<integer>473464232</integer>
+			<integer>853573026</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/20/57/091-41764/g7nmv5zqkuubye96a3gyt84xyepm5c2ybz/SecUpd2017-004ElCapitan.pkg</string>
+			<string>http://support.apple.com/downloads/DL1939/en_US/secupd2017-004elcapitan.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
 			<string>Security Update 2017-001 (Sierra)</string>
 			<key>sha1</key>
-			<string>30a24930dc28150de02f745b02e0dc96e3d34bb0</string>
+			<string>89eefbab6eb9720ebb53ac898c70147ffbe6c272</string>
 			<key>size</key>
-			<integer>481869226</integer>
+			<integer>768283555</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/18/44/091-41055/m0r3838sb33d0pjl7d4359vdyxcuy6xhda/SecUpd2017-001Sierra.pkg</string>
+			<string>http://support.apple.com/downloads/DL1940/en_US/secupd2017-001sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
