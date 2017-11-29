@@ -106,13 +106,17 @@
 			<string>SafariSierra</string>
 			<string>SecuritySierra</string>
 		</array>
+		<key>10.13.1-17B1002</key>
+		<array>
+		</array>
 		<key>10.13.1-17B48</key>
 		<array>
 			<string>iTunesHighSierra</string>
+			<string>SecurityHighSierra</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-11-03T19:52:51Z</date>
+	<date>2017-11-29T18:08:52Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -180,6 +184,17 @@
 			<integer>853573026</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1939/en_US/secupd2017-004elcapitan.dmg</string>
+		</dict>
+		<key>SecurityHighSierra</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2017-001 (High Sierra)</string>
+			<key>sha1</key>
+			<string>59ef5eabcf053546939327ef5a45f64cd7f6682b</string>
+			<key>size</key>
+			<integer>2101107</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1942/en_US/macOSUpd10.13.1Supplemental.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
