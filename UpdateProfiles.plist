@@ -54,6 +54,7 @@
 			<string>16F73</string>
 			<string>16F2073</string>
 			<string>16F2104</string>
+			<string>16G1036</string>
 		</array>
 		<key>10.13.2-17C88</key>
 		<array>
@@ -101,7 +102,7 @@
 			<string>SafariElCap</string>
 			<string>AppStoreElCap</string>
 		</array>
-		<key>10.12.6-16G1036</key>
+		<key>10.12.6-16G1114</key>
 		<array>
 		</array>
 		<key>10.12.6-16G29</key>
