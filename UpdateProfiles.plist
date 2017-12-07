@@ -35,6 +35,7 @@
 			<string>15D21</string>
 			<string>15E65</string>
 			<string>15F34</string>
+			<string>15G1611</string>
 		</array>
 		<key>10.12.6-16G29</key>
 		<array>
@@ -91,9 +92,6 @@
 			<string>RemoteDesktopClient</string>
 			<string>SecurityYo</string>
 		</array>
-		<key>10.11.6-15G1611</key>
-		<array>
-		</array>
 		<key>10.11.6-15G31</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -117,7 +115,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-12-07T13:11:51Z</date>
+	<date>2017-12-07T14:17:13Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -156,13 +154,13 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 11.0.1 for El Capitan</string>
+			<string>Safari 11.0.2 for El Capitan</string>
 			<key>sha1</key>
-			<string>f28dd2811515f96c139f652398b49350664a28a4</string>
+			<string>80c3aa79a5a8924945b7544bf7a93501613c4309</string>
 			<key>size</key>
-			<integer>73899409</integer>
+			<integer>73883029</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/16/09/091-33402/fnpiqqd4on1on5s0c50l8b3jk1yfmp25mx/Safari11.0.1ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/01/07/091-39292/n2d1rlab3b9l71z5cnrlpdpys0xmdf51pw/Safari11.0.2ElCapitan.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
@@ -178,13 +176,13 @@
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2017-004 (El Capitan)</string>
+			<string>Security Update 2017-005 (El Capitan)</string>
 			<key>sha1</key>
-			<string>32ef0aace4beb06b31a4df7f0406e0071154a177</string>
+			<string>3633d3c541461c4fe3421ee77608f8fe4511fc5e</string>
 			<key>size</key>
-			<integer>853573026</integer>
+			<integer>630430283</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1939/en_US/secupd2017-004elcapitan.dmg</string>
+			<string>https://support.apple.com/downloads/DL1945/en_US/SecUpd2017-005ElCapitan.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
