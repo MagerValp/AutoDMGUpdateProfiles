@@ -106,8 +106,9 @@
 		</array>
 		<key>10.12.6-16G29</key>
 		<array>
-			<string>SafariSierra</string>
+			<string>RemoteDesktopClient</string>
 			<string>SecuritySierra</string>
+			<string>SafariSierra</string>
 		</array>
 		<key>10.13.2-17C88</key>
 		<array>
@@ -115,7 +116,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-12-07T08:29:58Z</date>
+	<date>2017-12-07T13:11:51Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -165,13 +166,13 @@
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 11.0.1 for Sierra</string>
+			<string>Safari 11.0.2 for Sierra</string>
 			<key>sha1</key>
-			<string>96a4f2f9bcdc0b9ab895ff14425a272e72d627eb</string>
+			<string>5183c28b99f067402156d92a297a23fee9715980</string>
 			<key>size</key>
-			<integer>75578771</integer>
+			<integer>75623831</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/09/50/091-32581/3xaya0hxl12x31rgnp5ky0ouxqouhuw3le/Safari11.0.1Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/62/02/091-39067/88yim653vp6q66ssxfzddbf4cjuafudxdw/Safari11.0.2Sierra.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
@@ -187,13 +188,13 @@
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2017-001 (Sierra)</string>
+			<string>Security Update 2017-002 (Sierra)</string>
 			<key>sha1</key>
-			<string>89eefbab6eb9720ebb53ac898c70147ffbe6c272</string>
+			<string>d6d96a72a5f6771784925e7a1d354d7ced461139</string>
 			<key>size</key>
-			<integer>768283555</integer>
+			<integer>765637802</integer>
 			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1940/en_US/secupd2017-001sierra.dmg</string>
+			<string>https://support.apple.com/downloads/DL1940/en_US/secupd2017-002sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
