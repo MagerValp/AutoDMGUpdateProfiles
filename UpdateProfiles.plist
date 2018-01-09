@@ -115,7 +115,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2017-12-15T10:26:09Z</date>
+	<date>2018-01-09T11:51:15Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -156,22 +156,22 @@
 			<key>name</key>
 			<string>Safari 11.0.2 for El Capitan</string>
 			<key>sha1</key>
-			<string>80c3aa79a5a8924945b7544bf7a93501613c4309</string>
+			<string>0aea0177b9eb96830154dfe555b1f077ce7bf254</string>
 			<key>size</key>
-			<integer>73883029</integer>
+			<integer>74194325</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/01/07/091-39292/n2d1rlab3b9l71z5cnrlpdpys0xmdf51pw/Safari11.0.2ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/23/39/091-57783/avz9r6qxtzo5kcqa1cgip0haqgpvsmsyjw/Safari11.0.2ElCapitan.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
 			<string>Safari 11.0.2 for Sierra</string>
 			<key>sha1</key>
-			<string>5183c28b99f067402156d92a297a23fee9715980</string>
+			<string>a9feb63c44bffc9ef4066c55d4ef246969f96d8f</string>
 			<key>size</key>
-			<integer>75623831</integer>
+			<integer>76086678</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/62/02/091-39067/88yim653vp6q66ssxfzddbf4cjuafudxdw/Safari11.0.2Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/15/04/091-57952/xmc5ov2r2br3kxko4twuee5e2eyglb7wua/Safari11.0.2Sierra.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
