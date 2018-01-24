@@ -56,6 +56,7 @@
 			<string>16F2073</string>
 			<string>16F2104</string>
 			<string>16G1036</string>
+			<string>16G1114</string>
 		</array>
 		<key>10.13.2-17C88</key>
 		<array>
@@ -100,7 +101,7 @@
 			<string>SafariElCap</string>
 			<string>AppStoreElCap</string>
 		</array>
-		<key>10.12.6-16G1114</key>
+		<key>10.12.6-16G1212</key>
 		<array>
 		</array>
 		<key>10.12.6-16G29</key>
@@ -115,7 +116,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-01-09T11:51:15Z</date>
+	<date>2018-01-24T09:24:20Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -154,46 +155,46 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 11.0.2 for El Capitan</string>
+			<string>Safari 11.0.3 for El Capitan</string>
 			<key>sha1</key>
-			<string>0aea0177b9eb96830154dfe555b1f077ce7bf254</string>
+			<string>82a1c3aefb29cc850dd3906877e0bec2317caaaf</string>
 			<key>size</key>
-			<integer>74194325</integer>
+			<integer>75484563</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/23/39/091-57783/avz9r6qxtzo5kcqa1cgip0haqgpvsmsyjw/Safari11.0.2ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/05/11/091-45619/xi037dasdc60ehkvb9hj568g5lxhqxg0az/Safari11.0.3ElCapitan.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 11.0.2 for Sierra</string>
+			<string>Safari 11.0.3 for Sierra</string>
 			<key>sha1</key>
-			<string>a9feb63c44bffc9ef4066c55d4ef246969f96d8f</string>
+			<string>850dc456bb31a5c19aebb61f8dc007a88157bcbe</string>
 			<key>size</key>
-			<integer>76086678</integer>
+			<integer>76086686</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/15/04/091-57952/xmc5ov2r2br3kxko4twuee5e2eyglb7wua/Safari11.0.2Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/16/23/091-45578/vcwdecdjn4lxx2yyteucqnt2wim6gnchhe/Safari11.0.3Sierra.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
 			<string>Security Update 2017-005 (El Capitan)</string>
 			<key>sha1</key>
-			<string>3633d3c541461c4fe3421ee77608f8fe4511fc5e</string>
+			<string>4baec7bd398f5bf6afd19151c4ba4c84313bfebf</string>
 			<key>size</key>
-			<integer>630430283</integer>
+			<integer>862998040</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1945/en_US/SecUpd2017-005ElCapitan.dmg</string>
+			<string>http://appldnld.apple.com/macos/091-51891-20180123-C32773BE-FE2D-11E7-8FB3-70EB5209FAF2/SecUpd2018-001ElCapitan.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2017-002 (Sierra)</string>
+			<string>Security Update 2018-001 (Sierra)</string>
 			<key>sha1</key>
-			<string>d6d96a72a5f6771784925e7a1d354d7ced461139</string>
+			<string>5b85434a273a1e0966cbae6b5378504bf5b57b53</string>
 			<key>size</key>
-			<integer>765637802</integer>
+			<integer>766558947</integer>
 			<key>url</key>
-			<string>https://support.apple.com/downloads/DL1940/en_US/secupd2017-002sierra.dmg</string>
+			<string>http://appldnld.apple.com/macos/091-62748-20180123-C32773BE-FE2D-11E7-8FB3-70EB5209FAF2/SecUpd2018-001Sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
