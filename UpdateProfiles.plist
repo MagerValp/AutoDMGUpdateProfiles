@@ -92,6 +92,7 @@
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
+			<string>iTunes</string>
 			<string>SecurityYo</string>
 			<string>SafariYo</string>
 		</array>
@@ -114,7 +115,7 @@
 		</array>
 		<key>10.13.3-17D47</key>
 		<array>
-			<string>iTunesHighSierra</string>
+			<string>iTunes</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
@@ -220,7 +221,7 @@
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1933/en_US/secupd2017-003yosemite.dmg</string>
 		</dict>
-		<key>iTunesHighSierra</key>
+		<key>iTunes</key>
 		<dict>
 			<key>name</key>
 			<string>iTunes 12.7.3</string>
