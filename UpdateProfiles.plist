@@ -212,13 +212,13 @@
 		<key>iTunesHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.7.3</string>
+			<string>iTunes 12.7.4</string>
 			<key>sha1</key>
-			<string>55c3755216b1e428d96629daf4b22acadb504e10</string>
+			<string>fd62639e57df4479f2e7e8b3a9e895ae34154c30</string>
 			<key>size</key>
-			<integer>277304889</integer>
+			<integer>285728911</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/091-44972-20180123-72201340-FFEA-11E7-9647-DA8C65562ECE/iTunes12.7.3.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/091-76329-20180329-89A41942-32EB-11E8-9560-CEB2B071F5CF/iTunes12.7.4.dmg</string>
 		</dict>
 	</dict>
 </dict>
