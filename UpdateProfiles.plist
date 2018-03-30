@@ -58,7 +58,7 @@
 			<string>16G1036</string>
 			<string>16G1114</string>
 		</array>
-		<key>10.13.3-17D47</key>
+		<key>10.13.4-17E199</key>
 		<array>
 			<string>17A306f</string>
 			<string>17A291m</string>
@@ -77,6 +77,7 @@
 			<string>17B1002</string>
 			<string>17B1003</string>
 			<string>17C88</string>
+			<string>17D47</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -111,7 +112,7 @@
 			<string>SecuritySierra</string>
 			<string>SafariSierra</string>
 		</array>
-		<key>10.13.3-17D47</key>
+		<key>10.13.4-17E199</key>
 		<array>
 			<string>iTunesHighSierra</string>
 		</array>
