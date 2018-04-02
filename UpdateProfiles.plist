@@ -95,6 +95,7 @@
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>SecurityYo</string>
+			<string>SafariYo</string>
 		</array>
 		<key>10.11.6-15G31</key>
 		<array>
@@ -172,6 +173,17 @@
 			<integer>79764882</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/05/46/091-54621/2duxuu57s3i33v7khruv428xzrsvxipuof/Safari11.1Sierra.pkg</string>
+		</dict>
+		<key>SafariYo</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 10.1.2 for Yosemite</string>
+			<key>sha1</key>
+			<string>86b8af542c1a8d35c5fc64a477733afe828a51c2</string>
+			<key>size</key>
+			<integer>73194892</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/49/15/091-22830/wb37hl4mbck89pw6j4t386ym6q8d5p1g5m/Safari10.1.2Yosemite.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
