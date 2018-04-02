@@ -93,6 +93,7 @@
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>SecurityYo</string>
+			<string>SafariYo</string>
 		</array>
 		<key>10.11.6-15G31</key>
 		<array>
@@ -117,7 +118,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-01-25T06:54:13Z</date>
+	<date>2018-03-01T22:21:11Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -174,6 +175,17 @@
 			<integer>76086686</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/16/23/091-45578/vcwdecdjn4lxx2yyteucqnt2wim6gnchhe/Safari11.0.3Sierra.pkg</string>
+		</dict>
+		<key>SafariYo</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 10.1.2 for Yosemite</string>
+			<key>sha1</key>
+			<string>86b8af542c1a8d35c5fc64a477733afe828a51c2</string>
+			<key>size</key>
+			<integer>73194892</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/49/15/091-22830/wb37hl4mbck89pw6j4t386ym6q8d5p1g5m/Safari10.1.2Yosemite.pkg</string>
 		</dict>
 		<key>SecurityElCap</key>
 		<dict>
