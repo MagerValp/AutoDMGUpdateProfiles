@@ -120,7 +120,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-04-02T09:53:34Z</date>
+	<date>2018-04-02T14:02:43Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -160,6 +160,10 @@
 		<dict>
 			<key>name</key>
 			<string>Safari 11.1 for El Capitan</string>
+			<key>sha1</key>
+			<string>252c3c38d913969b3e7e248e11f5cb496da4073f</string>
+			<key>size</key>
+			<integer>77839774</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/48/35/091-53908/de9c21etfdr2he3jggs0tftin2twci5xpe/Safari11.1ElCapitan.pkg</string>
 		</dict>
