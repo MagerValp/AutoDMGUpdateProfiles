@@ -158,13 +158,9 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 11.0.3 for El Capitan</string>
-			<key>sha1</key>
-			<string>82a1c3aefb29cc850dd3906877e0bec2317caaaf</string>
-			<key>size</key>
-			<integer>75484563</integer>
+			<string>Safari 11.1 for El Capitan</string>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/05/11/091-45619/xi037dasdc60ehkvb9hj568g5lxhqxg0az/Safari11.0.3ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/48/35/091-53908/de9c21etfdr2he3jggs0tftin2twci5xpe/Safari11.1ElCapitan.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
@@ -180,13 +176,13 @@
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2018-001 (El Capitan)</string>
+			<string>Security Update 2018-002 (El Capitan)</string>
 			<key>sha1</key>
-			<string>4baec7bd398f5bf6afd19151c4ba4c84313bfebf</string>
+			<string>7430826ed471cd0a642cd64632f4eaab58ef5818</string>
 			<key>size</key>
-			<integer>862998040</integer>
+			<integer>869555618</integer>
 			<key>url</key>
-			<string>http://appldnld.apple.com/macos/091-51891-20180123-C32773BE-FE2D-11E7-8FB3-70EB5209FAF2/SecUpd2018-001ElCapitan.dmg</string>
+			<string>http://updates-http.cdn-apple.com/2018/macos/091-59546-20180329-EB838DD4-3366-11E8-B095-68C0B071F5CF/SecUpd2018-002ElCapitan.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
