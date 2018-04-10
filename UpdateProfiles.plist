@@ -99,11 +99,11 @@
 		</array>
 		<key>10.11.6-15G31</key>
 		<array>
-			<string>RemoteDesktopClient</string>
 			<string>CameraRawElCap</string>
 			<string>SecurityElCap</string>
 			<string>SafariElCap</string>
 			<string>AppStoreElCap</string>
+			<string>RemoteDesktopClient</string>
 		</array>
 		<key>10.12.6-16G1314</key>
 		<array>
