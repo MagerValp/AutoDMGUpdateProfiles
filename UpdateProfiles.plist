@@ -117,10 +117,11 @@
 		<key>10.13.4-17E199</key>
 		<array>
 			<string>iTunesHighSierra</string>
+			<string>SecurityHighSierra</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-04-24T08:25:38Z</date>
+	<date>2018-04-25T10:54:16Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -161,22 +162,22 @@
 			<key>name</key>
 			<string>Safari 11.1 for El Capitan</string>
 			<key>sha1</key>
-			<string>252c3c38d913969b3e7e248e11f5cb496da4073f</string>
+			<string>e3a608ba153d954fa86d0037ed0dc4da3f467cec</string>
 			<key>size</key>
-			<integer>77839774</integer>
+			<integer>77835668</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/48/35/091-53908/de9c21etfdr2he3jggs0tftin2twci5xpe/Safari11.1ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/58/50/091-79625/vbyg13c5jzegte5alg0dx9k5xvhgdu4ye5/Safari11.1ElCapitan.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
 			<string>Safari 11.1 for Sierra</string>
 			<key>sha1</key>
-			<string>0f2b4e2fc7a605d84c09789d4c441ee38c721f6f</string>
+			<string>1537324bce9fc3956ca39439af2a50ffe60176dc</string>
 			<key>size</key>
-			<integer>79764882</integer>
+			<integer>79756701</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/05/46/091-54621/2duxuu57s3i33v7khruv428xzrsvxipuof/Safari11.1Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/06/26/091-80217/tf105l98rz80b2e91x2wmjuxg8dpsmfdg2/Safari11.1Sierra.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
@@ -199,6 +200,17 @@
 			<integer>869555618</integer>
 			<key>url</key>
 			<string>http://updates-http.cdn-apple.com/2018/macos/091-59546-20180329-EB838DD4-3366-11E8-B095-68C0B071F5CF/SecUpd2018-002ElCapitan.dmg</string>
+		</dict>
+		<key>SecurityHighSierra</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2018-001 (High Sierra)</string>
+			<key>sha1</key>
+			<string>1200bfff6fc7cc616eaa05c61aad3bd74104b5de</string>
+			<key>size</key>
+			<integer>1016819987</integer>
+			<key>url</key>
+			<string>http://updates-http.cdn-apple.com/2018/macos/091-80383-20180424-33DE1D42-13F0-11E8-94BC-3DD7EA7ECCFA/macOSUpd10.13.4Supplemental.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
