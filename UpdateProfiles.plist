@@ -106,7 +106,7 @@
 			<string>AppStoreElCap</string>
 			<string>RemoteDesktopClient</string>
 		</array>
-		<key>10.12.6-16G1314</key>
+		<key>10.12.6-16G1408</key>
 		<array>
 		</array>
 		<key>10.12.6-16G29</key>
@@ -171,13 +171,13 @@
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 11.1 for Sierra</string>
+			<string>Safari 11.1.1 for Sierra</string>
 			<key>sha1</key>
-			<string>1537324bce9fc3956ca39439af2a50ffe60176dc</string>
+			<string>ca850b5be92f9527ed71ef6bdd240426ab5ebd12</string>
 			<key>size</key>
-			<integer>79756701</integer>
+			<integer>79834517</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/06/26/091-80217/tf105l98rz80b2e91x2wmjuxg8dpsmfdg2/Safari11.1Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/09/51/091-75784/xxae706zt4nwlnxjguf8eud13h6gkd8c6i/Safari11.1.1Sierra.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
@@ -204,13 +204,13 @@
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2018-002 (Sierra)</string>
+			<string>Security Update 2018-003 (Sierra)</string>
 			<key>sha1</key>
-			<string>ca4a56095563dc7bc418b3671cb5a635c7adf55f</string>
+			<string>c1cfac3c2ff34da58dce746c6218854cfa986df7</string>
 			<key>size</key>
-			<integer>779594480</integer>
+			<integer>778200656</integer>
 			<key>url</key>
-			<string>http://appldnld.apple.com/macos/091-57959-20180329-EB83EACC-3366-11E8-BC26-67C0B071F5CF/SecUpd2018-002Sierra.dmg</string>
+			<string>http://updates-http.cdn-apple.com/2018/macos/091-58224-20180601-E393DE12-F342-4258-9851-7B623E6D249B/SecUpd2018-003Sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
