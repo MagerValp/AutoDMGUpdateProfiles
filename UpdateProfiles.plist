@@ -58,6 +58,7 @@
 			<string>16G1036</string>
 			<string>16G1114</string>
 			<string>16G1212</string>
+			<string>16G1314</string>
 		</array>
 		<key>10.13.5-17F77</key>
 		<array>
@@ -97,6 +98,9 @@
 			<string>RemoteDesktopClient</string>
 			<string>SecurityYo</string>
 			<string>SafariYo</string>
+		</array>
+		<key>10.11.6-15G21013</key>
+		<array>
 		</array>
 		<key>10.11.6-15G31</key>
 		<array>
@@ -160,13 +164,13 @@
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 11.1 for El Capitan</string>
+			<string>Safari 11.1.1 for El Capitan</string>
 			<key>sha1</key>
-			<string>e3a608ba153d954fa86d0037ed0dc4da3f467cec</string>
+			<string>7942228fafbd6e4876cd6d780d86ea2dd9e9b1d5</string>
 			<key>size</key>
-			<integer>77835668</integer>
+			<integer>77917598</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/58/50/091-79625/vbyg13c5jzegte5alg0dx9k5xvhgdu4ye5/Safari11.1ElCapitan.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/62/45/091-77731/9hcvul9sqn3dq0j4h9362w3chkwj2ihqn7/Safari11.1.1ElCapitan.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
@@ -193,13 +197,13 @@
 		<key>SecurityElCap</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2018-002 (El Capitan)</string>
+			<string>Security Update 2018-003 (El Capitan)</string>
 			<key>sha1</key>
-			<string>7430826ed471cd0a642cd64632f4eaab58ef5818</string>
+			<string>cb3f4e4d5103082a30f6a2555926c197ebf72c45</string>
 			<key>size</key>
-			<integer>869555618</integer>
+			<integer>871431704</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2018/macos/091-59546-20180329-EB838DD4-3366-11E8-B095-68C0B071F5CF/SecUpd2018-002ElCapitan.dmg</string>
+			<string>http://updates-http.cdn-apple.com/2018/macos/091-60951-20180601-B127CE66-C99A-43F2-8456-5CC14A75929B/SecUpd2018-003ElCapitan.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
