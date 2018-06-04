@@ -201,17 +201,6 @@
 			<key>url</key>
 			<string>http://updates-http.cdn-apple.com/2018/macos/091-59546-20180329-EB838DD4-3366-11E8-B095-68C0B071F5CF/SecUpd2018-002ElCapitan.dmg</string>
 		</dict>
-		<key>SecurityHighSierra</key>
-		<dict>
-			<key>name</key>
-			<string>Security Update 2018-001 (High Sierra)</string>
-			<key>sha1</key>
-			<string>1200bfff6fc7cc616eaa05c61aad3bd74104b5de</string>
-			<key>size</key>
-			<integer>1016819987</integer>
-			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2018/macos/091-80383-20180424-33DE1D42-13F0-11E8-94BC-3DD7EA7ECCFA/macOSUpd10.13.4Supplemental.dmg</string>
-		</dict>
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
