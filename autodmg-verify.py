@@ -56,7 +56,6 @@ def verify_verbuild(verbuild):
         return False
     build_major = int(m.group(u"major"))
     build_minor = ord(m.group(u"minor")) - 0x41
-    build_build = int(m.group(u"build"))
     if build_major != major + 4:
         uprint(u"ERROR: build major does not match OS major: %s" % verbuild)
         return False
