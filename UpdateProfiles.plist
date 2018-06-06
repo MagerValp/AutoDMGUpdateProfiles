@@ -82,6 +82,9 @@
 			<string>17D47</string>
 			<string>17E199</string>
 		</array>
+		<key>10.14-18A293u</key>
+		<array>
+		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
 	<array>
@@ -123,9 +126,12 @@
 		<array>
 			<string>iTunesHighSierra</string>
 		</array>
+		<key>10.14-18A293u</key>
+		<array>
+		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-06-04T09:04:01Z</date>
+	<date>2018-06-06T09:45:21Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
