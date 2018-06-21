@@ -131,7 +131,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-06-06T09:45:21Z</date>
+	<date>2018-06-21T18:43:27Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -205,11 +205,11 @@
 			<key>name</key>
 			<string>Security Update 2018-003 (El Capitan)</string>
 			<key>sha1</key>
-			<string>cb3f4e4d5103082a30f6a2555926c197ebf72c45</string>
+			<string>e598ee89055b424743b73eff6e2091d57d09a668</string>
 			<key>size</key>
-			<integer>871431704</integer>
+			<integer>873848226</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2018/macos/091-60951-20180601-B127CE66-C99A-43F2-8456-5CC14A75929B/SecUpd2018-003ElCapitan.dmg</string>
+			<string>http://updates-http.cdn-apple.com/2018/macos/091-86641-20180604-B127CE66-C99A-43F2-8456-5CC14A75929B/SecUpd2018-003ElCapitan.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
