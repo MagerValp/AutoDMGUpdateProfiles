@@ -60,7 +60,7 @@
 			<string>16G1212</string>
 			<string>16G1314</string>
 		</array>
-		<key>10.13.5-17F77</key>
+		<key>10.13.5-17G65</key>
 		<array>
 			<string>17A306f</string>
 			<string>17A291m</string>
@@ -81,6 +81,7 @@
 			<string>17C88</string>
 			<string>17D47</string>
 			<string>17E199</string>
+			<string>17F77</string>
 		</array>
 		<key>10.14-18A293u</key>
 		<array>
@@ -122,7 +123,7 @@
 			<string>SecuritySierra</string>
 			<string>SafariSierra</string>
 		</array>
-		<key>10.13.5-17F77</key>
+		<key>10.13.5-17G65</key>
 		<array>
 			<string>iTunesHighSierra</string>
 		</array>
@@ -131,7 +132,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-06-21T18:43:27Z</date>
+	<date>2018-07-11T18:28:01Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -236,13 +237,13 @@
 		<key>iTunesHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.7.5</string>
+			<string>iTunes 12.8</string>
 			<key>sha1</key>
-			<string>8e94b9ee5ea38fb78666710f0fede35995723131</string>
+			<string>c0c82adb920626fc500134732c4de2e0de6ea235</string>
 			<key>size</key>
-			<integer>287430766</integer>
+			<integer>275915484</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/091-81932-20180529-DAFCC9F2-5F77-11E8-B1FB-4E9A897FD268/iTunes12.7.5.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/091-81690-20180709-3C97E2AB-D6CC-4B92-B290-2F21E56F6F70/iTunes12.8.dmg</string>
 		</dict>
 	</dict>
 </dict>
