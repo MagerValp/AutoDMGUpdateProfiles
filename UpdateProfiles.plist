@@ -83,7 +83,7 @@
 			<string>17E199</string>
 			<string>17F77</string>
 		</array>
-		<key>10.14-18A371a</key>
+		<key>10.14-18A389</key>
 		<array>
 			<string>18A293u</string>
 			<string>18A314h</string>
@@ -92,6 +92,9 @@
 			<string>18A347e</string>
 			<string>18A353d</string>
 			<string>18A365a</string>
+			<string>18A371a</string>
+			<string>18A377a</string>
+			<string>18A384a</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -134,12 +137,12 @@
 		<array>
 			<string>iTunesHighSierra</string>
 		</array>
-		<key>10.14-18A371a</key>
+		<key>10.14-18A389</key>
 		<array>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-08-20T20:15:38Z</date>
+	<date>2018-09-20T11:07:07Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
