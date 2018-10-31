@@ -194,24 +194,24 @@
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12 for High Sierra</string>
+			<string>Safari 12.0.1 for High Sierra</string>
 			<key>sha1</key>
-			<string>4ab8d4212f889b833f23591319e34b941768d274</string>
+			<string>1eb28441cb31993832fd1b54b8f4303a17326b57</string>
 			<key>size</key>
-			<integer>80809321</integer>
+			<integer>80874852</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/51/54/091-77636/pgscon52wejsvoz8nbjanm8qpe0z69v1am/Safari12.0HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/27/25/041-01598/pkqq8bivbvcmdyivj01etmn5df9oijkv7j/Safari12.0.1HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12 for Sierra</string>
+			<string>Safari 12.0.1 for Sierra</string>
 			<key>sha1</key>
-			<string>7db7f9274cefb8372cf9cbdab4fc572c56f29c4d</string>
+			<string>dd864cebee8eed4924f4cd7e86cfc85811c31c7d</string>
 			<key>size</key>
-			<integer>80645509</integer>
+			<integer>80674150</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/27/44/091-79545/obipg799hidr41hspkoc5kds6uiy5eikxx/Safari12.0Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/32/54/041-01602/7j760a1loh61halacpcwo8fm77y1alpywk/Safari12.0.1Sierra.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
