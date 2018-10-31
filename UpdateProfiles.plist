@@ -238,13 +238,13 @@
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2018-004 (Sierra)</string>
+			<string>Security Update 2018-005 (Sierra)</string>
 			<key>sha1</key>
-			<string>9332acabc82146aa85eaf5abfabd9680edfed1a5</string>
+			<string>9074b7036d622bdc161d85dfecb6f7594c346ce5</string>
 			<key>size</key>
-			<integer>786586361</integer>
+			<integer>817365586</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2018/macos/091-65274-94327-20180709-5409BA12-7C10-11E8-84CF-4F47544C24EB/SecUpd2018-004Sierra.dmg</string>
+			<string>http://updates-http.cdn-apple.com/2018/macos/091-96421-20181030-10052238-C103-11E8-A480-9257C82E983B/SecUpd2018-005Sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
