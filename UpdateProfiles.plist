@@ -137,15 +137,16 @@
 		</array>
 		<key>10.13.6-17G65</key>
 		<array>
-			<string>iTunesHighSierra</string>
 			<string>SafariHighSierra</string>
+			<string>SecurityHighSierra</string>
+			<string>iTunesHighSierra</string>
 		</array>
 		<key>10.14.1-18B75</key>
 		<array>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-10-31T11:38:01Z</date>
+	<date>2018-11-05T20:44:21Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -235,6 +236,17 @@
 			<integer>900459938</integer>
 			<key>url</key>
 			<string>http://updates-http.cdn-apple.com/2018/macos/091-63420-94327-20180709-5409BA12-7C10-11E8-84CF-4F47544C24EB/SecUpd2018-004ElCapitan.dmg</string>
+		</dict>
+		<key>SecurityHighSierra</key>
+		<dict>
+			<key>name</key>
+			<string>Security Update 2018-002 (High Sierra)</string>
+			<key>sha1</key>
+			<string>0bea41b47775b0309af2cb94005835c7b485102a</string>
+			<key>size</key>
+			<integer>1815309721</integer>
+			<key>url</key>
+			<string>http://updates-http.cdn-apple.com/2018/macos/041-18192-20181030-10052238-C103-11E8-A480-9257C82E983B/SecUpd2018-002Sierra.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
