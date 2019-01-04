@@ -59,6 +59,7 @@
 			<string>16G1114</string>
 			<string>16G1212</string>
 			<string>16G1314</string>
+			<string>16G1710</string>
 		</array>
 		<key>10.13.6-17G65</key>
 		<array>
@@ -128,7 +129,7 @@
 			<string>AppStoreElCap</string>
 			<string>RemoteDesktopClient</string>
 		</array>
-		<key>10.12.6-16G1408</key>
+		<key>10.12.6-16G1710</key>
 		<array>
 		</array>
 		<key>10.12.6-16G29</key>
@@ -148,7 +149,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-12-06T12:31:26Z</date>
+	<date>2019-01-05T17:37:27Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -253,13 +254,13 @@
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2018-005 (Sierra)</string>
+			<string>Security Update 2018-006 (Sierra)</string>
 			<key>sha1</key>
-			<string>9074b7036d622bdc161d85dfecb6f7594c346ce5</string>
+			<string>268518b5ea0533ee98602f28e09db32f74f32533</string>
 			<key>size</key>
-			<integer>817365586</integer>
+			<integer>828364203</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2018/macos/091-96421-20181030-10052238-C103-11E8-A480-9257C82E983B/SecUpd2018-005Sierra.dmg</string>
+			<string>http://updates-http.cdn-apple.com/2018/macos/091-98259-20181205-10052238-C103-11E8-A480-9257C82E983B/SecUpd2018-006Sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
