@@ -84,7 +84,7 @@
 			<string>17E199</string>
 			<string>17F77</string>
 		</array>
-		<key>10.14.2-18C54</key>
+		<key>10.14.3-18D42</key>
 		<array>
 			<string>18A293u</string>
 			<string>18A314h</string>
@@ -99,6 +99,7 @@
 			<string>18A389</string>
 			<string>18A391</string>
 			<string>18B75</string>
+			<string>18C54</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -147,7 +148,7 @@
 			<string>SecurityHighSierra</string>
 			<string>iTunesHighSierra</string>
 		</array>
-		<key>10.14.2-18C54</key>
+		<key>10.14.3-18D42</key>
 		<array>
 		</array>
 	</dict>
