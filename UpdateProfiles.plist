@@ -247,24 +247,24 @@
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2018-003 (High Sierra)</string>
+			<string>Security Update 2019-001 (High Sierra)</string>
 			<key>sha1</key>
-			<string>62cb0fcd60567213ed13f5c33a580b2c815e99f9</string>
+			<string>514f83de702fa5efe281dee3847fd0af9b35c624</string>
 			<key>size</key>
-			<integer>1819732313</integer>
+			<integer>1825550030</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2018/macos/041-20507-20181205-A9886AC4-DD54-11E8-9E09-B93A2F73053F/SecUpd2018-003HighSierra.dmg</string>
+			<string>http://updates-http.cdn-apple.com/2019/macos/041-31491-20190122-BBE902D6-D788-11E8-B555-8E91F34A5CAA/SecUpd2019-001HighSierra.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2018-006 (Sierra)</string>
+			<string>Security Update 2019-001 (Sierra)</string>
 			<key>sha1</key>
-			<string>268518b5ea0533ee98602f28e09db32f74f32533</string>
+			<string>2b09b80e7ff937cb1d766af8c977ce7895b8dee3</string>
 			<key>size</key>
-			<integer>828364203</integer>
+			<integer>832853744</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2018/macos/091-98259-20181205-10052238-C103-11E8-A480-9257C82E983B/SecUpd2018-006Sierra.dmg</string>
+			<string>http://updates-http.cdn-apple.com/2019/macos/041-31494-20190122-BBE902D6-D788-11E8-B555-8E91F34A5CAA/SecUpd2019-001Sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
