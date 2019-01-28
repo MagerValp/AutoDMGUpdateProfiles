@@ -130,7 +130,7 @@
 			<string>AppStoreElCap</string>
 			<string>RemoteDesktopClient</string>
 		</array>
-		<key>10.12.6-16G1710</key>
+		<key>10.12.6-16G1815</key>
 		<array>
 		</array>
 		<key>10.12.6-16G29</key>
@@ -139,7 +139,7 @@
 			<string>SecuritySierra</string>
 			<string>SafariSierra</string>
 		</array>
-		<key>10.13.6-17G4015</key>
+		<key>10.13.6-17G5019</key>
 		<array>
 		</array>
 		<key>10.13.6-17G65</key>
@@ -153,7 +153,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-01-23T11:30:46Z</date>
+	<date>2019-01-28T16:00:23Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -280,13 +280,13 @@
 		<key>iTunesHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>iTunes 12.8</string>
+			<string>iTunes 12.8.2</string>
 			<key>sha1</key>
-			<string>c0c82adb920626fc500134732c4de2e0de6ea235</string>
+			<string>77095f6373c2a29b146b1011050871c184d3e0e1</string>
 			<key>size</key>
-			<integer>275915484</integer>
+			<integer>286555253</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/091-81690-20180709-3C97E2AB-D6CC-4B92-B290-2F21E56F6F70/iTunes12.8.dmg</string>
+			<string>https://secure-appldnld.apple.com/itunes12/041-30445-20190122-BFF2CE0C-FA9C-11E8-A8BB-9B0D7D00924D/iTunes12.8.2.dmg</string>
 		</dict>
 	</dict>
 </dict>
