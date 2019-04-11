@@ -112,8 +112,7 @@
 	<key>Profiles</key>
 	<dict>
 		<key>10.10.5-14F2511</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -121,8 +120,7 @@
 			<string>SafariYo</string>
 		</array>
 		<key>10.11.6-15G21013</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.11.6-15G31</key>
 		<array>
 			<string>CameraRawElCap</string>
@@ -132,8 +130,7 @@
 			<string>RemoteDesktopClient</string>
 		</array>
 		<key>10.12.6-16G1815</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.12.6-16G29</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -141,8 +138,7 @@
 			<string>SafariSierra</string>
 		</array>
 		<key>10.13.6-17G5019</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.13.6-17G65</key>
 		<array>
 			<string>SafariHighSierra</string>
@@ -150,11 +146,10 @@
 			<string>iTunesHighSierra</string>
 		</array>
 		<key>10.14.4-18E226</key>
-		<array>
-		</array>
+		<array/>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-03-27T12:17:18Z</date>
+	<date>2019-04-11T23:37:43Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -204,24 +199,24 @@
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12.0.3 for High Sierra</string>
+			<string>Safari 12.1 for High Sierra</string>
 			<key>sha1</key>
-			<string>a98689e2d56ef363de54c5c2ed48bfa8edb513c9</string>
+			<string>f9c0e659f96c05b20ef1b5e51f6020dd1dbd00d6</string>
 			<key>size</key>
-			<integer>80940390</integer>
+			<integer>81726817</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/55/25/041-25738/iyrwf769xfe9jzsz3p2c0iv45rtw47t0bq/Safari12.0.3HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/07/08/041-31481/pxxbu55rq2367hecv8s0odj33wcaacir8e/Safari12.1HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12.0.3 for Sierra</string>
+			<string>Safari 12.1 for Sierra</string>
 			<key>sha1</key>
-			<string>7bff54bc20cf865468ec50f5a5f7a823b6ca77e6</string>
+			<string>994a6470874a3ba2a636cf86fc63dfb3da02c6d5</string>
 			<key>size</key>
-			<integer>80768406</integer>
+			<real>81513835</real>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/05/28/041-30526/o1m5bk1h2ectbtjhb9llu8lui708riadro/Safari12.0.3Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/13/56/041-18158/9eg2q2gxdk1c6yo9h45b4p7yfe12wkm3e8/Safari12.1Sierra.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
