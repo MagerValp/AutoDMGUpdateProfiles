@@ -60,6 +60,10 @@
 			<string>16G1212</string>
 			<string>16G1314</string>
 			<string>16G1710</string>
+			<string>16G1815</string>
+			<string>16G1917</string>
+			<string>16G1918</string>
+			<string>16G2016</string>
 		</array>
 		<key>10.13.6-17G65</key>
 		<array>
@@ -112,7 +116,8 @@
 	<key>Profiles</key>
 	<dict>
 		<key>10.10.5-14F2511</key>
-		<array/>
+		<array>
+		</array>
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -120,7 +125,8 @@
 			<string>SafariYo</string>
 		</array>
 		<key>10.11.6-15G21013</key>
-		<array/>
+		<array>
+		</array>
 		<key>10.11.6-15G31</key>
 		<array>
 			<string>CameraRawElCap</string>
@@ -129,8 +135,9 @@
 			<string>AppStoreElCap</string>
 			<string>RemoteDesktopClient</string>
 		</array>
-		<key>10.12.6-16G1815</key>
-		<array/>
+		<key>10.12.6-16G2016</key>
+		<array>
+		</array>
 		<key>10.12.6-16G29</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -138,7 +145,8 @@
 			<string>SafariSierra</string>
 		</array>
 		<key>10.13.6-17G5019</key>
-		<array/>
+		<array>
+		</array>
 		<key>10.13.6-17G65</key>
 		<array>
 			<string>SafariHighSierra</string>
@@ -146,7 +154,8 @@
 			<string>iTunesHighSierra</string>
 		</array>
 		<key>10.14.4-18E226</key>
-		<array/>
+		<array>
+		</array>
 	</dict>
 	<key>PublicationDate</key>
 	<date>2019-04-11T23:37:43Z</date>
@@ -254,13 +263,13 @@
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-001 (Sierra)</string>
+			<string>Security Update 2019-003 (Sierra)</string>
 			<key>sha1</key>
-			<string>2b09b80e7ff937cb1d766af8c977ce7895b8dee3</string>
+			<string>c217a39fd1d14a1a568a6771ee8d5ee9f33a0f9c</string>
 			<key>size</key>
-			<integer>832853744</integer>
+			<integer>852326846</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2019/macos/041-31494-20190122-BBE902D6-D788-11E8-B555-8E91F34A5CAA/SecUpd2019-001Sierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/macos/041-44356-20190513-5056789d-9b1e-49c6-8d30-540a3d91442d/SecUpd2019-003Sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
