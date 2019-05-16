@@ -143,6 +143,7 @@
 			<string>RemoteDesktopClient</string>
 			<string>SecuritySierra</string>
 			<string>SafariSierra</string>
+			<string>iTunesDeviceSupportUpdate</string>
 		</array>
 		<key>10.13.6-17G5019</key>
 		<array>
@@ -152,6 +153,7 @@
 			<string>SafariHighSierra</string>
 			<string>SecurityHighSierra</string>
 			<string>iTunesHighSierra</string>
+			<string>iTunesDeviceSupportUpdate</string>
 		</array>
 		<key>10.14.4-18E226</key>
 		<array>
@@ -281,6 +283,17 @@
 			<integer>431572394</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1933/en_US/secupd2017-003yosemite.dmg</string>
+		</dict>
+		<key>iTunesDeviceSupportUpdate</key>
+		<dict>
+			<key>name</key>
+			<string>iTunes Device Support Update</string>
+			<key>sha1</key>
+			<string>ee56006f70ae5f601a71bc37e7ada6683ac38acb</string>
+			<key>size</key>
+			<integer>108334436</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/09/58/041-62886/gyhsj0r6j7tgzg4zzuvn3scnsztzq3dked/MobileDeviceSU.pkg</string>
 		</dict>
 		<key>iTunesHighSierra</key>
 		<dict>
