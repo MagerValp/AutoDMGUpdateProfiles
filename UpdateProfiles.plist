@@ -219,13 +219,13 @@
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12.1 for Sierra</string>
+			<string>Safari 12.1.1 for Sierra</string>
 			<key>sha1</key>
-			<string>994a6470874a3ba2a636cf86fc63dfb3da02c6d5</string>
+			<string>15978e17326920649c166ee5ad97053f00f70489</string>
 			<key>size</key>
-			<real>81513835</real>
+			<integer>81522032</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/13/56/041-18158/9eg2q2gxdk1c6yo9h45b4p7yfe12wkm3e8/Safari12.1Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/51/43/041-30515/eqzkxl1jrr4clxza4mojehgnq7ijtf2pmw/Safari12.1.1Sierra.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
