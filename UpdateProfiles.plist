@@ -86,7 +86,15 @@
 			<string>17C88</string>
 			<string>17D47</string>
 			<string>17E199</string>
+			<string>17E202</string>
 			<string>17F77</string>
+			<string>17G2208</string>
+			<string>17G3025</string>
+			<string>17G4015</string>
+			<string>17G5019</string>
+			<string>17G6029</string>
+			<string>17G6030</string>
+			<string>17G7024</string>
 		</array>
 		<key>10.14.4-18E226</key>
 		<array>
@@ -145,15 +153,15 @@
 			<string>SafariSierra</string>
 			<string>iTunesDeviceSupportUpdate</string>
 		</array>
-		<key>10.13.6-17G5019</key>
-		<array>
-		</array>
 		<key>10.13.6-17G65</key>
 		<array>
 			<string>SafariHighSierra</string>
 			<string>SecurityHighSierra</string>
 			<string>iTunesHighSierra</string>
 			<string>iTunesDeviceSupportUpdate</string>
+		</array>
+		<key>10.13.6-17G7024</key>
+		<array>
 		</array>
 		<key>10.14.4-18E226</key>
 		<array>
@@ -254,13 +262,13 @@
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-001 (High Sierra)</string>
+			<string>Security Update 2019-003 (High Sierra)</string>
 			<key>sha1</key>
-			<string>514f83de702fa5efe281dee3847fd0af9b35c624</string>
+			<string>f400e4a441a4196be69b6cd4e305d07b92f62b29</string>
 			<key>size</key>
-			<integer>1825550030</integer>
+			<integer>1896131149</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2019/macos/041-31491-20190122-BBE902D6-D788-11E8-B555-8E91F34A5CAA/SecUpd2019-001HighSierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/macos/041-44077-20190513-d9861062-6711-4f19-8641-49e0d88627ff/SecUpd2019-003HighSierra.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
