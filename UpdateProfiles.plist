@@ -60,6 +60,10 @@
 			<string>16G1212</string>
 			<string>16G1314</string>
 			<string>16G1710</string>
+			<string>16G1815</string>
+			<string>16G1917</string>
+			<string>16G1918</string>
+			<string>16G2016</string>
 		</array>
 		<key>10.13.6-17G65</key>
 		<array>
@@ -82,7 +86,15 @@
 			<string>17C88</string>
 			<string>17D47</string>
 			<string>17E199</string>
+			<string>17E202</string>
 			<string>17F77</string>
+			<string>17G2208</string>
+			<string>17G3025</string>
+			<string>17G4015</string>
+			<string>17G5019</string>
+			<string>17G6029</string>
+			<string>17G6030</string>
+			<string>17G7024</string>
 		</array>
 		<key>10.14.4-18E226</key>
 		<array>
@@ -112,7 +124,8 @@
 	<key>Profiles</key>
 	<dict>
 		<key>10.10.5-14F2511</key>
-		<array/>
+		<array>
+		</array>
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -120,7 +133,8 @@
 			<string>SafariYo</string>
 		</array>
 		<key>10.11.6-15G21013</key>
-		<array/>
+		<array>
+		</array>
 		<key>10.11.6-15G31</key>
 		<array>
 			<string>CameraRawElCap</string>
@@ -129,27 +143,32 @@
 			<string>AppStoreElCap</string>
 			<string>RemoteDesktopClient</string>
 		</array>
-		<key>10.12.6-16G1815</key>
-		<array/>
+		<key>10.12.6-16G2016</key>
+		<array>
+		</array>
 		<key>10.12.6-16G29</key>
 		<array>
 			<string>RemoteDesktopClient</string>
 			<string>SecuritySierra</string>
 			<string>SafariSierra</string>
+			<string>iTunesDeviceSupportUpdate</string>
 		</array>
-		<key>10.13.6-17G5019</key>
-		<array/>
 		<key>10.13.6-17G65</key>
 		<array>
 			<string>SafariHighSierra</string>
 			<string>SecurityHighSierra</string>
 			<string>iTunesHighSierra</string>
+			<string>iTunesDeviceSupportUpdate</string>
+		</array>
+		<key>10.13.6-17G7024</key>
+		<array>
 		</array>
 		<key>10.14.4-18E226</key>
-		<array/>
+		<array>
+		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-04-11T23:37:43Z</date>
+	<date>2019-05-17T12:33:16Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -199,24 +218,24 @@
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12.1 for High Sierra</string>
+			<string>Safari 12.1.1 for High Sierra</string>
 			<key>sha1</key>
-			<string>f9c0e659f96c05b20ef1b5e51f6020dd1dbd00d6</string>
+			<string>bb48a5582ba1fbdd7e42ba74d8bd3f4389d0c8c5</string>
 			<key>size</key>
-			<integer>81726817</integer>
+			<integer>81726835</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/07/08/041-31481/pxxbu55rq2367hecv8s0odj33wcaacir8e/Safari12.1HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/11/43/041-29455/th6as97r3li57d3lz5qwgsxdj09bat1u4t/Safari12.1.1HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12.1 for Sierra</string>
+			<string>Safari 12.1.1 for Sierra</string>
 			<key>sha1</key>
-			<string>994a6470874a3ba2a636cf86fc63dfb3da02c6d5</string>
+			<string>15978e17326920649c166ee5ad97053f00f70489</string>
 			<key>size</key>
-			<real>81513835</real>
+			<integer>81522032</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/13/56/041-18158/9eg2q2gxdk1c6yo9h45b4p7yfe12wkm3e8/Safari12.1Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/51/43/041-30515/eqzkxl1jrr4clxza4mojehgnq7ijtf2pmw/Safari12.1.1Sierra.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
@@ -243,24 +262,24 @@
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-001 (High Sierra)</string>
+			<string>Security Update 2019-003 (High Sierra)</string>
 			<key>sha1</key>
-			<string>514f83de702fa5efe281dee3847fd0af9b35c624</string>
+			<string>f400e4a441a4196be69b6cd4e305d07b92f62b29</string>
 			<key>size</key>
-			<integer>1825550030</integer>
+			<integer>1896131149</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2019/macos/041-31491-20190122-BBE902D6-D788-11E8-B555-8E91F34A5CAA/SecUpd2019-001HighSierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/macos/041-44077-20190513-d9861062-6711-4f19-8641-49e0d88627ff/SecUpd2019-003HighSierra.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-001 (Sierra)</string>
+			<string>Security Update 2019-003 (Sierra)</string>
 			<key>sha1</key>
-			<string>2b09b80e7ff937cb1d766af8c977ce7895b8dee3</string>
+			<string>c217a39fd1d14a1a568a6771ee8d5ee9f33a0f9c</string>
 			<key>size</key>
-			<integer>832853744</integer>
+			<integer>852326846</integer>
 			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2019/macos/041-31494-20190122-BBE902D6-D788-11E8-B555-8E91F34A5CAA/SecUpd2019-001Sierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/macos/041-44356-20190513-5056789d-9b1e-49c6-8d30-540a3d91442d/SecUpd2019-003Sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
@@ -272,6 +291,17 @@
 			<integer>431572394</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1933/en_US/secupd2017-003yosemite.dmg</string>
+		</dict>
+		<key>iTunesDeviceSupportUpdate</key>
+		<dict>
+			<key>name</key>
+			<string>iTunes Device Support Update</string>
+			<key>sha1</key>
+			<string>ee56006f70ae5f601a71bc37e7ada6683ac38acb</string>
+			<key>size</key>
+			<integer>108334436</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/09/58/041-62886/gyhsj0r6j7tgzg4zzuvn3scnsztzq3dked/MobileDeviceSU.pkg</string>
 		</dict>
 		<key>iTunesHighSierra</key>
 		<dict>
