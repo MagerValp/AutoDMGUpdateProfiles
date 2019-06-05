@@ -170,7 +170,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-05-17T13:42:02Z</date>
+	<date>2019-06-05T13:13:29Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -299,11 +299,11 @@
 			<key>name</key>
 			<string>iTunes Device Support Update</string>
 			<key>sha1</key>
-			<string>ee56006f70ae5f601a71bc37e7ada6683ac38acb</string>
+			<string>26ce047ba2e2bd142bb3ffa6f51d6d2041ef7a60</string>
 			<key>size</key>
-			<integer>108334436</integer>
+			<integer>108334437</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/09/58/041-62886/gyhsj0r6j7tgzg4zzuvn3scnsztzq3dked/MobileDeviceSU.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/09/17/041-69603/ea1xiguwk6n0g8u6f3zwhhmca196dopx9f/MobileDeviceSU.pkg</string>
 		</dict>
 		<key>iTunesHighSierra</key>
 		<dict>
