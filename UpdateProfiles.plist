@@ -227,13 +227,13 @@
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12.1.1 for High Sierra</string>
+			<string>Safari 12.1.2 for High Sierra</string>
 			<key>sha1</key>
-			<string>bb48a5582ba1fbdd7e42ba74d8bd3f4389d0c8c5</string>
+			<string>4bf6af19df987733ef05116be19c247024e7e15f</string>
 			<key>size</key>
-			<integer>81726835</integer>
+			<integer>81726824</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/11/43/041-29455/th6as97r3li57d3lz5qwgsxdj09bat1u4t/Safari12.1.1HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/56/57/041-56829/gd0grk5m1bos9qcnc63nqpbbe2x18xbtie/Safari12.1.2HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
@@ -271,13 +271,13 @@
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-003 (High Sierra)</string>
+			<string>Security Update 2019-004 (High Sierra)</string>
 			<key>sha1</key>
-			<string>f400e4a441a4196be69b6cd4e305d07b92f62b29</string>
+			<string>84d7a23dfbc9d4ac2232a6cc36813047ed98cf4f</string>
 			<key>size</key>
-			<integer>1896131149</integer>
+			<integer>1896069285</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2019/macos/041-44077-20190513-d9861062-6711-4f19-8641-49e0d88627ff/SecUpd2019-003HighSierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/macos/041-93820-20190729-96cd66e6-a61f-42c7-a586-40a6b70e6ecd/SecUpd2019-004HighSierra.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
