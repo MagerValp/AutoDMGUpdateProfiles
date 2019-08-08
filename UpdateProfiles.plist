@@ -238,13 +238,13 @@
 		<key>SafariSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 12.1.1 for Sierra</string>
+			<string>Safari 12.1.2 for Sierra</string>
 			<key>sha1</key>
-			<string>15978e17326920649c166ee5ad97053f00f70489</string>
+			<string>15728ac0f915813ea4fe9191a3d63d9a2d6ce256</string>
 			<key>size</key>
-			<integer>81522032</integer>
+			<integer>81538403</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/51/43/041-30515/eqzkxl1jrr4clxza4mojehgnq7ijtf2pmw/Safari12.1.1Sierra.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/39/48/041-62930/6bwouqqzrf7uhexxs7z0k9ntun8ec0kmew/Safari12.1.2Sierra.pkg</string>
 		</dict>
 		<key>SafariYo</key>
 		<dict>
@@ -282,13 +282,13 @@
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-003 (Sierra)</string>
+			<string>Security Update 2019-004 (Sierra)</string>
 			<key>sha1</key>
-			<string>c217a39fd1d14a1a568a6771ee8d5ee9f33a0f9c</string>
+			<string>4b4ff0b5e21710a9612f175d53d3049912bfebe0</string>
 			<key>size</key>
-			<integer>852326846</integer>
+			<integer>927685553</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2019/macos/041-44356-20190513-5056789d-9b1e-49c6-8d30-540a3d91442d/SecUpd2019-003Sierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/macos/041-93816-20190729-ecd78564-1628-4e0e-b333-872dec7507e5/SecUpd2019-004Sierra.dmg</string>
 		</dict>
 		<key>SecurityYo</key>
 		<dict>
