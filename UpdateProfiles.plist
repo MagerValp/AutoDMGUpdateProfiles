@@ -96,7 +96,7 @@
 			<string>17G6030</string>
 			<string>17G7024</string>
 		</array>
-		<key>10.14.6-18G84</key>
+		<key>10.14.6-18G87</key>
 		<array>
 			<string>18A293u</string>
 			<string>18A314h</string>
@@ -118,6 +118,7 @@
 			<string>18E2034</string>
 			<string>18F132</string>
 			<string>18F2058</string>
+			<string>18G84</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -170,6 +171,9 @@
 		</array>
 		<key>10.14.6-18G84</key>
 		<array>
+		</array>
+		<key>10.14.6-18G87</key>
+                <array>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
