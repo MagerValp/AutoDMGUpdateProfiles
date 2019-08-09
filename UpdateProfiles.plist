@@ -130,8 +130,7 @@
 	<key>Profiles</key>
 	<dict>
 		<key>10.10.5-14F2511</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.10.5-14F27</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -139,8 +138,7 @@
 			<string>SafariYo</string>
 		</array>
 		<key>10.11.6-15G21013</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.11.6-15G31</key>
 		<array>
 			<string>CameraRawElCap</string>
@@ -150,8 +148,7 @@
 			<string>RemoteDesktopClient</string>
 		</array>
 		<key>10.12.6-16G2016</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.12.6-16G29</key>
 		<array>
 			<string>RemoteDesktopClient</string>
@@ -167,14 +164,14 @@
 			<string>iTunesDeviceSupportUpdate</string>
 		</array>
 		<key>10.13.6-17G7024</key>
-		<array>
-		</array>
+		<array/>
 		<key>10.14.6-18G87</key>
-                <array>
+		<array>
+			<string>SupplementalUpdateMojave</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-08-08T03:52:33Z</date>
+	<date>2019-08-09T07:00:00Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -297,6 +294,17 @@
 			<integer>431572394</integer>
 			<key>url</key>
 			<string>http://support.apple.com/downloads/DL1933/en_US/secupd2017-003yosemite.dmg</string>
+		</dict>
+		<key>SupplementalUpdateMojave</key>
+		<dict>
+			<key>name</key>
+			<string>Supplemental Update 10.14.6 (Mojave)</string>
+			<key>sha1</key>
+			<string>945d3a7efe3c647357fc6d1f18a9c5f16472fb34</string>
+			<key>size</key>
+			<integer>954791166</integer>
+			<key>url</key>
+			<string>https://updates.cdn-apple.com/2019/macos/041-93790-20190801-cabd0ef9-ee8a-4ca7-8f01-5b159496d0e9/macOSUpd10.14.6Supplemental.dmg</string>
 		</dict>
 		<key>iTunesDeviceSupportUpdate</key>
 		<dict>
