@@ -121,9 +121,10 @@
 			<string>18G84</string>
 			<string>18G87</string>
 		</array>
-		<key>10.15-19A546d</key>
+		<key>10.15-19A558d</key>
 		<array>
 			<string>19A536g</string>
+			<string>19A546d</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -177,12 +178,12 @@
 		<key>10.14.6-18G95</key>
 		<array>
 		</array>
-		<key>10.15-19A546d</key>
+		<key>10.15-19A558d</key>
 		<array>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-08-28T19:40:00Z</date>
+	<date>2019-09-11T05:46:54Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
