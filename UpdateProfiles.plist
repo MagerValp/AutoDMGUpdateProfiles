@@ -96,7 +96,7 @@
 			<string>17G6030</string>
 			<string>17G7024</string>
 		</array>
-		<key>10.14.6-18G95</key>
+		<key>10.14.6-18G103</key>
 		<array>
 			<string>18A293u</string>
 			<string>18A314h</string>
@@ -120,6 +120,7 @@
 			<string>18F2058</string>
 			<string>18G84</string>
 			<string>18G87</string>
+			<string>18G95</string>
 		</array>
 		<key>10.15-19A602</key>
 		<array>
@@ -182,6 +183,7 @@
 		</array>
 		<key>10.15-19A602</key>
 		<array>
+			<string>SafariMojave</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
@@ -220,6 +222,17 @@
 			<integer>8793493</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/50/46/091-14720/s22jiusq9ekq2ioyb6jzy6syqvbavjb46e/RemoteDesktopClient.pkg</string>
+		</dict>
+		<key>SafariMojave</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 13.0.2 for Mojave</string>
+			<key>sha1</key>
+			<string>524efe5cb95f74b7e7a0d2008fc12a2a2af42306</string>
+			<key>size</key>
+			<integer>68882748</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/26/11/061-32986-A_D9XJ6KU7U7/84x12rq4ht7wvi4wwo16y6asq95iyw3kva/Safari13.0.2MojaveAuto.pkg</string>
 		</dict>
 		<key>SafariElCap</key>
 		<dict>
