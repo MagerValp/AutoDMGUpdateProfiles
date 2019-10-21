@@ -178,16 +178,16 @@
 		<key>10.13.6-17G7024</key>
 		<array>
 		</array>
-		<key>10.14.6-18G95</key>
-		<array>
-		</array>
-		<key>10.15-19A602</key>
+		<key>10.14.6-18G103</key>
 		<array>
 			<string>SafariMojave</string>
 		</array>
+		<key>10.15-19A602</key>
+		<array>
+		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-10-21T18:40:00Z</date>
+	<date>2019-10-21T18:48:00Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
@@ -228,7 +228,7 @@
 			<key>name</key>
 			<string>Safari 13.0.2 for Mojave</string>
 			<key>sha1</key>
-			<string>524efe5cb95f74b7e7a0d2008fc12a2a2af42306</string>
+			<string>7dded103f91405fb9762b99d9be7f9e6e9cfc903</string>
 			<key>size</key>
 			<integer>68882748</integer>
 			<key>url</key>
