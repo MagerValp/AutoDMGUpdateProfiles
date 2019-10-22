@@ -224,17 +224,6 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/50/46/091-14720/s22jiusq9ekq2ioyb6jzy6syqvbavjb46e/RemoteDesktopClient.pkg</string>
 		</dict>
-		<key>SafariMojave</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 13.0.2 for Mojave</string>
-			<key>sha1</key>
-			<string>7dded103f91405fb9762b99d9be7f9e6e9cfc903</string>
-			<key>size</key>
-			<integer>68882748</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/26/11/061-32986-A_D9XJ6KU7U7/84x12rq4ht7wvi4wwo16y6asq95iyw3kva/Safari13.0.2MojaveAuto.pkg</string>
-		</dict>
 		<key>SafariElCap</key>
 		<dict>
 			<key>name</key>
@@ -256,6 +245,17 @@
 			<integer>81726824</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/56/57/041-56829/gd0grk5m1bos9qcnc63nqpbbe2x18xbtie/Safari12.1.2HighSierraAuto.pkg</string>
+		</dict>
+		<key>SafariMojave</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 13.0.2 for Mojave</string>
+			<key>sha1</key>
+			<string>7dded103f91405fb9762b99d9be7f9e6e9cfc903</string>
+			<key>size</key>
+			<integer>68882748</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/26/11/061-32986-A_D9XJ6KU7U7/84x12rq4ht7wvi4wwo16y6asq95iyw3kva/Safari13.0.2MojaveAuto.pkg</string>
 		</dict>
 		<key>SafariSierra</key>
 		<dict>
