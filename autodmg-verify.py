@@ -75,7 +75,7 @@ def main(argv):
     p = argparse.ArgumentParser()
     p.add_argument("-v", "--verbose", action="store_true",
                    help="Verbose output.")
-    p.add_argument("updates", help="plist with updates")
+    p.add_argument("updates", default="UpdateProfiles.plist", nargs="?", help="plist with updates")
     args = p.parse_args([x.decode("utf-8") for x in argv[1:]])
     
     try:
