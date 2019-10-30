@@ -122,13 +122,14 @@
 			<string>18G87</string>
 			<string>18G95</string>
 		</array>
-		<key>10.15-19A603</key>
+		<key>10.15.1-19B88</key>
 		<array>
 			<string>19A536g</string>
 			<string>19A546d</string>
 			<string>19A558d</string>
 			<string>19A583</string>
 			<string>19A602</string>
+			<string>19A603</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -183,12 +184,12 @@
 		<array>
 			<string>SafariMojave</string>
 		</array>
-		<key>10.15-19A603</key>
+		<key>10.15.1-19B88</key>
 		<array>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-10-22T10:47:26Z</date>
+	<date>2019-10-30T14:52:54Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
