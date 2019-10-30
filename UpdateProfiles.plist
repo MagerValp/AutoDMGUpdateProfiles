@@ -163,6 +163,7 @@
 		<array>
 			<string>SecurityHighSierra</string>
 			<string>iTunesHighSierra</string>
+			<string>SafariHighSierra</string>
 		</array>
 		<key>10.13.6-17G7024</key>
 		<array>
@@ -176,52 +177,63 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-10-30T16:08:08Z</date>
+	<date>2019-10-30T16:27:44Z</date>
 	<key>Updates</key>
 	<dict>
+		<key>SafariHighSierra</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 13.0.3 for High Sierra</string>
+			<key>sha1</key>
+			<string>a270914716658ad788d2a222679900040b4c15a2</string>
+			<key>size</key>
+			<integer>67703061</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/30/12/061-30238/n64j5axyrbdkv49ol0rj3me1ij8nt7rv7h/Safari13.0.3HighSierraAuto.pkg</string>
+		</dict>
 		<key>SafariMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.0.2 for Mojave</string>
+			<string>Safari 13.0.3 for Mojave</string>
 			<key>sha1</key>
-			<string>7dded103f91405fb9762b99d9be7f9e6e9cfc903</string>
+			<string>443d3b6916d1ac4c87504ea5da7ee7440b472d5e</string>
 			<key>size</key>
-			<integer>68882748</integer>
+			<integer>68882754</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/26/11/061-32986-A_D9XJ6KU7U7/84x12rq4ht7wvi4wwo16y6asq95iyw3kva/Safari13.0.2MojaveAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/18/07/061-30476/klpioeu2l00532f540gly7aoyibwnejl4w/Safari13.0.3MojaveAuto.pkg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-004 (High Sierra)</string>
+			<string>Security Update 2019-005 (High Sierra)</string>
 			<key>sha1</key>
-			<string>84d7a23dfbc9d4ac2232a6cc36813047ed98cf4f</string>
+			<string>d066bd3db67a48202a6aca5cfef84fc9ea185778</string>
 			<key>size</key>
-			<integer>1896069285</integer>
+			<integer>1895950812</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2019/macos/041-93820-20190729-96cd66e6-a61f-42c7-a586-40a6b70e6ecd/SecUpd2019-004HighSierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/cert/061-41807-20191024-e1f5cfe8-c906-4b7f-90b5-0ad98850cbd5/SecUpd2019-005HighSierra.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-004 (Sierra)</string>
+			<string>Security Update 2019-005 (Sierra)</string>
 			<key>sha1</key>
-			<string>4b4ff0b5e21710a9612f175d53d3049912bfebe0</string>
+			<string>70633763c64b2115ee85621ab122a6ab7e1cc9aa</string>
 			<key>size</key>
-			<integer>927685553</integer>
+			<integer>938102521</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2019/macos/041-93816-20190729-ecd78564-1628-4e0e-b333-872dec7507e5/SecUpd2019-004Sierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/cert/061-41806-20191024-434f1d05-63d4-477f-b70d-d0e716f88e87/SecUpd2019-005Sierra.dmg</string>
 		</dict>
 		<key>iTunesHighSierra</key>
 		<dict>
 			<key>name</key>
 			<string>iTunes 12.8.2</string>
 			<key>sha1</key>
-			<string>77095f6373c2a29b146b1011050871c184d3e0e1</string>
+			<string>70b4688a34bce93fe89abcf402015c249492be4d</string>
 			<key>size</key>
-			<integer>286555253</integer>
+			<integer>286542401</integer>
 			<key>url</key>
-			<string>https://secure-appldnld.apple.com/itunes12/041-30445-20190122-BFF2CE0C-FA9C-11E8-A8BB-9B0D7D00924D/iTunes12.8.2.dmg</string>
+			<string>https://updates.cdn-apple.com/2019/cert/041-88776-20191023-0597F90B-921F-459B-91CA-34108771225E/iTunes.dmg</string>
 		</dict>
 	</dict>
 </dict>
