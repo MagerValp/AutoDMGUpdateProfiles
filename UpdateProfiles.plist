@@ -145,37 +145,24 @@
 		</array>
 		<key>10.10.5-14F27</key>
 		<array>
-			<string>RemoteDesktopClient</string>
-			<string>SecurityYo</string>
-			<string>SafariYo</string>
 		</array>
 		<key>10.11.6-15G21013</key>
 		<array>
 		</array>
 		<key>10.11.6-15G31</key>
 		<array>
-			<string>CameraRawElCap</string>
-			<string>SecurityElCap</string>
-			<string>SafariElCap</string>
-			<string>AppStoreElCap</string>
-			<string>RemoteDesktopClient</string>
 		</array>
 		<key>10.12.6-16G2016</key>
 		<array>
 		</array>
 		<key>10.12.6-16G29</key>
 		<array>
-			<string>RemoteDesktopClient</string>
 			<string>SecuritySierra</string>
-			<string>SafariSierra</string>
-			<string>iTunesDeviceSupportUpdate</string>
 		</array>
 		<key>10.13.6-17G65</key>
 		<array>
-			<string>SafariHighSierra</string>
 			<string>SecurityHighSierra</string>
 			<string>iTunesHighSierra</string>
-			<string>iTunesDeviceSupportUpdate</string>
 		</array>
 		<key>10.13.6-17G7024</key>
 		<array>
@@ -189,64 +176,9 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-10-30T14:52:54Z</date>
+	<date>2019-10-30T16:08:08Z</date>
 	<key>Updates</key>
 	<dict>
-		<key>AppStoreElCap</key>
-		<dict>
-			<key>name</key>
-			<string>Mac App Store Update for OS X El Capitan</string>
-			<key>sha1</key>
-			<string>9245bc2b4828665b6b126d676cb610b78bfa68ed</string>
-			<key>size</key>
-			<integer>4787605</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/61/61/091-10728/i82m5auvwlrwtyd8moumo7sfzr52npkyyh/MacAppStoreUpdateforElCapitan.pkg</string>
-		</dict>
-		<key>CameraRawElCap</key>
-		<dict>
-			<key>name</key>
-			<string>Digital Camera RAW Compatibility Update 6.21</string>
-			<key>sha1</key>
-			<string>5f8853ad66fa26c84af37e2e057b18a6cde8c74e</string>
-			<key>size</key>
-			<integer>8171873</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1889/en_US/rawcameraupdate6.dmg</string>
-		</dict>
-		<key>RemoteDesktopClient</key>
-		<dict>
-			<key>name</key>
-			<string>Remote Desktop Client Update 3.9.3</string>
-			<key>sha1</key>
-			<string>8f578ce13def8188e77a9ba4d1a8a369b82f779e</string>
-			<key>size</key>
-			<integer>8793493</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/50/46/091-14720/s22jiusq9ekq2ioyb6jzy6syqvbavjb46e/RemoteDesktopClient.pkg</string>
-		</dict>
-		<key>SafariElCap</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 11.1.2 for El Capitan</string>
-			<key>sha1</key>
-			<string>c1aca61c30f3ceea373956b28b9e1f5e0b5270f4</string>
-			<key>size</key>
-			<integer>79330675</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/60/50/091-84014/kxld7h4nhhnektja3lkfwqlv6ml8r4psxx/Safari11.1.2ElCapitan.pkg</string>
-		</dict>
-		<key>SafariHighSierra</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 12.1.2 for High Sierra</string>
-			<key>sha1</key>
-			<string>4bf6af19df987733ef05116be19c247024e7e15f</string>
-			<key>size</key>
-			<integer>81726824</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/56/57/041-56829/gd0grk5m1bos9qcnc63nqpbbe2x18xbtie/Safari12.1.2HighSierraAuto.pkg</string>
-		</dict>
 		<key>SafariMojave</key>
 		<dict>
 			<key>name</key>
@@ -257,39 +189,6 @@
 			<integer>68882748</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/26/11/061-32986-A_D9XJ6KU7U7/84x12rq4ht7wvi4wwo16y6asq95iyw3kva/Safari13.0.2MojaveAuto.pkg</string>
-		</dict>
-		<key>SafariSierra</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 12.1.2 for Sierra</string>
-			<key>sha1</key>
-			<string>15728ac0f915813ea4fe9191a3d63d9a2d6ce256</string>
-			<key>size</key>
-			<integer>81538403</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/39/48/041-62930/6bwouqqzrf7uhexxs7z0k9ntun8ec0kmew/Safari12.1.2Sierra.pkg</string>
-		</dict>
-		<key>SafariYo</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 10.1.2 for Yosemite</string>
-			<key>sha1</key>
-			<string>86b8af542c1a8d35c5fc64a477733afe828a51c2</string>
-			<key>size</key>
-			<integer>73194892</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/49/15/091-22830/wb37hl4mbck89pw6j4t386ym6q8d5p1g5m/Safari10.1.2Yosemite.pkg</string>
-		</dict>
-		<key>SecurityElCap</key>
-		<dict>
-			<key>name</key>
-			<string>Security Update 2018-004 (El Capitan)</string>
-			<key>sha1</key>
-			<string>6302515a975a72ffb5a4b58ea65315af3e06cc6a</string>
-			<key>size</key>
-			<integer>900459938</integer>
-			<key>url</key>
-			<string>http://updates-http.cdn-apple.com/2018/macos/091-63420-94327-20180709-5409BA12-7C10-11E8-84CF-4F47544C24EB/SecUpd2018-004ElCapitan.dmg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
@@ -312,28 +211,6 @@
 			<integer>927685553</integer>
 			<key>url</key>
 			<string>https://updates.cdn-apple.com/2019/macos/041-93816-20190729-ecd78564-1628-4e0e-b333-872dec7507e5/SecUpd2019-004Sierra.dmg</string>
-		</dict>
-		<key>SecurityYo</key>
-		<dict>
-			<key>name</key>
-			<string>Security Update 2017-003 (Yosemite)</string>
-			<key>sha1</key>
-			<string>5079894334ea2054a30a7e44e0ccf59e5aa72d8a</string>
-			<key>size</key>
-			<integer>431572394</integer>
-			<key>url</key>
-			<string>http://support.apple.com/downloads/DL1933/en_US/secupd2017-003yosemite.dmg</string>
-		</dict>
-		<key>iTunesDeviceSupportUpdate</key>
-		<dict>
-			<key>name</key>
-			<string>iTunes Device Support Update</string>
-			<key>sha1</key>
-			<string>26ce047ba2e2bd142bb3ffa6f51d6d2041ef7a60</string>
-			<key>size</key>
-			<integer>108334437</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/09/17/041-69603/ea1xiguwk6n0g8u6f3zwhhmca196dopx9f/MobileDeviceSU.pkg</string>
 		</dict>
 		<key>iTunesHighSierra</key>
 		<dict>
