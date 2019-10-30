@@ -10,6 +10,7 @@ import argparse
 import plistlib
 import datetime
 import re
+import urllib2
 
 
 def uprint(*args, **kwargs):
@@ -63,6 +64,18 @@ def verify_verbuild(verbuild):
         uprint(u"ERROR: build minor does not match OS minor: %s" % verbuild)
         return False
     return True
+
+
+def get_http_code(url):
+    try:
+        f = urllib2.urlopen(url)
+    except urllib2.HTTPError as e:
+        return e.code
+    except urllib2.URLError as e:
+        uprint(u"%s failed with error %s" % (url, e))
+        return -1
+    f.close()
+    return f.getcode()
 
 
 def main(argv):
@@ -140,7 +153,11 @@ def main(argv):
             else:
                 uprint(u"Error: Update %s has unknown keys: %s" % (update, u", ".join(unicode(key) for key in unexpected_keys)))
                 error_count += 1
-    
+        code = get_http_code(info[u"url"])
+        if code != 200:
+            uprint(u"Error: Update %s returns HTTP error %d" % (update, code))
+            error_count += 1
+
     if error_count:
         return os.EX_DATAERR
     else:
