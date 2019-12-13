@@ -123,7 +123,7 @@
 			<string>18G87</string>
 			<string>18G95</string>
 		</array>
-		<key>10.15.1-19B88</key>
+		<key>10.15.2-19C57</key>
 		<array>
 			<string>19A536g</string>
 			<string>19A546d</string>
@@ -131,6 +131,7 @@
 			<string>19A583</string>
 			<string>19A602</string>
 			<string>19A603</string>
+			<string>19B88</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -173,35 +174,35 @@
 		<array>
 			<string>SafariMojave</string>
 		</array>
-		<key>10.15.1-19B88</key>
+		<key>10.15.2-19C57</key>
 		<array>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2019-10-31T07:03:39Z</date>
+	<date>2019-12-13T09:05:56Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.0.3 for High Sierra</string>
+			<string>Safari 13.0.4 for High Sierra</string>
 			<key>sha1</key>
-			<string>a270914716658ad788d2a222679900040b4c15a2</string>
+			<string>f2a4da217dad56bc2380d2af3c8df254163ccd38</string>
 			<key>size</key>
-			<integer>67703061</integer>
+			<integer>67768605</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/30/12/061-30238/n64j5axyrbdkv49ol0rj3me1ij8nt7rv7h/Safari13.0.3HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/40/20/061-49180-A_EZBQLGXSKE/vkg8b7z2yzvgmyo9sagaa9gejq7jp6525t/Safari13.0.4HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.0.3 for Mojave</string>
+			<string>Safari 13.0.4 for Mojave</string>
 			<key>sha1</key>
-			<string>443d3b6916d1ac4c87504ea5da7ee7440b472d5e</string>
+			<string>f76ff47c1a26317bb9cdca1dfa2229b9ab82c793</string>
 			<key>size</key>
-			<integer>68882754</integer>
+			<integer>68948292</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/18/07/061-30476/klpioeu2l00532f540gly7aoyibwnejl4w/Safari13.0.3MojaveAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/34/21/061-49175-A_H5579HY5LH/caq4203cu2klp24wpiw6n8fkjdqv1dxkl3/Safari13.0.4MojaveAuto.pkg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
