@@ -97,7 +97,7 @@
 			<string>17G7024</string>
 			<string>17G65</string>
 		</array>
-		<key>10.14.6-18G2022</key>
+		<key>10.14.6-18G3020</key>
 		<array>
 			<string>18A293u</string>
 			<string>18A314h</string>
@@ -123,8 +123,9 @@
 			<string>18G87</string>
 			<string>18G95</string>
 			<string>18G103</string>
+			<string>18G2022</string>
 		</array>
-		<key>10.15.2-19C57</key>
+		<key>10.15.3-19D76</key>
 		<array>
 			<string>19A536g</string>
 			<string>19A546d</string>
@@ -133,6 +134,7 @@
 			<string>19A602</string>
 			<string>19A603</string>
 			<string>19B88</string>
+			<string>19C57</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -164,11 +166,11 @@
 		</array>
 		<key>10.13.6-17G66</key>
 		<array>
+			<string>SafariHighSierra</string>
 			<string>SecurityHighSierra</string>
 			<string>iTunesHighSierra</string>
-			<string>SafariHighSierra</string>
 		</array>
-		<key>10.13.6-17G7024</key>
+		<key>10.13.6-17G11023</key>
 		<array>
 		</array>
 		<key>10.14.6-18G103</key>
@@ -176,10 +178,10 @@
 			<string>SafariMojave</string>
 			<string>SecurityMojave</string>
 		</array>
-		<key>10.14.6-18G2022</key>
+		<key>10.14.6-18G3020</key>
 		<array>
 		</array>
-		<key>10.15.2-19C57</key>
+		<key>10.15.3-19D76</key>
 		<array>
 		</array>
 	</dict>
@@ -190,46 +192,46 @@
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.0.4 for High Sierra</string>
+			<string>Safari 13.0.5 for High Sierra</string>
 			<key>sha1</key>
-			<string>f2a4da217dad56bc2380d2af3c8df254163ccd38</string>
+			<string>e19b30a340dcd5fcbdbd0e0255da52f4a014f827</string>
 			<key>size</key>
-			<integer>67768605</integer>
+			<integer>67703069</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/40/20/061-49180-A_EZBQLGXSKE/vkg8b7z2yzvgmyo9sagaa9gejq7jp6525t/Safari13.0.4HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/15/52/061-55346-A_1BG1GP8ECO/up3nf1cayr9nips82spt7vk34t52e5s9ao/Safari13.0.5HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.0.4 for Mojave</string>
+			<string>Safari 13.0.5 for Mojave</string>
 			<key>sha1</key>
-			<string>f76ff47c1a26317bb9cdca1dfa2229b9ab82c793</string>
+			<string>c11e7509c38becef2b24bb3716df51527dc730fc</string>
 			<key>size</key>
-			<integer>68948292</integer>
+			<integer>68882753</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/34/21/061-49175-A_H5579HY5LH/caq4203cu2klp24wpiw6n8fkjdqv1dxkl3/Safari13.0.4MojaveAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/08/60/061-59216-A_A3PCX20GZK/m3r7ecaikjuop178cndwd3xr7xzpay4eiu/Safari13.0.5MojaveAuto.pkg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-006 (High Sierra)</string>
+			<string>Security Update 2020-001 (High Sierra)</string>
 			<key>sha1</key>
-			<string>85d211969844e141803bc4df02a8b84c74533bc3</string>
+			<string>387216c6eb45d598c41ef119fdadcddf5d31152b</string>
 			<key>size</key>
-			<integer>1918115806</integer>
+			<integer>1918790826</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2019/macos/061-27894-20191029-28a75d82-9ae7-4547-8f74-7d06df73f750/SecUpd2019-006HighSierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2020/macos/061-64350-20200128-138a02e9-d4ad-4a1f-80e3-a07fc10bef58/SecUpd2020-001HighSierra.dmg</string>
 		</dict>
 		<key>SecurityMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2019-002 (Mojave)</string>
+			<string>Security Update 2020-001 (Mojave)</string>
 			<key>sha1</key>
-			<string>64f4bdfa24bbdcc08ca46b8968d1f8dd74aa0992</string>
+			<string>b51fae1ffe53673332bae1b62d60fc9da7032d28</string>
 			<key>size</key>
-			<integer>1580768794</integer>
+			<integer>1619246245</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2019/macos/061-12718-20191210-545e2aeb-bf0e-4471-8351-29bbc0b8401b/SecUpd2019-002Mojave.dmg</string>
+			<string>https://updates.cdn-apple.com/2020/macos/061-64343-20200128-b5b1a16e-c06a-4ae2-9649-7b30d037e001/SecUpd2020-001Mojave.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
