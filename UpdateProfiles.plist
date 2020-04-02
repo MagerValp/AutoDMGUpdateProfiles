@@ -95,6 +95,7 @@
 			<string>17G6029</string>
 			<string>17G6030</string>
 			<string>17G7024</string>
+			<string>17G11023</string>
 			<string>17G65</string>
 		</array>
 		<key>10.14.6-18G3020</key>
@@ -164,14 +165,15 @@
 		<array>
 			<string>SecuritySierra</string>
 		</array>
+		<key>10.13.6-17G12034</key>
+		<array>
+		</array>
 		<key>10.13.6-17G66</key>
 		<array>
+			<string>iTunesDeviceSupportHighSierra</string>
 			<string>SafariHighSierra</string>
 			<string>SecurityHighSierra</string>
 			<string>iTunesHighSierra</string>
-		</array>
-		<key>10.13.6-17G11023</key>
-		<array>
 		</array>
 		<key>10.14.6-18G103</key>
 		<array>
@@ -186,19 +188,19 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2020-01-30T00:02:07Z</date>
+	<date>2020-04-01T18:52:20Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.0.5 for High Sierra</string>
+			<string>Safari 13.1 for High Sierra</string>
 			<key>sha1</key>
-			<string>e19b30a340dcd5fcbdbd0e0255da52f4a014f827</string>
+			<string>9d488c10e8ceb448ec5061798fac4187a50ad1cd</string>
 			<key>size</key>
-			<integer>67703069</integer>
+			<integer>66195738</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/15/52/061-55346-A_1BG1GP8ECO/up3nf1cayr9nips82spt7vk34t52e5s9ao/Safari13.0.5HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/46/01/061-46316/xvsfnpjvttr5ah1yuj5mpb5x1vvdtytqsv/Safari13.1HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariMojave</key>
 		<dict>
@@ -214,13 +216,13 @@
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2020-001 (High Sierra)</string>
+			<string>Security Update 2020-002 (High Sierra)</string>
 			<key>sha1</key>
-			<string>387216c6eb45d598c41ef119fdadcddf5d31152b</string>
+			<string>f1e0614796eeaaeefa7fd3065da40ecce0dbab66</string>
 			<key>size</key>
-			<integer>1918790826</integer>
+			<integer>2118928427</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2020/macos/061-64350-20200128-138a02e9-d4ad-4a1f-80e3-a07fc10bef58/SecUpd2020-001HighSierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2020/macos/061-90747-20200319-5ded2636-188e-428b-90e6-2ed1507f6f46/SecUpd2020-002HighSierra.dmg</string>
 		</dict>
 		<key>SecurityMojave</key>
 		<dict>
@@ -243,6 +245,17 @@
 			<integer>938102521</integer>
 			<key>url</key>
 			<string>https://updates.cdn-apple.com/2019/cert/061-41806-20191024-434f1d05-63d4-477f-b70d-d0e716f88e87/SecUpd2019-005Sierra.dmg</string>
+		</dict>
+		<key>iTunesDeviceSupportHighSierra</key>
+		<dict>
+			<key>name</key>
+			<string>iTunes Device Support Update</string>
+			<key>sha1</key>
+			<string>4d348fecbcf1b4fd9815ce208f696cf9eebcc73b</string>
+			<key>size</key>
+			<integer>108344689</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/22/50/041-88833-A_FPTFSMC32I/qeej1aa5si6r7cr6w8d1oapvo29lqlcy5a/MobileDeviceSU.pkg</string>
 		</dict>
 		<key>iTunesHighSierra</key>
 		<dict>
