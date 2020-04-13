@@ -127,7 +127,7 @@
 			<string>18G2022</string>
 			<string>18G3020</string>
 		</array>
-		<key>10.15.4-19E266</key>
+		<key>10.15.4-19E287</key>
 		<array>
 			<string>19A536g</string>
 			<string>19A546d</string>
@@ -138,6 +138,7 @@
 			<string>19B88</string>
 			<string>19C57</string>
 			<string>19D76</string>
+			<string>19E266</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -185,7 +186,7 @@
 		<key>10.14.6-18G4032</key>
 		<array>
 		</array>
-		<key>10.15.4-19E266</key>
+		<key>10.15.4-19E287</key>
 		<array>
 		</array>
 	</dict>
