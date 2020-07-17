@@ -208,13 +208,13 @@
 		<key>SafariMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.1 for Mojave</string>
+			<string>Safari 13.1.2 for Mojave</string>
 			<key>sha1</key>
-			<string>8cac5b042d3ec13626f2ec8115e788b993145fff</string>
+			<string>1a1daae9d64d5cb9ec6e5ff83ac7199d9ca5b0b3</string>
 			<key>size</key>
-			<integer>70521157</integer>
+			<integer>70582305</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/02/03/061-61260/wpceq4s7wuww8z0v8ukjmx4r9dfelkma2f/Safari13.1MojaveAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/38/62/061-98246-A_DETHLIXKPC/njpb63acy0z0rgpdpewxts5rfjlkhtdvcy/Safari13.1.2MojaveAuto.pkg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
