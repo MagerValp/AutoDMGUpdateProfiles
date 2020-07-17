@@ -197,13 +197,13 @@
 		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.1 for High Sierra</string>
+			<string>Safari 13.1.2 for High Sierra</string>
 			<key>sha1</key>
-			<string>9d488c10e8ceb448ec5061798fac4187a50ad1cd</string>
+			<string>3f35ba9769c91d51050d18eef3d1c71bbdca610b</string>
 			<key>size</key>
-			<integer>66195738</integer>
+			<integer>66851148</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/46/01/061-46316/xvsfnpjvttr5ah1yuj5mpb5x1vvdtytqsv/Safari13.1HighSierraAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/33/34/061-96797-A_PBSVGZX5CC/dt6bdxuqhtv0ck6n0ukx62xry7p6svl9bp/Safari13.1.2HighSierraAuto.pkg</string>
 		</dict>
 		<key>SafariMojave</key>
 		<dict>
