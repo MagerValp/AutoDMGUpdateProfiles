@@ -96,9 +96,10 @@
 			<string>17G6030</string>
 			<string>17G7024</string>
 			<string>17G11023</string>
+			<string>17G12034</string>
 			<string>17G65</string>
 		</array>
-		<key>10.14.6-18G4032</key>
+		<key>10.14.6-18G103</key>
 		<array>
 			<string>18A293u</string>
 			<string>18A314h</string>
@@ -123,9 +124,9 @@
 			<string>18G84</string>
 			<string>18G87</string>
 			<string>18G95</string>
-			<string>18G103</string>
 			<string>18G2022</string>
 			<string>18G3020</string>
+			<string>18G4032</string>
 		</array>
 		<key>10.15.4-19E287</key>
 		<array>
@@ -168,7 +169,7 @@
 		<array>
 			<string>SecuritySierra</string>
 		</array>
-		<key>10.13.6-17G12034</key>
+		<key>10.13.6-17G14019</key>
 		<array>
 		</array>
 		<key>10.13.6-17G66</key>
@@ -183,7 +184,7 @@
 			<string>SafariMojave</string>
 			<string>SecurityMojave</string>
 		</array>
-		<key>10.14.6-18G4032</key>
+		<key>10.14.6-18G6020</key>
 		<array>
 		</array>
 		<key>10.15.4-19E287</key>
