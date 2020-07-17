@@ -219,13 +219,13 @@
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2020-002 (High Sierra)</string>
+			<string>Security Update 2020-004 (High Sierra)</string>
 			<key>sha1</key>
-			<string>f1e0614796eeaaeefa7fd3065da40ecce0dbab66</string>
+			<string>98342086c0527a181278779b5d66fddf780a503a</string>
 			<key>size</key>
-			<integer>2118928427</integer>
+			<integer>2113103355</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2020/macos/061-90747-20200319-5ded2636-188e-428b-90e6-2ed1507f6f46/SecUpd2020-002HighSierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2020/macos/001-08573-20200714-0996400b-0c1a-4dc9-9510-274ba6163785/SecUpd2020-004HighSierra.dmg</string>
 		</dict>
 		<key>SecurityMojave</key>
 		<dict>
