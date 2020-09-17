@@ -189,9 +189,15 @@
 		</array>
 		<key>10.14.6-18G6020</key>
 		<array>
+			<string>SafariMojave</string>
 		</array>
 		<key>10.15.6-19G73</key>
 		<array>
+			<string>SafariCatalina</string>
+		</array>
+		<key>10.15.6-19G2021</key>
+		<array>
+			<string>SafariCatalina</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
@@ -219,6 +225,17 @@
 			<integer>68925170</integer>
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/20/07/001-50026-A_8ANV58XVC7/nvqtw8plal39y2598inzzco2ekccgrrkx8/Safari14.0MojaveAuto.pkg</string>
+		</dict>
+		<key>SafariCatalina</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 14.0 for Catalina</string>
+			<key>sha1</key>
+			<string>b2c875435fe249e7a99f53f729eb850960270ae9</string>
+			<key>size</key>
+			<integer>66987931</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/00/48/001-50020-A_14M4NE130Q/q4lojf164rqsmp57dawdtgs25ut2d1j44m/Safari14.0CatalinaAuto.pkg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
