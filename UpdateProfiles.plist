@@ -189,13 +189,19 @@
 		</array>
 		<key>10.14.6-18G6020</key>
 		<array>
+			<string>SafariMojave</string>
 		</array>
 		<key>10.15.6-19G73</key>
 		<array>
+			<string>SafariCatalina</string>
+		</array>
+		<key>10.15.6-19G2021</key>
+		<array>
+			<string>SafariCatalina</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2020-07-18T22:17:41Z</date>
+	<date>2020-09-17T13:14:13Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariHighSierra</key>
@@ -212,13 +218,24 @@
 		<key>SafariMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 13.1.2 for Mojave</string>
+			<string>Safari 14.0 for Mojave</string>
 			<key>sha1</key>
-			<string>1a1daae9d64d5cb9ec6e5ff83ac7199d9ca5b0b3</string>
+			<string>418f24cdb5c0d372c71ad595a5bda2c87247e65b</string>
 			<key>size</key>
-			<integer>70582305</integer>
+			<integer>68925170</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/38/62/061-98246-A_DETHLIXKPC/njpb63acy0z0rgpdpewxts5rfjlkhtdvcy/Safari13.1.2MojaveAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/20/07/001-50026-A_8ANV58XVC7/nvqtw8plal39y2598inzzco2ekccgrrkx8/Safari14.0MojaveAuto.pkg</string>
+		</dict>
+		<key>SafariCatalina</key>
+		<dict>
+			<key>name</key>
+			<string>Safari 14.0 for Catalina</string>
+			<key>sha1</key>
+			<string>b2c875435fe249e7a99f53f729eb850960270ae9</string>
+			<key>size</key>
+			<integer>66987931</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/00/48/001-50020-A_14M4NE130Q/q4lojf164rqsmp57dawdtgs25ut2d1j44m/Safari14.0CatalinaAuto.pkg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
