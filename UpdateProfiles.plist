@@ -128,7 +128,7 @@
 			<string>18G3020</string>
 			<string>18G4032</string>
 		</array>
-		<key>10.15.6-19G73</key>
+		<key>10.15.7-19H2</key>
 		<array>
 			<string>19A536g</string>
 			<string>19A546d</string>
@@ -143,6 +143,8 @@
 			<string>19E287</string>
 			<string>19F96</string>
 			<string>19F101</string>
+			<string>19G73</string>
+			<string>19G2021</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -191,17 +193,13 @@
 		<array>
 			<string>SafariMojave</string>
 		</array>
-		<key>10.15.6-19G73</key>
-		<array>
-			<string>SafariCatalina</string>
-		</array>
-		<key>10.15.6-19G2021</key>
+		<key>10.15.7-19H2</key>
 		<array>
 			<string>SafariCatalina</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2020-09-17T13:14:13Z</date>
+	<date>2020-09-26T13:58:00Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariHighSierra</key>
@@ -240,24 +238,24 @@
 		<key>SecurityHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2020-004 (High Sierra)</string>
+			<string>Security Update 2020-005 (High Sierra)</string>
 			<key>sha1</key>
-			<string>98342086c0527a181278779b5d66fddf780a503a</string>
+			<string>ccc73c56dd34fa65cae9af69d114d06d629437ed</string>
 			<key>size</key>
-			<integer>2113103355</integer>
+			<integer>2115552210</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2020/macos/001-08573-20200714-0996400b-0c1a-4dc9-9510-274ba6163785/SecUpd2020-004HighSierra.dmg</string>
+			<string>https://updates.cdn-apple.com/2020/macos/001-48383-20200924-dfcdb1e6-e5c7-47bf-883c-0808ac829113/SecUpd2020-005HighSierra.dmg</string>
 		</dict>
 		<key>SecurityMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2020-004 (Mojave)</string>
+			<string>Security Update 2020-005 (Mojave)</string>
 			<key>sha1</key>
-			<string>6f99b6bf8985dd78b905fc19bab1d87afdfe9e8c</string>
+			<string>0e63b31c08acfd4d3b85edd8da8dfc41346f1357</string>
 			<key>size</key>
-			<integer>1685198396</integer>
+			<integer>1685643621</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2020/macos/001-26310-20200714-e6a25de7-33b9-46eb-bb7d-cbdacda4f7dc/SecUpd2020-004Mojave.dmg</string>
+			<string>https://updates.cdn-apple.com/2020/macos/001-48329-20200924-122a4260-eb65-4492-b08e-f69dfa22c2dc/SecUpd2020-005Mojave.dmg</string>
 		</dict>
 		<key>SecuritySierra</key>
 		<dict>
