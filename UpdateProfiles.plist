@@ -216,13 +216,13 @@
 		<key>SafariMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 14.0 for Mojave</string>
+			<string>macOS Mojave 10.14.6 Supplemental Update</string>
 			<key>sha1</key>
-			<string>418f24cdb5c0d372c71ad595a5bda2c87247e65b</string>
+			<string>58dc3047f1f168cf0ca4f05cf64fd9cf3f4e0293</string>
 			<key>size</key>
-			<integer>68925170</integer>
+			<integer>68925626</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/20/07/001-50026-A_8ANV58XVC7/nvqtw8plal39y2598inzzco2ekccgrrkx8/Safari14.0MojaveAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/08/46/001-55225-A_FKPERA412C/z81r8bvj47p12e0pvcz9dj33l43z7h201b/Safari14.0MojaveAuto.pkg</string>
 		</dict>
 		<key>SafariCatalina</key>
 		<dict>
