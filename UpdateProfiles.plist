@@ -187,7 +187,7 @@
 		<key>10.14.6-18G103</key>
 		<array>
 			<string>SecurityMojave</string>
-			<string>SafariMojave</string>
+			<string>SupplementalMojave</string>
 		</array>
 		<key>10.14.6-18G6020</key>
 		<array>
@@ -199,7 +199,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2020-09-26T13:58:00Z</date>
+	<date>2020-10-07T13:13:00Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariHighSierra</key>
@@ -213,7 +213,7 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/33/34/061-96797-A_PBSVGZX5CC/dt6bdxuqhtv0ck6n0ukx62xry7p6svl9bp/Safari13.1.2HighSierraAuto.pkg</string>
 		</dict>
-		<key>SafariMojave</key>
+		<key>SupplementalMojave</key>
 		<dict>
 			<key>name</key>
 			<string>macOS Mojave 10.14.6 Supplemental Update</string>
