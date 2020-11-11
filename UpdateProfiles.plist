@@ -202,28 +202,6 @@
 	<date>2020-11-10T20:25:44Z</date>
 	<key>Updates</key>
 	<dict>
-		<key>SafariHighSierra</key>
-		<dict>
-			<key>name</key>
-			<string>Safari 13.1.2 for High Sierra</string>
-			<key>sha1</key>
-			<string>3f35ba9769c91d51050d18eef3d1c71bbdca610b</string>
-			<key>size</key>
-			<integer>66851148</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/33/34/061-96797-A_PBSVGZX5CC/dt6bdxuqhtv0ck6n0ukx62xry7p6svl9bp/Safari13.1.2HighSierraAuto.pkg</string>
-		</dict>
-		<key>SupplementalMojave</key>
-		<dict>
-			<key>name</key>
-			<string>macOS Mojave 10.14.6 Supplemental Update</string>
-			<key>sha1</key>
-			<string>58dc3047f1f168cf0ca4f05cf64fd9cf3f4e0293</string>
-			<key>size</key>
-			<integer>68925626</integer>
-			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/08/46/001-55225-A_FKPERA412C/z81r8bvj47p12e0pvcz9dj33l43z7h201b/Safari14.0MojaveAuto.pkg</string>
-		</dict>
 		<key>SafariCatalina</key>
 		<dict>
 			<key>name</key>
@@ -235,16 +213,16 @@
 			<key>url</key>
 			<string>http://swcdn.apple.com/content/downloads/00/48/001-50020-A_14M4NE130Q/q4lojf164rqsmp57dawdtgs25ut2d1j44m/Safari14.0CatalinaAuto.pkg</string>
 		</dict>
-		<key>SupplementalCatalina</key>
+		<key>SafariHighSierra</key>
 		<dict>
 			<key>name</key>
-			<string>macOS Catalina 10.15.7 Supplemental Update</string>
+			<string>Safari 13.1.2 for High Sierra</string>
 			<key>sha1</key>
-			<string>23a740a2146e976a2bf7752195a4f744c40f9187</string>
+			<string>3f35ba9769c91d51050d18eef3d1c71bbdca610b</string>
 			<key>size</key>
-			<integer>1222040585</integer>
+			<integer>66851148</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2020/macos/001-69961-20201103-fe1663ca-c874-4f17-b1ee-07b1dce871ab/macOSUpd10.15.7Supplemental.dmg</string>
+			<string>http://swcdn.apple.com/content/downloads/33/34/061-96797-A_PBSVGZX5CC/dt6bdxuqhtv0ck6n0ukx62xry7p6svl9bp/Safari13.1.2HighSierraAuto.pkg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
@@ -278,6 +256,28 @@
 			<integer>938102521</integer>
 			<key>url</key>
 			<string>https://updates.cdn-apple.com/2019/cert/061-41806-20191024-434f1d05-63d4-477f-b70d-d0e716f88e87/SecUpd2019-005Sierra.dmg</string>
+		</dict>
+		<key>SupplementalCatalina</key>
+		<dict>
+			<key>name</key>
+			<string>macOS Catalina 10.15.7 Supplemental Update</string>
+			<key>sha1</key>
+			<string>23a740a2146e976a2bf7752195a4f744c40f9187</string>
+			<key>size</key>
+			<integer>1222040585</integer>
+			<key>url</key>
+			<string>https://updates.cdn-apple.com/2020/macos/001-69961-20201103-fe1663ca-c874-4f17-b1ee-07b1dce871ab/macOSUpd10.15.7Supplemental.dmg</string>
+		</dict>
+		<key>SupplementalMojave</key>
+		<dict>
+			<key>name</key>
+			<string>macOS Mojave 10.14.6 Supplemental Update</string>
+			<key>sha1</key>
+			<string>58dc3047f1f168cf0ca4f05cf64fd9cf3f4e0293</string>
+			<key>size</key>
+			<integer>68925626</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/08/46/001-55225-A_FKPERA412C/z81r8bvj47p12e0pvcz9dj33l43z7h201b/Safari14.0MojaveAuto.pkg</string>
 		</dict>
 		<key>iTunesDeviceSupportHighSierra</key>
 		<dict>
