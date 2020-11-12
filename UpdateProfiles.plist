@@ -128,7 +128,7 @@
 			<string>18G3020</string>
 			<string>18G4032</string>
 		</array>
-		<key>10.15.7-19H2</key>
+		<key>10.15.7-19H15</key>
 		<array>
 			<string>19A536g</string>
 			<string>19A546d</string>
@@ -145,6 +145,8 @@
 			<string>19F101</string>
 			<string>19G73</string>
 			<string>19G2021</string>
+			<string>19H2</string>
+			<string>19H4</string>
 		</array>
 	</dict>
 	<key>DeprecatedOSVersions</key>
@@ -191,14 +193,13 @@
 		<key>10.14.6-18G6020</key>
 		<array>
 		</array>
-		<key>10.15.7-19H2</key>
+		<key>10.15.7-19H15</key>
 		<array>
-			<string>SupplementalCatalina</string>
 			<string>SafariCatalina</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2020-11-11T06:45:42Z</date>
+	<date>2020-11-11T23:16:44Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariCatalina</key>
@@ -255,17 +256,6 @@
 			<integer>938102521</integer>
 			<key>url</key>
 			<string>https://updates.cdn-apple.com/2019/cert/061-41806-20191024-434f1d05-63d4-477f-b70d-d0e716f88e87/SecUpd2019-005Sierra.dmg</string>
-		</dict>
-		<key>SupplementalCatalina</key>
-		<dict>
-			<key>name</key>
-			<string>macOS Catalina 10.15.7 Supplemental Update</string>
-			<key>sha1</key>
-			<string>23a740a2146e976a2bf7752195a4f744c40f9187</string>
-			<key>size</key>
-			<integer>1222040585</integer>
-			<key>url</key>
-			<string>https://updates.cdn-apple.com/2020/macos/001-69961-20201103-fe1663ca-c874-4f17-b1ee-07b1dce871ab/macOSUpd10.15.7Supplemental.dmg</string>
 		</dict>
 		<key>iTunesDeviceSupportHighSierra</key>
 		<dict>
