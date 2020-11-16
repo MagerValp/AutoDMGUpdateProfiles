@@ -199,19 +199,19 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2020-11-11T23:16:44Z</date>
+	<date>2020-11-16T16:21:44Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariCatalina</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 14.0 for Catalina</string>
+			<string>Safari 14.0.1 for Catalina</string>
 			<key>sha1</key>
-			<string>b2c875435fe249e7a99f53f729eb850960270ae9</string>
+			<string>ad7611062e1c6b55e96352109f577dc0af41daa5</string>
 			<key>size</key>
-			<integer>66987931</integer>
+			<integer>67156619</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/00/48/001-50020-A_14M4NE130Q/q4lojf164rqsmp57dawdtgs25ut2d1j44m/Safari14.0CatalinaAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/00/21/001-82587/umn4jh9un8hfmun0asal10fetgp79trpw0/Safari14.0.1CatalinaAuto.pkg</string>
 		</dict>
 		<key>SafariHighSierra</key>
 		<dict>
