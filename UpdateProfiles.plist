@@ -201,19 +201,19 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2021-02-10T17:41:44Z</date>
+	<date>2021-03-09T16:20:44Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariCatalina</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 14.0.3 for Catalina</string>
+			<string>Safari 14.0.3* for Catalina</string>
 			<key>sha1</key>
-			<string>ecd056d15d90469dd435838c6e6e0143a334ad60</string>
+			<string>efed52ce0f4db8b7a69bbe0e50b9c8f25989c465</string>
 			<key>size</key>
-			<integer>83375420</integer>
+			<integer>83373726</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/50/26/071-03270-A_GJPM2L0AB0/ktfbkvzeaa5k8ppaxfl1gbmfcjbgorrpw5/Safari14.0.3CatalinaAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/15/11/071-10831-A_F9U2DK6CTY/iiqyne50g2xt78rc08bnt49yykpo4n3cg7/Safari14.0.3CatalinaAuto.pkg</string>
 		</dict>
 		<key>SafariHighSierra</key>
 		<dict>
@@ -229,13 +229,13 @@
 		<key>SafariMojave</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 14.0.3 for Mojave</string>
+			<string>Safari 14.0.3* for Mojave</string>
 			<key>sha1</key>
-			<string>4003034cf8a5e91b831387d7f4074789c48e849e</string>
+			<string>90b23aa00b631efee712d9baef6e948cb4091deb</string>
 			<key>size</key>
-			<integer>85316209</integer>
+			<integer>85320275</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/11/29/001-84810-A_C5VAXC16QW/ovsfkhzxxe6k30ii1elcuvkt5z1k9viico/Safari14.0.3MojaveAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/44/11/071-10830-A_HVHGD91GPY/cr9a8oy39eao60prj4iwtho4s7w7l5cmm7/Safari14.0.3MojaveAuto.pkg</string>
 		</dict>
 		<key>SecurityCatalina</key>
 		<dict>
