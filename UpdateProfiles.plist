@@ -201,19 +201,19 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2021-12-05T15:57:44Z</date>
+	<date>2021-12-15T20:57:44Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>SafariCatalina</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 15.1 for Catalina</string>
+			<string>Safari 15.2 for Catalina</string>
 			<key>sha1</key>
-			<string>9a838b9d7cb3992c8a85bfb286281aaad5a85bc2</string>
+			<string>3214f1b5bcae62aba807a209fa5a781222f75872</string>
 			<key>size</key>
-			<integer>92343211</integer>
+			<integer>92638892</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/05/36/002-16258-A_B8Z6QT54QX/rb4hqw6b4r1384evs9kmq2aneej8q5ltt5/Safari15.1CatalinaAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/33/11/002-44142-A_0W1ET0CYNB/im20cl2wz9d415rd0a548iwn0kyhqflj7h/Safari15.2CatalinaAuto.pkg</string>
 		</dict>
 		<key>SafariHighSierra</key>
 		<dict>
@@ -240,13 +240,13 @@
 		<key>SecurityCatalina</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2021-007 (Catalina)</string>
+			<string>Security Update 2021-008 (Catalina)</string>
 			<key>sha1</key>
-			<string>cfe93181698b6dcbe620db3039a58538c97c1d4f</string>
+			<string>d686ab4f12ebf3392804c6f9ab420976ef926ca9</string>
 			<key>size</key>
-			<integer>1492096744</integer>
+			<integer>1514921695</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2021/macos/002-23746-20211020-C02DF784-3A8C-4D27-9C9F-79EF0010FE42/SecUpd2021-007Catalina.dmg</string>
+			<string>https://updates.cdn-apple.com/2021/macos/002-31089-20211207-DAABD443-A610-4522-A54D-3EEFCE16EA81/SecUpd2021-008CatalinaManual.dmg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
