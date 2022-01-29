@@ -198,22 +198,46 @@
 		<array>
 			<string>SecurityCatalina</string>
 			<string>SafariCatalina</string>
+			<string>DeviceSupport1Catalina</string>
+			<string>DeviceSupport2Catalina</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2021-12-15T20:57:44Z</date>
+	<date>2022-01-29T16:00:44Z</date>
 	<key>Updates</key>
 	<dict>
+		<key>DeviceSupport1Catalina</key>
+		<dict>
+			<key>name</key>
+			<string>Device Support Update (CoreTypes.pkg)</string>
+			<key>sha1</key>
+			<string>1828d6181569a0f7bb06465113f6899f400be0cc</string>
+			<key>size</key>
+			<integer>186456407</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/60/24/002-15367-A_MA86KNTLQ0/u91qgvohbwkxykwe0u6oj9mlxdfdqt4ai5/CoreTypes.pkg</string>
+		</dict>
+		<key>DeviceSupport2Catalina</key>
+		<dict>
+			<key>name</key>
+			<string>Device Support Update (MobileDeviceSU2.pkg)</string>
+			<key>sha1</key>
+			<string>d74eee20c95d9bb8d889be0fa224c6b6a6375a38</string>
+			<key>size</key>
+			<integer>9157962</integer>
+			<key>url</key>
+			<string>http://swcdn.apple.com/content/downloads/60/24/002-15367-A_MA86KNTLQ0/u91qgvohbwkxykwe0u6oj9mlxdfdqt4ai5/MobileDeviceSU2.pkg</string>
+		</dict>
 		<key>SafariCatalina</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 15.2 for Catalina</string>
+			<string>Safari 15.3 for Catalina</string>
 			<key>sha1</key>
-			<string>3214f1b5bcae62aba807a209fa5a781222f75872</string>
+			<string>628ca264b3c7c1ee600e9d2814039a37ebcb82cc</string>
 			<key>size</key>
-			<integer>92638892</integer>
+			<integer>92665062</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/33/11/002-44142-A_0W1ET0CYNB/im20cl2wz9d415rd0a548iwn0kyhqflj7h/Safari15.2CatalinaAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/26/22/002-55628-A_1VLDC3LHDM/pcelahb6q0fqenbfoax3wvkqk03arnx7hc/Safari15.3CatalinaAuto.pkg</string>
 		</dict>
 		<key>SafariHighSierra</key>
 		<dict>
@@ -240,13 +264,13 @@
 		<key>SecurityCatalina</key>
 		<dict>
 			<key>name</key>
-			<string>Security Update 2021-008 (Catalina)</string>
+			<string>Security Update 2022-001 (Catalina)</string>
 			<key>sha1</key>
-			<string>d686ab4f12ebf3392804c6f9ab420976ef926ca9</string>
+			<string>10447a85d187615726b334a4b38be9faeabc57eb</string>
 			<key>size</key>
-			<integer>1514921695</integer>
+			<integer>1515250597</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2021/macos/002-31089-20211207-DAABD443-A610-4522-A54D-3EEFCE16EA81/SecUpd2021-008CatalinaManual.dmg</string>
+			<string>https://updates.cdn-apple.com/2022/macos/002-56999-20220125-DF55B049-F69C-429C-A119-C2E647FD97F5/SecUpd2022-001Catalina.dmg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
