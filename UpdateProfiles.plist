@@ -203,7 +203,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2022-01-29T16:00:44Z</date>
+	<date>2022-02-28T16:17:44Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>DeviceSupport1Catalina</key>
@@ -233,11 +233,11 @@
 			<key>name</key>
 			<string>Safari 15.3 for Catalina</string>
 			<key>sha1</key>
-			<string>628ca264b3c7c1ee600e9d2814039a37ebcb82cc</string>
+			<string>accce40e53fd7b3be7f82c622021f50fd295664f</string>
 			<key>size</key>
-			<integer>92665062</integer>
+			<integer>92659394</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/26/22/002-55628-A_1VLDC3LHDM/pcelahb6q0fqenbfoax3wvkqk03arnx7hc/Safari15.3CatalinaAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/37/36/002-66034-A_46UFJIIHKN/rm0oq26tnrdrhgeokn8vcfoydrt4zi19an/Safari15.3CatalinaAuto.pkg</string>
 		</dict>
 		<key>SafariHighSierra</key>
 		<dict>
@@ -266,11 +266,11 @@
 			<key>name</key>
 			<string>Security Update 2022-001 (Catalina)</string>
 			<key>sha1</key>
-			<string>10447a85d187615726b334a4b38be9faeabc57eb</string>
+			<string>bff00d7ae18be414f680080123b769eea84b05c5</string>
 			<key>size</key>
-			<integer>1515250597</integer>
+			<integer>1515196372</integer>
 			<key>url</key>
-			<string>https://updates.cdn-apple.com/2022/macos/002-56999-20220125-DF55B049-F69C-429C-A119-C2E647FD97F5/SecUpd2022-001Catalina.dmg</string>
+			<string>https://updates.cdn-apple.com/2022/macos/002-65662-20220207-020EE03D-1CD0-4668-B1B4-BA80116C72A2/SecUpd2022-002CatalinaManual.dmg</string>
 		</dict>
 		<key>SecurityHighSierra</key>
 		<dict>
