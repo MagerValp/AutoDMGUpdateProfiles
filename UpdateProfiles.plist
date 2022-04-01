@@ -203,7 +203,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2022-03-21T23:17:15Z</date>
+	<date>2022-04-01T17:13:08Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>DeviceSupport1Catalina</key>
@@ -231,13 +231,13 @@
 		<key>SafariCatalina</key>
 		<dict>
 			<key>name</key>
-			<string>Safari 15.4 for Catalina</string>
+			<string>Safari 15.4 (re-release) for Catalina</string>
 			<key>sha1</key>
-			<string>00a9bfad2fc1ef8fd4c51244f2cb6de11dab4f0c</string>
+			<string>a29989b22255eb14c85570f7eb932183a05127d5</string>
 			<key>size</key>
-			<integer>93621452</integer>
+			<integer>93619177</integer>
 			<key>url</key>
-			<string>http://swcdn.apple.com/content/downloads/38/11/002-79202-A_MMXLIHTSU2/nka279pyfdmd11tm36dds4jysecfq7b732/Safari15.4CatalinaAuto.pkg</string>
+			<string>http://swcdn.apple.com/content/downloads/25/34/002-83506-A_0FVTHWXTXJ/9ipp8rhxtcyzjg9pdxekzznprkx48ssbo1/Safari15.4CatalinaAuto.pkg</string>
 		</dict>
 		<key>SafariHighSierra</key>
 		<dict>
